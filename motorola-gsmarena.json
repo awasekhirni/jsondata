@@ -1,0 +1,352 @@
+ [
+            {
+                "id": 8699,
+                "name": "Moto G5S Plus",
+                "slug": "motorola_moto_g5s_plus-8699",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g5s.jpg",
+                "description": "Motorola Moto G5S Plus Android smartphone. Announced 2017, August. Features 3G, 5.5″ IPS LCD capacitive touchscreen, Dual 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8698,
+                "name": "Moto G5S",
+                "slug": "motorola_moto_g5s-8698",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g5s-plus.jpg",
+                "description": "Motorola Moto G5S Android smartphone. Announced 2017, August. Features 3G, 5.2″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8693,
+                "name": "Moto Z2 Force",
+                "slug": "motorola_moto_z2_force-8693",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z2-force-.jpg",
+                "description": "Motorola Moto Z2 Force Android smartphone. Announced 2017, July. Features 3G, 5.5″ P-OLED capacitive touchscreen, Dual 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8722,
+                "name": "Moto E4 Plus",
+                "slug": "motorola_moto_e4_plus-8722",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e4-plus.jpg",
+                "description": "Motorola Moto E4 Plus Android smartphone. Announced 2017, June. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8666,
+                "name": "Moto E4 Plus (USA)",
+                "slug": "motorola_moto_e4_plus_(usa)-8666",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e4-plus-usa.jpg",
+                "description": "Motorola Moto E4 Plus (USA) Android smartphone. Announced 2017, June. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8721,
+                "name": "Moto E4",
+                "slug": "motorola_moto_e4-8721",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e4.jpg",
+                "description": "Motorola Moto E4 Android smartphone. Announced 2017, June. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8665,
+                "name": "Moto E4 (USA)",
+                "slug": "motorola_moto_e4_(usa)-8665",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e4-usa.jpg",
+                "description": "Motorola Moto E4 (USA) Android smartphone. Announced 2017, June. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8674,
+                "name": "Moto Z2 Play",
+                "slug": "motorola_moto_z2_play-8674",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z2-play.jpg",
+                "description": "Motorola Moto Z2 Play Android smartphone. Announced 2017, June. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8646,
+                "name": "Moto C Plus",
+                "slug": "motorola_moto_c_plus-8646",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-c-plus-.jpg",
+                "description": "Motorola Moto C Plus Android smartphone. Announced 2017, May. Features 3G, 5.0″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8645,
+                "name": "Moto C",
+                "slug": "motorola_moto_c-8645",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-c.jpg",
+                "description": "Motorola Moto C Android smartphone. Announced 2017, May. Features 3G, 5.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8453,
+                "name": "Moto G5 Plus",
+                "slug": "motorola_moto_g5_plus-8453",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g5-plus1.jpg",
+                "description": "Motorola Moto G5 Plus Android smartphone. Announced 2017, February. Features 3G, 5.2″ IPS LCD capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8454,
+                "name": "Moto G5",
+                "slug": "motorola_moto_g5-8454",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g5-r1.jpg",
+                "description": "Motorola Moto G5 Android smartphone. Announced 2017, February. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8299,
+                "name": "Moto M",
+                "slug": "motorola_moto_m-8299",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-m.jpg",
+                "description": "Motorola Moto M Android smartphone. Announced 2016, November. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8337,
+                "name": "Moto E3 Power",
+                "slug": "motorola_moto_e3_power-8337",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e3.jpg",
+                "description": "Motorola Moto E3 Power Android smartphone. Announced 2016, September. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8310,
+                "name": "Moto Z Play",
+                "slug": "motorola_moto_z_play-8310",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z-play.jpg",
+                "description": "Motorola Moto Z Play Android smartphone. Announced 2016, August. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8198,
+                "name": "Moto E3",
+                "slug": "motorola_moto_e3-8198",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e3.jpg",
+                "description": "Motorola Moto E3 Android smartphone. Announced 2016, July. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8093,
+                "name": "Moto Z Force",
+                "slug": "motorola_moto_z_force-8093",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z-force.jpg",
+                "description": "Motorola Moto Z Force Android smartphone. Announced 2016, June. Features 3G, 5.5″ AMOLED capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8094,
+                "name": "Moto Z",
+                "slug": "motorola_moto_z-8094",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z.jpg",
+                "description": "Motorola Moto Z Android smartphone. Announced 2016, June. Features 3G, 5.5″ AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8050,
+                "name": "Moto G4 Plus",
+                "slug": "motorola_moto_g4_plus-8050",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g4-plus-r.jpg",
+                "description": "Motorola Moto G4 Plus Android smartphone. Announced 2016, May. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8103,
+                "name": "Moto G4",
+                "slug": "motorola_moto_g4-8103",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g4-.jpg",
+                "description": "Motorola Moto G4 Android smartphone. Announced 2016, May. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8104,
+                "name": "Moto G4 Play",
+                "slug": "motorola_moto_g4_play-8104",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g4-play.jpg",
+                "description": "Motorola Moto G4 Play Android smartphone. Announced 2016, May. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7743,
+                "name": "Moto G Turbo Edition",
+                "slug": "motorola_moto_g_turbo_edition-7743",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-turbo-edition-.jpg",
+                "description": "Motorola Moto G Turbo Edition Android smartphone. Announced 2015, November. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7555,
+                "name": "Moto X Force",
+                "slug": "motorola_moto_x_force-7555",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-x-force1.jpg",
+                "description": "Motorola Moto X Force Android smartphone. Announced 2015, November. Features 3G, 5.4″ AMOLED capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7713,
+                "name": "Droid Turbo 2",
+                "slug": "motorola_droid_turbo_2-7713",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-droid-turbo-2.jpg",
+                "description": "Motorola Droid Turbo 2 Android smartphone. Announced 2015, October. Features 3G, 5.4″ AMOLED capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7712,
+                "name": "Droid Maxx 2",
+                "slug": "motorola_droid_maxx_2-7712",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-droid-maxx-2.jpg",
+                "description": "Motorola Droid Maxx 2 Android smartphone. Announced 2015, October. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7229,
+                "name": "Moto X Style",
+                "slug": "motorola_moto_x_style-7229",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/moto-x-style-r.jpg",
+                "description": "Motorola Moto X Style Android smartphone. Announced 2015, July. Features 3G, 5.7″ IPS LCD capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7470,
+                "name": "Moto X Play Dual SIM",
+                "slug": "motorola_moto_x_play_dual_sim-7470",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/moto-x-play-r.jpg",
+                "description": "Motorola Moto X Play Dual SIM Android smartphone. Announced 2015, July. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7454,
+                "name": "Moto X Play",
+                "slug": "motorola_moto_x_play-7454",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/moto-x-play-r.jpg",
+                "description": "Motorola Moto X Play Android smartphone. Announced 2015, July. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7469,
+                "name": "Moto G Dual SIM (3rd gen)",
+                "slug": "motorola_moto_g_dual_sim_(3rd_gen)-7469",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-3rd-gen-r.jpg",
+                "description": "Motorola Moto G Dual SIM (3rd gen) Android smartphone. Announced 2015, July. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7685,
+                "name": "Moto 360 Sport (1st gen)",
+                "slug": "motorola_moto_360_sport_(1st_gen)-7685",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-360-sport.jpg",
+                "description": "Motorola Moto 360 Sport (1st gen) Android smartphone. Announced 2015, September. Features 1.37″ IPS LCD capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7683,
+                "name": "Moto 360 46mm (2nd gen)",
+                "slug": "motorola_moto_360_46mm_(2nd_gen)-7683",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-360-2015-new.jpg",
+                "description": "Motorola Moto 360 46mm (2nd gen) Android smartphone. Announced 2015, September. Features 1.56″ IPS LCD capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7684,
+                "name": "Moto 360 42mm (2nd gen)",
+                "slug": "motorola_moto_360_42mm_(2nd_gen)-7684",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-360-42mm-2015.jpg",
+                "description": "Motorola Moto 360 42mm (2nd gen) Android smartphone. Announced 2015, September. Features 1.37″ IPS LCD capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7682,
+                "name": "Moto 360 (1st gen)",
+                "slug": "motorola_moto_360_(1st_gen)-7682",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-360-2014.jpg",
+                "description": "Motorola Moto 360 (1st gen) Android smartphone. Announced 2014, September. Features 1.56″ IPS LCD capacitive touchscreen, Bluetooth."
+            },
+            {
+                "id": 7247,
+                "name": "Moto G (3rd gen)",
+                "slug": "motorola_moto_g_(3rd_gen)-7247",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-3rd-gen-r.jpg",
+                "description": "Motorola Moto G (3rd gen) Android smartphone. Announced 2015, July. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7222,
+                "name": "Moto E Dual SIM (2nd gen)",
+                "slug": "motorola_moto_e_dual_sim_(2nd_gen)-7222",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e-2nd-gen-xt1521.jpg",
+                "description": "Motorola Moto E Dual SIM (2nd gen) Android smartphone. Announced 2015, March. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6986,
+                "name": "Moto E (2nd gen)",
+                "slug": "motorola_moto_e_(2nd_gen)-6986",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e-2015.jpg",
+                "description": "Motorola Moto E (2nd gen) Android smartphone. Announced 2015, February. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7137,
+                "name": "Moto G 4G (2nd gen)",
+                "slug": "motorola_moto_g_4g_(2nd_gen)-7137",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-4g-2015.jpg",
+                "description": "Motorola Moto G 4G (2nd gen) Android smartphone. Announced 2015, March. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6991,
+                "name": "Moto G 4G Dual SIM (2nd gen)",
+                "slug": "motorola_moto_g_4g_dual_sim_(2nd_gen)-6991",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-4g-2015.jpg",
+                "description": "Motorola Moto G 4G Dual SIM (2nd gen) Android smartphone. Announced 2015, January. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6779,
+                "name": "Moto Maxx",
+                "slug": "motorola_moto_maxx-6779",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-maxx.jpg",
+                "description": "Motorola Moto Maxx Android smartphone. Announced 2014, November. Features 3G, 5.2″ OLED capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6727,
+                "name": "DROID Turbo",
+                "slug": "motorola_droid_turbo-6727",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-droid-turbo.jpg",
+                "description": "Motorola DROID Turbo Android smartphone. Announced 2014, October. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6604,
+                "name": "Nexus 6",
+                "slug": "motorola_nexus_6-6604",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/moto-nexus-6.jpg",
+                "description": "Motorola Nexus 6 Android smartphone. Announced 2014, October. Features 3G, 5.96″ AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6649,
+                "name": "Moto X (2nd Gen)",
+                "slug": "motorola_moto_x_(2nd_gen)-6649",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-x-2014.jpg",
+                "description": "Motorola Moto X (2nd Gen) Android smartphone. Announced 2014, September. Features 3G, 5.2″ AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6648,
+                "name": "Moto G Dual SIM (2nd gen)",
+                "slug": "motorola_moto_g_dual_sim_(2nd_gen)-6648",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-2014.jpg",
+                "description": "Motorola Moto G Dual SIM (2nd gen) Android smartphone. Announced 2014, September. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6647,
+                "name": "Moto G (2nd gen)",
+                "slug": "motorola_moto_g_(2nd_gen)-6647",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-2014.jpg",
+                "description": "Motorola Moto G (2nd gen) Android smartphone. Announced 2014, September. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6355,
+                "name": "Moto G 4G",
+                "slug": "motorola_moto_g_4g-6355",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-4g-lte.jpg",
+                "description": "Motorola Moto G 4G Android smartphone. Announced 2014, May. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6806,
+                "name": "Luge",
+                "slug": "motorola_luge-6806",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-luge.jpg",
+                "description": "Motorola Luge Android smartphone. Announced 2014, August. Features 3G, 4.3″ Super AMOLED Advanced capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6376,
+                "name": "Moto E",
+                "slug": "motorola_moto_e-6376",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e.jpg",
+                "description": "Motorola Moto E Android smartphone. Announced 2014, May. Features 3G, 4.3″ IPS LCD display, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6323,
+                "name": "Moto E Dual SIM",
+                "slug": "motorola_moto_e_dual_sim-6323",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e.jpg",
+                "description": "Motorola Moto E Dual SIM Android smartphone. Announced 2014, May. Features 3G, 4.3″ IPS LCD display, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5978,
+                "name": "Moto G Dual SIM",
+                "slug": "motorola_moto_g_dual_sim-5978",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-ofic.jpg",
+                "description": "Motorola Moto G Dual SIM Android smartphone. Announced 2014, January. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5831,
+                "name": "Moto G",
+                "slug": "motorola_moto_g-5831",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-ofic.jpg",
+                "description": "Motorola Moto G Android smartphone. Announced 2013, November. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            }
+        ]
