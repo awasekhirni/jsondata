@@ -1,0 +1,282 @@
+ [
+            {
+                "id": 8717,
+                "name": "iPad Pro 12.9",
+                "slug": "apple_ipad_pro_12_9-8717",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-129-2017.jpg",
+                "description": "Apple iPad Pro 12.9 tablet. Announced 2017, June. Features 3G, 12.9″ LED-backlit IPS LCD display, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8716,
+                "name": "iPad Pro 10.5",
+                "slug": "apple_ipad_pro_10_5-8716",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-105-2017.jpg",
+                "description": "Apple iPad Pro 10.5 tablet. Announced 2017, June. Features 3G, 10.5″ LED-backlit IPS LCD display, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8620,
+                "name": "iPad 9.7",
+                "slug": "apple_ipad_9_7-8620",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-97-2017.jpg",
+                "description": "Apple iPad 9.7 tablet. Announced 2017, March. Features 3G, 9.7″ LED-backlit IPS LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8331,
+                "name": "Watch Edition Series 2 42mm",
+                "slug": "apple_watch_edition_series_2_42mm-8331",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch2-edition-42mm.jpg",
+                "description": "Apple Watch Edition Series 2 42mm smartphone. Announced 2016, September. Features 1.65″ AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8332,
+                "name": "Watch Edition Series 2 38mm",
+                "slug": "apple_watch_edition_series_2_38mm-8332",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-edition-38mm.jpg",
+                "description": "Apple Watch Edition Series 2 38mm smartphone. Announced 2016, September. Features 1.5″ AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8329,
+                "name": "Watch Series 2 42mm",
+                "slug": "apple_watch_series_2_42mm-8329",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-42mm.jpg",
+                "description": "Apple Watch Series 2 42mm smartphone. Announced 2016, September. Features 1.65″ AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8330,
+                "name": "Watch Series 2 38mm",
+                "slug": "apple_watch_series_2_38mm-8330",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-38mm.jpg",
+                "description": "Apple Watch Series 2 38mm smartphone. Announced 2016, September. Features 1.5″ AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8328,
+                "name": "Watch Series 2 Sport 42mm",
+                "slug": "apple_watch_series_2_sport_42mm-8328",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-42mm.jpg",
+                "description": "Apple Watch Series 2 Sport 42mm smartphone. Announced 2016, September. Features 1.65″ AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8334,
+                "name": "Watch Series 1 Sport 42mm",
+                "slug": "apple_watch_series_1_sport_42mm-8334",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch1-sport-42mm.jpg",
+                "description": "Apple Watch Series 1 Sport 42mm smartphone. Announced 2016, September. Features 1.65″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 8327,
+                "name": "Watch Series 2 Sport 38mm",
+                "slug": "apple_watch_series_2_sport_38mm-8327",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-38mm.jpg",
+                "description": "Apple Watch Series 2 Sport 38mm smartphone. Announced 2016, September. Features 1.5″ AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8333,
+                "name": "Watch Series 1 Sport 38mm",
+                "slug": "apple_watch_series_1_sport_38mm-8333",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-38mm.jpg",
+                "description": "Apple Watch Series 1 Sport 38mm smartphone. Announced 2016, September. Features 1.5″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 8065,
+                "name": "iPhone 7 Plus",
+                "slug": "apple_iphone_7_plus-8065",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg",
+                "description": "Apple iPhone 7 Plus smartphone. Announced 2016, September. Features 3G, 5.5″ LED-backlit IPS LCD display, Dual 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8064,
+                "name": "iPhone 7",
+                "slug": "apple_iphone_7-8064",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-7r4.jpg",
+                "description": "Apple iPhone 7 smartphone. Announced 2016, September. Features 3G, 4.7″ LED-backlit IPS LCD display, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7984,
+                "name": "iPad Pro 9.7",
+                "slug": "apple_ipad_pro_9_7-7984",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-97.jpg",
+                "description": "Apple iPad Pro 9.7 tablet. Announced 2016, March. Features 3G, 9.7″ LED-backlit IPS LCD display, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7969,
+                "name": "iPhone SE",
+                "slug": "apple_iphone_se-7969",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-5se-ofic.jpg",
+                "description": "Apple iPhone SE smartphone. Announced 2016, March. Features 3G, 4.0″ LED-backlit IPS LCD display, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7243,
+                "name": "iPhone 6s Plus",
+                "slug": "apple_iphone_6s_plus-7243",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6s-plus.jpg",
+                "description": "Apple iPhone 6s Plus smartphone. Announced 2015, September. Features 3G, 5.5″ LED-backlit IPS LCD display, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7242,
+                "name": "iPhone 6s",
+                "slug": "apple_iphone_6s-7242",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6s1.jpg",
+                "description": "Apple iPhone 6s smartphone. Announced 2015, September. Features 3G, 4.7″ LED-backlit IPS LCD display, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7562,
+                "name": "iPad Pro",
+                "slug": "apple_ipad_pro-7562",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-.jpg",
+                "description": "Apple iPad Pro tablet. Announced 2015, September. Features 3G, 12.9″ LED-backlit IPS LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7561,
+                "name": "iPad mini 4",
+                "slug": "apple_ipad_mini_4-7561",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/ipad-mini-41.jpg",
+                "description": "Apple iPad mini 4 tablet. Announced 2015, September. Features 3G, 7.9″ LED-backlit IPS LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7698,
+                "name": "Watch Edition 42mm",
+                "slug": "apple_watch_edition_42mm-7698",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch-edition-42mm.jpg",
+                "description": "Apple Watch Edition 42mm smartphone. Announced 2014, September. Features 1.65″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7697,
+                "name": "Watch Edition 38mm",
+                "slug": "apple_watch_edition_38mm-7697",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch-edition-38mm.jpg",
+                "description": "Apple Watch Edition 38mm smartphone. Announced 2014, September. Features 1.5″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7696,
+                "name": "Watch 42mm",
+                "slug": "apple_watch_42mm-7696",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch-42mm.jpg",
+                "description": "Apple Watch 42mm smartphone. Announced 2014, September. Features 1.65″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7695,
+                "name": "Watch 38mm",
+                "slug": "apple_watch_38mm-7695",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch-38mm.jpg",
+                "description": "Apple Watch 38mm smartphone. Announced 2014, September. Features 1.5″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7694,
+                "name": "Watch Sport 42mm",
+                "slug": "apple_watch_sport_42mm-7694",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch-sport-42mm2.jpg",
+                "description": "Apple Watch Sport 42mm smartphone. Announced 2014, September. Features 1.65″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7693,
+                "name": "Watch Sport 38mm",
+                "slug": "apple_watch_sport_38mm-7693",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch-sport-38mm.jpg",
+                "description": "Apple Watch Sport 38mm smartphone. Announced 2014, September. Features 1.5″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 6742,
+                "name": "iPad Air 2",
+                "slug": "apple_ipad_air_2-6742",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-air-2-new.jpg",
+                "description": "Apple iPad Air 2 tablet. Announced 2014, October. Features 3G, 9.7″ LED-backlit IPS LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6741,
+                "name": "iPad mini 3",
+                "slug": "apple_ipad_mini_3-6741",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-3-new.jpg",
+                "description": "Apple iPad mini 3 tablet. Announced 2014, October. Features 3G, 7.9″ LED-backlit IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6665,
+                "name": "iPhone 6 Plus",
+                "slug": "apple_iphone_6_plus-6665",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6-plus2.jpg",
+                "description": "Apple iPhone 6 Plus smartphone. Announced 2014, September. Features 3G, 5.5″ LED-backlit IPS LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6378,
+                "name": "iPhone 6",
+                "slug": "apple_iphone_6-6378",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6-4.jpg",
+                "description": "Apple iPhone 6 smartphone. Announced 2014, September. Features 3G, 4.7″ LED-backlit IPS LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5797,
+                "name": "iPad Air",
+                "slug": "apple_ipad_air-5797",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-air.jpg",
+                "description": "Apple iPad Air tablet. Announced 2013, October. Features 3G, 9.7″ LED-backlit IPS LCD display, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5735,
+                "name": "iPad mini 2",
+                "slug": "apple_ipad_mini_2-5735",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini2.jpg",
+                "description": "Apple iPad mini 2 tablet. Announced 2013, October. Features 3G, 7.9″ LED-backlit IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5685,
+                "name": "iPhone 5s",
+                "slug": "apple_iphone_5s-5685",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-5s-ofic.jpg",
+                "description": "Apple iPhone 5s smartphone. Announced 2013, September. Features 3G, 4.0″ LED-backlit IPS LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5690,
+                "name": "iPhone 5c",
+                "slug": "apple_iphone_5c-5690",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-5c-new2.jpg",
+                "description": "Apple iPhone 5c smartphone. Announced 2013, September. Features 3G, 4.0″ LED-backlit IPS LCD display, 8 MP camera, GPS, Bluetooth."
+            },
+            {
+                "id": 5070,
+                "name": "iPad mini Wi-Fi",
+                "slug": "apple_ipad_mini_wi_fi-5070",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-final.jpg",
+                "description": "Apple iPad mini Wi-Fi tablet. Announced 2012, October. Features 7.9″ LED-backlit IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5061,
+                "name": "iPad mini Wi-Fi + Cellular",
+                "slug": "apple_ipad_mini_wi_fi_+_cellular-5061",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-final.jpg",
+                "description": "Apple iPad mini Wi-Fi + Cellular tablet. Announced 2012, October. Features 3G, 7.9″ LED-backlit IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5072,
+                "name": "iPad 4 Wi-Fi",
+                "slug": "apple_ipad_4_wi_fi-5072",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+                "description": "Apple iPad 4 Wi-Fi tablet. Announced 2012, October. Features 9.7″ LED-backlit IPS LCD display, 5 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5071,
+                "name": "iPad 4 Wi-Fi + Cellular",
+                "slug": "apple_ipad_4_wi_fi_+_cellular-5071",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+                "description": "Apple iPad 4 Wi-Fi + Cellular tablet. Announced 2012, October. Features 3G, 9.7″ LED-backlit IPS LCD display, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 4910,
+                "name": "iPhone 5",
+                "slug": "apple_iphone_5-4910",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-5-ofic.jpg",
+                "description": "Apple iPhone 5 smartphone. Announced 2012, September. Features 3G, 4.0″ LED-backlit IPS LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 4620,
+                "name": "iPad 3 Wi-Fi + Cellular",
+                "slug": "apple_ipad_3_wi_fi_+_cellular-4620",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+                "description": "Apple iPad 3 Wi-Fi + Cellular tablet. Announced 2012, March. Features 3G, 9.7″ LED-backlit IPS LCD display, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 4621,
+                "name": "iPad 3 Wi-Fi",
+                "slug": "apple_ipad_3_wi_fi-4621",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+                "description": "Apple iPad 3 Wi-Fi tablet. Announced 2012, March. Features 9.7″ LED-backlit IPS LCD display, 5 MP camera, Wi-Fi, Bluetooth."
+            }
+        ]
