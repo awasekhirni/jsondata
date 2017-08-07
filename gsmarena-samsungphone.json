@@ -1,6 +1,4 @@
-{
-  "data": {
-    "items": [
+[
       {
         "id": 8778,
         "name": "Galaxy J7 V",
@@ -596,9 +594,4 @@
         "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-ds.jpg",
         "description": "Samsung Galaxy A8 Duos Android smartphone. Announced 2015, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
       }
-    ],
-    "current_page": 1,
-    "total_page": 13
-  },
-  "error": null
-}
+    ]
