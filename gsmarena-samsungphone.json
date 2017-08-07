@@ -1,0 +1,604 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": 8778,
+        "name": "Galaxy J7 V",
+        "slug": "samsung_galaxy_j7_v-8778",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-v-2017.jpg",
+        "description": "Samsung Galaxy J7 V Android smartphone. Announced 2017, March. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8683,
+        "name": "Galaxy Note FE",
+        "slug": "samsung_galaxy_note_fe-8683",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-fe.jpg",
+        "description": "Samsung Galaxy Note FE Android smartphone. Announced 2017, July. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8684,
+        "name": "Galaxy J7 Max",
+        "slug": "samsung_galaxy_j7_max-8684",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-max.jpg",
+        "description": "Samsung Galaxy J7 Max Android smartphone. Announced 2017, June. Features 3G, 5.7″ PLS capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8561,
+        "name": "Galaxy J7 Pro",
+        "slug": "samsung_galaxy_j7_pro-8561",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-pro.jpg",
+        "description": "Samsung Galaxy J7 Pro Android smartphone. Announced 2017, June. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8675,
+        "name": "Galaxy J7 (2017)",
+        "slug": "samsung_galaxy_j7_(2017)-8675",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2017-sm-j730f.jpg",
+        "description": "Samsung Galaxy J7 (2017) Android smartphone. Announced 2017, June. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8705,
+        "name": "Galaxy J5 (2017)",
+        "slug": "samsung_galaxy_j5_(2017)-8705",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j5-2017-sm-j530.jpg",
+        "description": "Samsung Galaxy J5 (2017) Android smartphone. Announced 2017, June. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8438,
+        "name": "Galaxy J3 (2017)",
+        "slug": "samsung_galaxy_j3_(2017)-8438",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j3-2017.jpg",
+        "description": "Samsung Galaxy J3 (2017) Android smartphone. Announced 2017, June. Features 3G, 5.0″ PLS capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8682,
+        "name": "Z4",
+        "slug": "samsung_z4-8682",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-z4.jpg",
+        "description": "Samsung Z4 smartphone. Announced 2017, May. Features 3G, 4.5″ Capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8161,
+        "name": "Galaxy S8",
+        "slug": "samsung_galaxy_s8-8161",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-.jpg",
+        "description": "Samsung Galaxy S8 Android smartphone. Announced 2017, March. Features 3G, 5.8″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8523,
+        "name": "Galaxy S8+",
+        "slug": "samsung_galaxy_s8+-8523",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-plus-.jpg",
+        "description": "Samsung Galaxy S8+ Android smartphone. Announced 2017, March. Features 3G, 6.2″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8627,
+        "name": "Gear S3 classic LTE",
+        "slug": "samsung_gear_s3_classic_lte-8627",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s3-classic-lte.jpg",
+        "description": "Samsung Gear S3 classic LTE smartphone. Announced 2017, March. Features 3G, 1.3″ Super AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8437,
+        "name": "Galaxy C5 Pro",
+        "slug": "samsung_galaxy_c5_pro-8437",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c5-pro-sm-c5010.jpg",
+        "description": "Samsung Galaxy C5 Pro Android smartphone. Announced 2017, March. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8577,
+        "name": "Galaxy Xcover 4",
+        "slug": "samsung_galaxy_xcover_4-8577",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover4-g390f-.jpg",
+        "description": "Samsung Galaxy Xcover 4 Android smartphone. Announced 2017, March. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8554,
+        "name": "Galaxy Tab S3 9.7",
+        "slug": "samsung_galaxy_tab_s3_9_7-8554",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s3-97-sm-t825.jpg",
+        "description": "Samsung Galaxy Tab S3 9.7 Android tablet. Announced 2017, February. Features 3G, 9.7″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8397,
+        "name": "Galaxy J1 mini prime",
+        "slug": "samsung_galaxy_j1_mini_prime-8397",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-nxt.jpg",
+        "description": "Samsung Galaxy J1 mini prime Android smartphone. Announced 2016, December. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8486,
+        "name": "Galaxy J3 Emerge",
+        "slug": "samsung_galaxy_j3_emerge-8486",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j3-emerge-.jpg",
+        "description": "Samsung Galaxy J3 Emerge Android smartphone. Announced 2017, January. Features 3G, 5.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8435,
+        "name": "Galaxy C7 Pro",
+        "slug": "samsung_galaxy_c7_pro-8435",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c7-pro.jpg",
+        "description": "Samsung Galaxy C7 Pro Android smartphone. Announced 2017, January. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8335,
+        "name": "Galaxy A7 (2017)",
+        "slug": "samsung_galaxy_a7_(2017)-8335",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-2017.jpg",
+        "description": "Samsung Galaxy A7 (2017) Android smartphone. Announced 2017, January. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8494,
+        "name": "Galaxy A5 (2017)",
+        "slug": "samsung_galaxy_a5_(2017)-8494",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2017-new.jpg",
+        "description": "Samsung Galaxy A5 (2017) Android smartphone. Announced 2017, January. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8336,
+        "name": "Galaxy A3 (2017)",
+        "slug": "samsung_galaxy_a3_(2017)-8336",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a3-2017.jpg",
+        "description": "Samsung Galaxy A3 (2017) Android smartphone. Announced 2017, January. Features 3G, 4.7″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8385,
+        "name": "Galaxy Grand Prime Plus",
+        "slug": "samsung_galaxy_grand_prime_plus-8385",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-prime-2016.jpg",
+        "description": "Samsung Galaxy Grand Prime Plus Android smartphone. Announced 2016, November. Features 3G, 5.0″ PLS TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8424,
+        "name": "Galaxy J2 Prime",
+        "slug": "samsung_galaxy_j2_prime-8424",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-prime-2016.jpg",
+        "description": "Samsung Galaxy J2 Prime Android smartphone. Announced 2016, November. Features 3G, 5.0″ PLS TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8347,
+        "name": "Galaxy C9 Pro",
+        "slug": "samsung_galaxy_c9_pro-8347",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c9-pro-.jpg",
+        "description": "Samsung Galaxy C9 Pro Android smartphone. Announced 2016, October. Features 3G, 6.0″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7801,
+        "name": "Galaxy A8 (2016)",
+        "slug": "samsung_galaxy_a8_(2016)-7801",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-2016r1-.jpg",
+        "description": "Samsung Galaxy A8 (2016) Android smartphone. Announced 2016, September. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8367,
+        "name": "Galaxy On8",
+        "slug": "samsung_galaxy_on8-8367",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2016.jpg",
+        "description": "Samsung Galaxy On8 Android smartphone. Announced 2016, September. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8265,
+        "name": "Galaxy On7 (2016)",
+        "slug": "samsung_galaxy_on7_(2016)-8265",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on7-2016-g6100-c.jpg",
+        "description": "Samsung Galaxy On7 (2016) Android smartphone. Announced 2016, September. Features 3G, 5.5″ Capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8309,
+        "name": "Gear S3 classic",
+        "slug": "samsung_gear_s3_classic-8309",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s3-classic.jpg",
+        "description": "Samsung Gear S3 classic smartphone. Announced 2016, August. Features 1.3″ Super AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8308,
+        "name": "Gear S3 frontier",
+        "slug": "samsung_gear_s3_frontier-8308",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s3-frontier-lte.jpg",
+        "description": "Samsung Gear S3 frontier smartphone. Announced 2016, August. Features 1.3″ Super AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8307,
+        "name": "Gear S3 frontier LTE",
+        "slug": "samsung_gear_s3_frontier_lte-8307",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s3-frontier-lte.jpg",
+        "description": "Samsung Gear S3 frontier LTE smartphone. Announced 2016, August. Features 3G, 1.3″ Super AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8342,
+        "name": "Galaxy J5 Prime",
+        "slug": "samsung_galaxy_j5_prime-8342",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j5-prime.jpg",
+        "description": "Samsung Galaxy J5 Prime Android smartphone. Announced 2016, September. Features 3G, 5.0″ PLS TFT capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8314,
+        "name": "Galaxy J7 Prime",
+        "slug": "samsung_galaxy_j7_prime-8314",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-prime.jpg",
+        "description": "Samsung Galaxy J7 Prime Android smartphone. Announced 2016, August. Features 3G, 5.5″ PLS TFT capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8288,
+        "name": "Z2",
+        "slug": "samsung_z2-8288",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-z2.jpg",
+        "description": "Samsung Z2 smartphone. Announced 2016, August. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8242,
+        "name": "Galaxy Note7 (USA)",
+        "slug": "samsung_galaxy_note7_(usa)-8242",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note7-usa.jpg",
+        "description": "Samsung Galaxy Note7 (USA) Android smartphone. Announced 2016, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8082,
+        "name": "Galaxy Note7",
+        "slug": "samsung_galaxy_note7-8082",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note7.jpg",
+        "description": "Samsung Galaxy Note7 Android smartphone. Announced 2016, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8140,
+        "name": "Galaxy On7 Pro",
+        "slug": "samsung_galaxy_on7_pro-8140",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on7-.jpg",
+        "description": "Samsung Galaxy On7 Pro Android smartphone. Announced 2016, July. Features 3G, 5.5″ TFT capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8192,
+        "name": "Galaxy On5 Pro",
+        "slug": "samsung_galaxy_on5_pro-8192",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on5.jpg",
+        "description": "Samsung Galaxy On5 Pro Android smartphone. Announced 2016, July. Features 3G, 5.0″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8227,
+        "name": "Galaxy Tab J",
+        "slug": "samsung_galaxy_tab_j-8227",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j-tablet1.jpg",
+        "description": "Samsung Galaxy Tab J Android smartphone. Announced 2016, July. Features 3G, 7.0″ PLS capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8186,
+        "name": "Galaxy J Max",
+        "slug": "samsung_galaxy_j_max-8186",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j-max3.jpg",
+        "description": "Samsung Galaxy J Max Android smartphone. Announced 2016, July. Features 3G, 7.0″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8228,
+        "name": "Galaxy J2 Pro (2016)",
+        "slug": "samsung_galaxy_j2_pro_(2016)-8228",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-2016-new.jpg",
+        "description": "Samsung Galaxy J2 Pro (2016) Android smartphone. Announced 2016, July. Features 3G, 5.0″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8083,
+        "name": "Galaxy J2 (2016)",
+        "slug": "samsung_galaxy_j2_(2016)-8083",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-2016-new.jpg",
+        "description": "Samsung Galaxy J2 (2016) Android smartphone. Announced 2016, July. Features 3G, 5.0″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8170,
+        "name": "Z3 Corporate Edition",
+        "slug": "samsung_z3_corporate_edition-8170",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-z3.jpg",
+        "description": "Samsung Z3 Corporate Edition smartphone. Announced 2016, June. Features 3G, 5.0″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8455,
+        "name": "Galaxy Xcover 3 G389F",
+        "slug": "samsung_galaxy_xcover_3_g389f-8455",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover-3-SM-G389F.jpg",
+        "description": "Samsung Galaxy Xcover 3 G389F Android smartphone. Announced 2016, April. Features 3G, 4.5″ PLS TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8004,
+        "name": "Galaxy S7 active",
+        "slug": "samsung_galaxy_s7_active-8004",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-active.jpg",
+        "description": "Samsung Galaxy S7 active Android smartphone. Announced 2016, June. Features 3G, 5.1″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8126,
+        "name": "Galaxy J3 Pro",
+        "slug": "samsung_galaxy_j3_pro-8126",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j3-2017r1.jpg",
+        "description": "Samsung Galaxy J3 Pro Android smartphone. Announced 2016, June. Features 3G, 5.0″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8046,
+        "name": "Galaxy C7",
+        "slug": "samsung_galaxy_c7-8046",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c7.jpg",
+        "description": "Samsung Galaxy C7 Android smartphone. Announced 2016, May. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8047,
+        "name": "Galaxy C5",
+        "slug": "samsung_galaxy_c5-8047",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c5r3.jpg",
+        "description": "Samsung Galaxy C5 Android smartphone. Announced 2016, May. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7903,
+        "name": "Galaxy A9 Pro (2016)",
+        "slug": "samsung_galaxy_a9_pro_(2016)-7903",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a9-pro1.jpg",
+        "description": "Samsung Galaxy A9 Pro (2016) Android smartphone. Announced 2016, March. Features 3G, 6.0″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7870,
+        "name": "Galaxy J7 (2016)",
+        "slug": "samsung_galaxy_j7_(2016)-7870",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2016.jpg",
+        "description": "Samsung Galaxy J7 (2016) Android smartphone. Announced 2016, March. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7869,
+        "name": "Galaxy J5 (2016)",
+        "slug": "samsung_galaxy_j5_(2016)-7869",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j5-2016r.jpg",
+        "description": "Samsung Galaxy J5 (2016) Android smartphone. Announced 2016, March. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8090,
+        "name": "Galaxy Tab A 10.1 (2016)",
+        "slug": "samsung_galaxy_tab_a_10_1_(2016)-8090",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a-101-2016.jpg",
+        "description": "Samsung Galaxy Tab A 10.1 (2016) Android tablet. Announced 2016, May. Features 3G, 10.1″ PLS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7880,
+        "name": "Galaxy Tab A 7.0 (2016)",
+        "slug": "samsung_galaxy_tab_a_7_0_(2016)-7880",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a-70-2016-.jpg",
+        "description": "Samsung Galaxy Tab A 7.0 (2016) Android tablet. Announced 2016, March. Features 3G, 7.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7821,
+        "name": "Galaxy S7",
+        "slug": "samsung_galaxy_s7-7821",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7--.jpg",
+        "description": "Samsung Galaxy S7 Android smartphone. Announced 2016, February. Features 3G, 5.1″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7945,
+        "name": "Galaxy S7 edge",
+        "slug": "samsung_galaxy_s7_edge-7945",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-edge-.jpg",
+        "description": "Samsung Galaxy S7 edge Android smartphone. Announced 2016, February. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7961,
+        "name": "Galaxy S7 edge (USA)",
+        "slug": "samsung_galaxy_s7_edge_(usa)-7961",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-edge-usa.jpg",
+        "description": "Samsung Galaxy S7 edge (USA) Android smartphone. Announced 2016, February. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7960,
+        "name": "Galaxy S7 (USA)",
+        "slug": "samsung_galaxy_s7_(usa)-7960",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-usa.jpg",
+        "description": "Samsung Galaxy S7 (USA) Android smartphone. Announced 2016, February. Features 3G, 5.1″ Super AMOLED capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7768,
+        "name": "Galaxy J1 Nxt",
+        "slug": "samsung_galaxy_j1_nxt-7768",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-nxt.jpg",
+        "description": "Samsung Galaxy J1 Nxt Android smartphone. Announced 2016, February. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7934,
+        "name": "Gear S2 classic 3G",
+        "slug": "samsung_gear_s2_classic_3g-7934",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s2-classic-3g.jpg",
+        "description": "Samsung Gear S2 classic 3G smartphone. Announced 2016, February. Features 1.2″ Super AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+      },
+      {
+        "id": 7879,
+        "name": "Galaxy Tab E 8.0",
+        "slug": "samsung_galaxy_tab_e_8_0-7879",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-e-80.jpg",
+        "description": "Samsung Galaxy Tab E 8.0 Android tablet. Announced 2016, January. Features 3G, 8.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7864,
+        "name": "Galaxy J1 (2016)",
+        "slug": "samsung_galaxy_j1_(2016)-7864",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-2016.jpg",
+        "description": "Samsung Galaxy J1 (2016) Android smartphone. Announced 2016, January. Features 3G, 4.5″ Super AMOLED capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7641,
+        "name": "Galaxy A9 (2016)",
+        "slug": "samsung_galaxy_a9_(2016)-7641",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a9-pro1.jpg",
+        "description": "Samsung Galaxy A9 (2016) Android smartphone. Announced 2015, December. Features 3G, 6.0″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7759,
+        "name": "Galaxy A7 (2016)",
+        "slug": "samsung_galaxy_a7_(2016)-7759",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-2016.jpg",
+        "description": "Samsung Galaxy A7 (2016) Android smartphone. Announced 2015, December. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7789,
+        "name": "Galaxy A5 (2016)",
+        "slug": "samsung_galaxy_a5_(2016)-7789",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2016.jpg",
+        "description": "Samsung Galaxy A5 (2016) Android smartphone. Announced 2015, December. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7791,
+        "name": "Galaxy A3 (2016)",
+        "slug": "samsung_galaxy_a3_(2016)-7791",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a3-2016.jpg",
+        "description": "Samsung Galaxy A3 (2016) Android smartphone. Announced 2015, December. Features 3G, 4.7″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 8022,
+        "name": "Galaxy Express Prime",
+        "slug": "samsung_galaxy_express_prime-8022",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-express-prime.jpg",
+        "description": "Samsung Galaxy Express Prime Android smartphone. Announced 2016, April. Features 3G, 5.0″ Super AMOLED capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7760,
+        "name": "Galaxy J3 (2016)",
+        "slug": "samsung_galaxy_j3_(2016)-7760",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j3.jpg",
+        "description": "Samsung Galaxy J3 (2016) Android smartphone. Announced 2015, November. Features 3G, 5.0″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7704,
+        "name": "Galaxy View",
+        "slug": "samsung_galaxy_view-7704",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-view.jpg",
+        "description": "Samsung Galaxy View Android tablet. Announced 2015, October. Features 3G, 18.4″ TFT capacitive touchscreen, 2.1 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7679,
+        "name": "Galaxy On7",
+        "slug": "samsung_galaxy_on7-7679",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on7-.jpg",
+        "description": "Samsung Galaxy On7 Android smartphone. Announced 2015, October. Features 3G, 5.5″ TFT capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7648,
+        "name": "Galaxy On5",
+        "slug": "samsung_galaxy_on5-7648",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on5.jpg",
+        "description": "Samsung Galaxy On5 Android smartphone. Announced 2015, October. Features 3G, 5.0″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7273,
+        "name": "Z3",
+        "slug": "samsung_z3-7273",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-z3.jpg",
+        "description": "Samsung Z3 smartphone. Announced 2015, October. Features 3G, 5.0″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7673,
+        "name": "Galaxy J1 Ace",
+        "slug": "samsung_galaxy_j1_ace-7673",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-ace.jpg",
+        "description": "Samsung Galaxy J1 Ace Android smartphone. Announced 2015, September. Features 3G, 4.3″ Super AMOLED capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7677,
+        "name": "Gear S2 classic",
+        "slug": "samsung_gear_s2_classic-7677",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s2-classic.jpg",
+        "description": "Samsung Gear S2 classic smartphone. Announced 2015, August. Features 1.2″ Super AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+      },
+      {
+        "id": 7678,
+        "name": "Gear S2",
+        "slug": "samsung_gear_s2-7678",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s2.jpg",
+        "description": "Samsung Gear S2 smartphone. Announced 2015, August. Features 1.2″ Super AMOLED capacitive touchscreen, Wi-Fi, Bluetooth."
+      },
+      {
+        "id": 7585,
+        "name": "Gear S2 3G",
+        "slug": "samsung_gear_s2_3g-7585",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s2.jpg",
+        "description": "Samsung Gear S2 3G smartphone. Announced 2015, August. Features 3G, 1.2″ Super AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7504,
+        "name": "Galaxy Note5 (USA)",
+        "slug": "samsung_galaxy_note5_(usa)-7504",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note5.jpg",
+        "description": "Samsung Galaxy Note5 (USA) Android smartphone. Announced 2015, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7431,
+        "name": "Galaxy Note5",
+        "slug": "samsung_galaxy_note5-7431",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note5.jpg",
+        "description": "Samsung Galaxy Note5 Android smartphone. Announced 2015, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7508,
+        "name": "Galaxy Note5 Duos",
+        "slug": "samsung_galaxy_note5_duos-7508",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note5.jpg",
+        "description": "Samsung Galaxy Note5 Duos Android smartphone. Announced 2015, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7505,
+        "name": "Galaxy S6 edge+ (USA)",
+        "slug": "samsung_galaxy_s6_edge+_(usa)-7505",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-edge-plus.jpg",
+        "description": "Samsung Galaxy S6 edge+ (USA) Android smartphone. Announced 2015, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7467,
+        "name": "Galaxy S6 edge+",
+        "slug": "samsung_galaxy_s6_edge+-7467",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-edge-plus.jpg",
+        "description": "Samsung Galaxy S6 edge+ Android smartphone. Announced 2015, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7509,
+        "name": "Galaxy S6 edge+ Duos",
+        "slug": "samsung_galaxy_s6_edge+_duos-7509",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-edge-plus.jpg",
+        "description": "Samsung Galaxy S6 edge+ Duos Android smartphone. Announced 2015, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 6506,
+        "name": "Galaxy S5 Neo",
+        "slug": "samsung_galaxy_s5_neo-6506",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s5-neo.jpg",
+        "description": "Samsung Galaxy S5 Neo Android smartphone. Announced 2015, August. Features 3G, 5.1″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7468,
+        "name": "Galaxy S4 mini I9195I",
+        "slug": "samsung_galaxy_s4_mini_i9195i-7468",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s4-mini-plus-gt-i9195i.jpg",
+        "description": "Samsung Galaxy S4 mini I9195I Android smartphone. Announced 2015, June. Features 3G, 4.3″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7453,
+        "name": "Galaxy Folder",
+        "slug": "samsung_galaxy_folder-7453",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-folder-SM-G150.jpg",
+        "description": "Samsung Galaxy Folder Android smartphone. Announced 2015, July. Features 3G, 3.8″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7438,
+        "name": "Galaxy Tab S2 9.7",
+        "slug": "samsung_galaxy_tab_s2_9_7-7438",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s2-97.jpg",
+        "description": "Samsung Galaxy Tab S2 9.7 Android tablet. Announced 2015, July. Features 3G, 9.7″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7439,
+        "name": "Galaxy Tab S2 8.0",
+        "slug": "samsung_galaxy_tab_s2_8_0-7439",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s2-80r1.jpg",
+        "description": "Samsung Galaxy Tab S2 8.0 Android tablet. Announced 2015, July. Features 3G, 8.0″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+      },
+      {
+        "id": 7506,
+        "name": "Galaxy A8 Duos",
+        "slug": "samsung_galaxy_a8_duos-7506",
+        "image": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-ds.jpg",
+        "description": "Samsung Galaxy A8 Duos Android smartphone. Announced 2015, August. Features 3G, 5.7″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+      }
+    ],
+    "current_page": 1,
+    "total_page": 13
+  },
+  "error": null
+}
