@@ -1,0 +1,111 @@
+ {
+        "brand": "Lenovo",
+        "device_name": "Lenovo ZUK Edge",
+        "device_type": "Phone",
+        "image_url": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-zuk-edge-1.jpg",
+        "overview": {
+            "general_info": {
+                "launched": "Released 2017, January",
+                "body": "160g, 7.7mm thickness",
+                "os": "Android 7.0",
+                "storage": "64GB storage, no card slot"
+            },
+            "display": {
+                "touchscreen": "Yes",
+                "size": "5.5\"",
+                "resolution": "1080x1920 pixels"
+            },
+            "camera": {
+                "photo": "13MP",
+                "video": "2160p"
+            },
+            "expansion": {
+                "ram": "6GB RAM",
+                "chipset": "Snapdragon 821"
+            },
+            "battery": {
+                "capacity": "3100mAh",
+                "technology": "Li-Ion"
+            }
+        },
+        "detail": {
+            "battery": {
+                "": "Non-removable Li-Ion 3100 mAh battery"
+            },
+            "body": {
+                "dimensions": "142.9 x 74.5 x 7.7 mm (5.63 x 2.93 x 0.30 in)",
+                "sim": "Dual SIM (Nano-SIM, dual stand-by)",
+                "weight": "160 g (5.64 oz)"
+            },
+            "camera": {
+                "features": "1.34 m pixel size, geo-tagging, touch focus, face detection, panorama, HDR",
+                "primary": "13 MP, f/2.2, phase detection autofocus, LED flash",
+                "secondary": "8 MP, f/2.2, 1/4\" sensor size, 1.12 m pixel size, 1080p",
+                "video": "2160p@30fps"
+            },
+            "comms": {
+                "bluetooth": "4.1, A2DP, LE",
+                "gps": "Yes, with A-GPS, GLONASS, BDS, GALILEO",
+                "radio": "FM radio",
+                "usb": "3.1, Type-C 1.0 reversible connector",
+                "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot"
+            },
+            "display": {
+                "": "- ZUI 2.5",
+                "multitouch": "Yes",
+                "protection": "Corning Gorilla Glass (unspecified version)",
+                "resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+                "size": "5.5 inches (~78.3% screen-to-body ratio)",
+                "type": "TDDI capacitive touchscreen, 16M colors"
+            },
+            "features": {
+                "": [
+                    "Fast battery charging (Quick Charge 3.0)",
+                    "MP4/H.265 player",
+                    "MP3/WAV/eAAC+/Flac player",
+                    "Photo/video editor",
+                    "Document viewer"
+                ],
+                "browser": "HTML5",
+                "java": "No",
+                "messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+                "sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, heart rate, altimeter"
+            },
+            "launch": {
+                "announced": "2016, December",
+                "status": "Available. Released 2017, January"
+            },
+            "memory": {
+                "card_slot": "No",
+                "internal": "64 GB, 4/6 GB RAM"
+            },
+            "misc": {
+                "colors": "Ceramic White, Titanium Black",
+                "price": "About 450 EUR"
+            },
+            "network": {
+                "2g_bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+                "3g_bands": "HSDPA 850 / 900 / 1900 / 2100",
+                "4g_bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 39(1900), 40(2300), 41(2500)",
+                "edge": "Yes",
+                "gprs": "Yes",
+                "speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat11 600/50 Mbps",
+                "technology": "GSM / HSPA / LTE"
+            },
+            "platform": {
+                "chipset": "Qualcomm MSM8996 Snapdragon 821",
+                "cpu": "Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)",
+                "gpu": "Adreno 530",
+                "os": "Android 7.0 (Nougat)"
+            },
+            "sound": {
+                "": [
+                    "24-bit/192kHz audio",
+                    "Active noise cancellation with dedicated mic"
+                ],
+                "3_5mm_jack": "Yes",
+                "alert_types": "Vibration; MP3, WAV ringtones",
+                "loudspeaker": "Yes"
+            }
+        }
+    }
