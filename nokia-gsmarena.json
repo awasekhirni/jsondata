@@ -1,0 +1,457 @@
+ [
+            {
+                "id": 8770,
+                "name": "105 (2017)",
+                "slug": "nokia_105_(2017)-8770",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-105-2017.jpg",
+                "description": "Nokia 105 (2017) phone. Announced 2017, July. Features 1.4″ TFT display."
+            },
+            {
+                "id": 8769,
+                "name": "130 (2017)",
+                "slug": "nokia_130_(2017)-8769",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-130-2017.jpg",
+                "description": "Nokia 130 (2017) phone. Announced 2017, July. Features 1.8″ TFT display, VGA camera, Bluetooth."
+            },
+            {
+                "id": 8572,
+                "name": "3",
+                "slug": "nokia_3-8572",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-3.jpg",
+                "description": "Nokia 3 Android smartphone. Announced 2017, February. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8571,
+                "name": "5",
+                "slug": "nokia_5-8571",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5.jpg",
+                "description": "Nokia 5 Android smartphone. Announced 2017, February. Features 3G, 5.2″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6885,
+                "name": "6",
+                "slug": "nokia_6-6885",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6.jpg",
+                "description": "Nokia 6 Android smartphone. Announced 2017, January. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8597,
+                "name": "3310 (2017)",
+                "slug": "nokia_3310_(2017)-8597",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-.jpg",
+                "description": "Nokia 3310 (2017) phone. Announced 2017, February. Features 2.4″ TFT display, 2 MP camera, Bluetooth."
+            },
+            {
+                "id": 8475,
+                "name": "150",
+                "slug": "nokia_150-8475",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-150-.jpg",
+                "description": "Nokia 150 phone. Announced 2016, December. Features 2.4″ TFT display, VGA camera, Bluetooth."
+            },
+            {
+                "id": 8343,
+                "name": "216",
+                "slug": "nokia_216-8343",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-216-new.jpg",
+                "description": "Nokia 216 phone. Announced 2016, September. Features 2.4″ TFT display, VGA camera, Bluetooth."
+            },
+            {
+                "id": 7772,
+                "name": "230 Dual SIM",
+                "slug": "nokia_230_dual_sim-7772",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-230-ds.jpg",
+                "description": "Nokia 230 Dual SIM phone. Announced 2015, November. Features 2.8″ TFT display, 2 MP camera, Bluetooth."
+            },
+            {
+                "id": 7771,
+                "name": "230",
+                "slug": "nokia_230-7771",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-230-.jpg",
+                "description": "Nokia 230 phone. Announced 2015, November. Features 2.8″ TFT display, 2 MP camera, Bluetooth."
+            },
+            {
+                "id": 7517,
+                "name": "222 Dual SIM",
+                "slug": "nokia_222_dual_sim-7517",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-222-ds.jpg",
+                "description": "Nokia 222 Dual SIM phone. Announced 2015, August. Features 2.4″ TFT display, 2 MP camera, Bluetooth."
+            },
+            {
+                "id": 7516,
+                "name": "222",
+                "slug": "nokia_222-7516",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-222.jpg",
+                "description": "Nokia 222 phone. Announced 2015, August. Features 2.4″ TFT display, 2 MP camera, Bluetooth."
+            },
+            {
+                "id": 7272,
+                "name": "105 Dual SIM (2015)",
+                "slug": "nokia_105_dual_sim_(2015)-7272",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-105-ds-2015.jpg",
+                "description": "Nokia 105 Dual SIM (2015) phone. Announced 2015, June. Features 1.4″ TFT display."
+            },
+            {
+                "id": 7271,
+                "name": "105 (2015)",
+                "slug": "nokia_105_(2015)-7271",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-105-2015.jpg",
+                "description": "Nokia 105 (2015) phone. Announced 2015, June. Features 1.4″ TFT display."
+            },
+            {
+                "id": 6910,
+                "name": "215",
+                "slug": "nokia_215-6910",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-215-1.jpg",
+                "description": "Nokia 215 phone. Announced 2015, January. Features 2.4″ TFT display, VGA camera, Bluetooth."
+            },
+            {
+                "id": 6911,
+                "name": "215 Dual SIM",
+                "slug": "nokia_215_dual_sim-6911",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-215-ds.jpg",
+                "description": "Nokia 215 Dual SIM phone. Announced 2015, January. Features 2.4″ TFT display, VGA camera, Bluetooth."
+            },
+            {
+                "id": 6877,
+                "name": "Lumia 638",
+                "slug": "nokia_lumia_638-6877",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-638.jpg",
+                "description": "Nokia Lumia 638 Windows Mobile smartphone. Announced 2014, December. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6814,
+                "name": "N1",
+                "slug": "nokia_n1-6814",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n1.jpg",
+                "description": "Nokia N1 Android tablet. Announced 2014, November. Features 7.9″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 6640,
+                "name": "Lumia 730 Dual SIM",
+                "slug": "nokia_lumia_730_dual_sim-6640",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-730.jpg",
+                "description": "Nokia Lumia 730 Dual SIM Windows Mobile smartphone. Announced 2014, September. Features 3G, 4.7″ OLED capacitive touchscreen, 6.7 MP (6.1 MP effective) camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6639,
+                "name": "Lumia 735",
+                "slug": "nokia_lumia_735-6639",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-735.jpg",
+                "description": "Nokia Lumia 735 Windows Mobile smartphone. Announced 2014, September. Features 3G, 4.7″ OLED capacitive touchscreen, 6.7 MP (6.1 MP effective) camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6638,
+                "name": "Lumia 830",
+                "slug": "nokia_lumia_830-6638",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-830.jpg",
+                "description": "Nokia Lumia 830 Windows Mobile smartphone. Announced 2014, September. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 10 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6571,
+                "name": "130 Dual SIM",
+                "slug": "nokia_130_dual_sim-6571",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/Nokia-130-Dual-SIM.jpg",
+                "description": "Nokia 130 Dual SIM phone. Announced 2014, August. Features 1.8″ TFT display, Bluetooth."
+            },
+            {
+                "id": 6570,
+                "name": "130",
+                "slug": "nokia_130-6570",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/Nokia-130.jpg",
+                "description": "Nokia 130 phone. Announced 2014, August. Features 1.8″ TFT display, Bluetooth."
+            },
+            {
+                "id": 6524,
+                "name": "Lumia 530 Dual SIM",
+                "slug": "nokia_lumia_530_dual_sim-6524",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-530.jpg",
+                "description": "Nokia Lumia 530 Dual SIM Windows Mobile smartphone. Announced 2014, July. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6523,
+                "name": "Lumia 530",
+                "slug": "nokia_lumia_530-6523",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-530.jpg",
+                "description": "Nokia Lumia 530 Windows Mobile smartphone. Announced 2014, July. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6383,
+                "name": "X2 Dual SIM",
+                "slug": "nokia_x2_dual_sim-6383",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/Nokia-X2-Dual-SIM.jpg",
+                "description": "Nokia X2 Dual SIM Android smartphone. Announced 2014, June. Features 3G, 4.3″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6288,
+                "name": "225",
+                "slug": "nokia_225-6288",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-225-ss.jpg",
+                "description": "Nokia 225 phone. Announced 2014, April. Features 2.8″ TFT display, 2 MP camera, Bluetooth."
+            },
+            {
+                "id": 6287,
+                "name": "225 Dual SIM",
+                "slug": "nokia_225_dual_sim-6287",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/Nokia-225-Dual-SIM.jpg",
+                "description": "Nokia 225 Dual SIM phone. Announced 2014, April. Features 2.8″ TFT display, 2 MP camera, Bluetooth."
+            },
+            {
+                "id": 6227,
+                "name": "Lumia 930",
+                "slug": "nokia_lumia_930-6227",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-930-new.jpg",
+                "description": "Nokia Lumia 930 Windows Mobile smartphone. Announced 2014, April. Features 3G, 5.0″ AMOLED capacitive touchscreen, 20 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6254,
+                "name": "Lumia 635",
+                "slug": "nokia_lumia_635-6254",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-635-new.jpg",
+                "description": "Nokia Lumia 635 Windows Mobile smartphone. Announced 2014, April. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6255,
+                "name": "Lumia 630 Dual SIM",
+                "slug": "nokia_lumia_630_dual_sim-6255",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-630-new.jpg",
+                "description": "Nokia Lumia 630 Dual SIM Windows Mobile smartphone. Announced 2014, April. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6232,
+                "name": "Lumia 630",
+                "slug": "nokia_lumia_630-6232",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-630-new.jpg",
+                "description": "Nokia Lumia 630 Windows Mobile smartphone. Announced 2014, April. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6148,
+                "name": "XL",
+                "slug": "nokia_xl-6148",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-xl.jpg",
+                "description": "Nokia XL Android smartphone. Announced 2014, February. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6147,
+                "name": "X+",
+                "slug": "nokia_x+-6147",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-x-plus.jpg",
+                "description": "Nokia X+ Android smartphone. Announced 2014, February. Features 3G, 4.0″ IPS LCD capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6067,
+                "name": "X",
+                "slug": "nokia_x-6067",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-x.jpg",
+                "description": "Nokia X Android smartphone. Announced 2014, February. Features 3G, 4.0″ IPS LCD capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6149,
+                "name": "Asha 230",
+                "slug": "nokia_asha_230-6149",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-230.jpg",
+                "description": "Nokia Asha 230 smartphone. Announced 2014, February. Features 2.8″ TFT capacitive touchscreen, 1.3 MP camera, GPS, Bluetooth."
+            },
+            {
+                "id": 6150,
+                "name": "220",
+                "slug": "nokia_220-6150",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-220.jpg",
+                "description": "Nokia 220 phone. Announced 2014, February. Features 2.4″ TFT display, 2 MP camera, Bluetooth."
+            },
+            {
+                "id": 5833,
+                "name": "Lumia Icon",
+                "slug": "nokia_lumia_icon-5833",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-icon-929.jpg",
+                "description": "Nokia Lumia Icon Windows Mobile smartphone. Announced 2014, February. Features 3G, 5.0″ AMOLED capacitive touchscreen, 20 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5869,
+                "name": "Lumia 525",
+                "slug": "nokia_lumia_525-5869",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-525.jpg",
+                "description": "Nokia Lumia 525 Windows Mobile smartphone. Announced 2013, November. Features 3G, 4.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5760,
+                "name": "Lumia 1520",
+                "slug": "nokia_lumia_1520-5760",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-1520-ofic.jpg",
+                "description": "Nokia Lumia 1520 Windows Mobile smartphone. Announced 2013, October. Features 3G, 6.0″ IPS LCD capacitive touchscreen, 20 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5791,
+                "name": "Lumia 1320",
+                "slug": "nokia_lumia_1320-5791",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-1320.jpg",
+                "description": "Nokia Lumia 1320 Windows Mobile smartphone. Announced 2013, October. Features 3G, 6.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5702,
+                "name": "Lumia 2520",
+                "slug": "nokia_lumia_2520-5702",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-2520.jpg",
+                "description": "Nokia Lumia 2520 Windows Mobile smartphone. Announced 2013, October. Features 3G, 10.1″ IPS LCD capacitive touchscreen, 6.7 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5796,
+                "name": "Asha 503 Dual SIM",
+                "slug": "nokia_asha_503_dual_sim-5796",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-503-ds.jpg",
+                "description": "Nokia Asha 503 Dual SIM smartphone. Announced 2013, October. Features 3G, 3.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5794,
+                "name": "Asha 503",
+                "slug": "nokia_asha_503-5794",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-503.jpg",
+                "description": "Nokia Asha 503 smartphone. Announced 2013, October. Features 3G, 3.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5795,
+                "name": "Asha 502 Dual SIM",
+                "slug": "nokia_asha_502_dual_sim-5795",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-502-dual-sim.jpg",
+                "description": "Nokia Asha 502 Dual SIM smartphone. Announced 2013, October. Features 3.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5793,
+                "name": "Asha 500 Dual SIM",
+                "slug": "nokia_asha_500_dual_sim-5793",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-500-dual-sim.jpg",
+                "description": "Nokia Asha 500 Dual SIM smartphone. Announced 2013, October. Features 2.8″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5792,
+                "name": "Asha 500",
+                "slug": "nokia_asha_500-5792",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-500.jpg",
+                "description": "Nokia Asha 500 smartphone. Announced 2013, October. Features 2.8″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5703,
+                "name": "108 Dual SIM",
+                "slug": "nokia_108_dual_sim-5703",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-108-dual-sim.jpg",
+                "description": "Nokia 108 Dual SIM phone. Announced 2013, September. Features 1.8″ TFT display, VGA camera, Bluetooth."
+            },
+            {
+                "id": 5663,
+                "name": "515",
+                "slug": "nokia_515-5663",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-515.jpg",
+                "description": "Nokia 515 phone. Announced 2013, August. Features 3G, 2.4″ TFT display, 5 MP camera, Bluetooth."
+            },
+            {
+                "id": 5636,
+                "name": "107 Dual SIM",
+                "slug": "nokia_107_dual_sim-5636",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-107.jpg",
+                "description": "Nokia 107 Dual SIM phone. Announced 2013, August. Features 1.8″ TFT display."
+            },
+            {
+                "id": 5635,
+                "name": "106",
+                "slug": "nokia_106-5635",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-106.jpg",
+                "description": "Nokia 106 phone. Announced 2013, August. Features 1.8″ TFT display."
+            },
+            {
+                "id": 5438,
+                "name": "Lumia 625",
+                "slug": "nokia_lumia_625-5438",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-625.jpg",
+                "description": "Nokia Lumia 625 Windows Mobile smartphone. Announced 2013, July. Features 3G, 4.7″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5506,
+                "name": "Lumia 1020",
+                "slug": "nokia_lumia_1020-5506",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-1020-ofic.jpg",
+                "description": "Nokia Lumia 1020 Windows Mobile smartphone. Announced 2013, July. Features 3G, 4.5″ AMOLED capacitive touchscreen, 41 MP (38 MP effective) camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5560,
+                "name": "208",
+                "slug": "nokia_208-5560",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-208.jpg",
+                "description": "Nokia 208 phone. Announced 2013, July. Features 3G, 2.4″ TFT display, 1.3 MP camera, Bluetooth."
+            },
+            {
+                "id": 5559,
+                "name": "207",
+                "slug": "nokia_207-5559",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-207.jpg",
+                "description": "Nokia 207 phone. Announced 2013, July. Features 3G, 2.4″ TFT display, Bluetooth."
+            },
+            {
+                "id": 5451,
+                "name": "Lumia 925",
+                "slug": "nokia_lumia_925-5451",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-925-new.jpg",
+                "description": "Nokia Lumia 925 Windows Mobile smartphone. Announced 2013, May. Features 3G, 4.5″ AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5437,
+                "name": "Lumia 928",
+                "slug": "nokia_lumia_928-5437",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-928-black.jpg",
+                "description": "Nokia Lumia 928 Windows Mobile smartphone. Announced 2013, April. Features 3G, 4.5″ AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5445,
+                "name": "Asha 501",
+                "slug": "nokia_asha_501-5445",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-501-dual-sim.jpg",
+                "description": "Nokia Asha 501 smartphone. Announced 2013, May. Features 3.0″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5417,
+                "name": "Asha 210",
+                "slug": "nokia_asha_210-5417",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-210-1.jpg",
+                "description": "Nokia Asha 210 phone. Announced 2013, April. Features 2.4″ TFT display, 2 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5321,
+                "name": "Lumia 720",
+                "slug": "nokia_lumia_720-5321",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-720.jpg",
+                "description": "Nokia Lumia 720 Windows Mobile smartphone. Announced 2013, February. Features 3G, 4.3″ IPS LCD capacitive touchscreen, 6.7 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5322,
+                "name": "Lumia 520",
+                "slug": "nokia_lumia_520-5322",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-520.jpg",
+                "description": "Nokia Lumia 520 Windows Mobile smartphone. Announced 2013, February. Features 3G, 4.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 5323,
+                "name": "301",
+                "slug": "nokia_301-5323",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-301.jpg",
+                "description": "Nokia 301 phone. Announced 2013, February. Features 3G, 2.4″ TFT display, 3.15 MP camera, Bluetooth."
+            },
+            {
+                "id": 5324,
+                "name": "105",
+                "slug": "nokia_105-5324",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-105.jpg",
+                "description": "Nokia 105 phone. Announced 2013, February. Features 1.45″ TFT display."
+            },
+            {
+                "id": 5291,
+                "name": "Asha 310",
+                "slug": "nokia_asha_310-5291",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-310.jpg",
+                "description": "Nokia Asha 310 phone. Announced 2013, February. Features 3.0″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 5150,
+                "name": "Lumia 505",
+                "slug": "nokia_lumia_505-5150",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-505.jpg",
+                "description": "Nokia Lumia 505 Windows Mobile smartphone. Announced 2012, December. Features 3G, 3.7″ AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            }
+        ]
