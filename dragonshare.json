@@ -1,0 +1,363 @@
+{
+
+  "basics": {
+  "guid":"123124124",
+    "name": "John Doe",
+    "label": "Programmer",
+    "picture": "",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "website": "http://johndoe.com",
+    "summary": "A summary of John Doe...",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [{
+	"profileid":1
+      "network": "Twitter",
+      "username": "john",
+      "url": "http://twitter.com/john"
+    },
+	{
+	"profileid":2
+      "network": "facebook",
+      "username": "john",
+      "url": "http://facebook.com/john"
+    },
+	
+	]
+  },
+  "work": [{
+  "workid":"1"
+    "company": "Company",
+    "position": "President",
+    "website": "http://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description...",
+	"reportingto":"supervisorName",
+	"roles":"role description",
+    "highlights": [
+      "Started the company"
+    ],
+	"your-rating":"4",
+	"salary":"12124123213"
+  },
+  
+  {
+  "workid":"2",
+    "company": "Company",
+    "position": "President",
+    "website": "http://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description...",
+	"reportingto":"supervisorName",
+	"roles":"role description",
+    "highlights": [
+      "Started the company"
+    ],
+	"your-rating":"4",
+	"salary":"12124123213"
+  }],
+  "volunteer": [{
+     "volunteerId":"1",
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  },
+  {
+     "volunteerId":"2",
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+     "educationId":"1",
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+     "educationId":"2",
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+     "educationId":"3",
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+     "educationId":"4",
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+	"awardId":"1",
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  },
+  {
+	"awardId":"2",
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+  "publicationId":"1",
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  },
+  {
+  "publicationId":"2",
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+	"skillId":"1",
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  },
+  {
+	"skillId":"2",
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  },
+  {
+	"skillId":"3",
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  },
+  {
+	"skillId":"4",
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+  "languageId":"1",
+    "name": "English",
+    "level": "Native speaker"
+  },
+  {
+  "languageId":"2",
+    "name": "English",
+    "level": "Native speaker"
+  },
+  {
+  "languageId":"3",
+    "name": "English",
+    "level": "Native speaker"
+  }],
+  "interests": [{
+  "interestId":"1",
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  },
+  {
+  "interestId":"2",
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  },
+  {
+  "interestId":"3",
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+  "referenceId":"1",
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  },
+  {
+  "referenceId":"1",
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  },
+  {
+  "referenceId":"1",
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }],
+  "ConnectedFriends":[
+	{
+	"friendId":"1",
+	"friendName":"friendName",
+	"relationshipType":"Colleague",
+	"connectedOn":"25/6/2009",
+	"removedOn":"26/6/2010",
+	"isBlocked":false,
+	"reportAbuse":true
+	
+	},
+	{
+	"friendId":"1",
+	"friendName":"friendName",
+	"relationshipType":"Colleague",
+	"connectedOn":"25/6/2009",
+	"removedOn":"26/6/2010",
+	"isBlocked":false,
+	"reportAbuse":true
+	
+	},
+	{
+	"friendId":"1",
+	"friendName":"friendName",
+	"relationshipType":"Colleague",
+	"connectedOn":"25/6/2009",
+	"removedOn":"26/6/2010",
+	"isBlocked":false,
+	"reportAbuse":true
+	
+	}
+  ],
+  "messageArchive":[
+  {
+  "messageId":"guid1",
+  "messageTitle":"Title",
+  "messageType":"Broadcast",
+  "messageTo":"All",
+  "MessagePriority":"High",
+  "MessageDestroy":"Destroy after read and encrypted",
+  "MessageContent":"",
+  "MessageExpiry":""
+  },
+  {
+  "messageId":"guid2",
+  "messageTitle":"Title",
+  "messageType":"Broadcast",
+  "messageTo":"friendId",
+  "MessagePriority":"High",
+  "MessageDestroy":"Destroy after read and encrypted",
+  "MessageContent":"",
+  "MessageExpiry":""
+  }
+  ],
+  "ArticleArchive":[
+	{
+	"ArticleId":"123",
+	"ArticleTitle":"",
+	"ArticleType":"",
+	"ArticleLength":"",
+	"ArticleContext":"",
+	"ArticleAllowComments":true,
+	"ArticleImages":[
+      "Ferrets.jpg",
+      "Unicorns.gif"
+    ],
+	"ArticleVideo":[
+      "Ferrets.mp4",
+      "Unicorns.avi"
+    ],
+	"ArticleVoteUp":"20",
+	"ArticleVoteDown":"9"
+	}
+  ],
+  "Advertisements":[
+  {
+  "adId":"1",
+  "adtype":"text/video/img",
+  "adbroadcast":"friends/all"
+  }
+  ],
+  "groups":[
+  {
+	"groupId":"groupId",
+	"groupName":"groupName",
+	"groupOwner":"groupOwner",
+	"altOwner":"",
+	"altowner2":"",
+	"access":"opentoall"
+  },
+  {
+	"groupId":"groupId",
+	"groupName":"groupName",
+	"groupOwner":"groupOwner",
+	"altOwner":"",
+	"altowner2":"",
+	"access":"opentoall"
+  }
+  ]
+
+}
