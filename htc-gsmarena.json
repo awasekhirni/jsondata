@@ -1,0 +1,282 @@
+[
+            {
+                "id": 8630,
+                "name": "U11",
+                "slug": "htc_u11-8630",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-u11.jpg",
+                "description": "HTC U11 Android smartphone. Announced 2017, May. Features 3G, 5.5″ Super LCD5 capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8487,
+                "name": "One X10",
+                "slug": "htc_one_x10-8487",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-x10.jpg",
+                "description": "HTC One X10 Android smartphone. Announced 2017, April. Features 3G, 5.5″ Super LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8519,
+                "name": "U Ultra",
+                "slug": "htc_u_ultra-8519",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-u-ultra.jpg",
+                "description": "HTC U Ultra Android smartphone. Announced 2017, January. Features 3G, 5.7″ Super LCD5 capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8518,
+                "name": "U Play",
+                "slug": "htc_u_play-8518",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-u-play.jpg",
+                "description": "HTC U Play Android smartphone. Announced 2017, January. Features 3G, 5.2″ Super LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8404,
+                "name": "10 evo",
+                "slug": "htc_10_evo-8404",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-10-evo.jpg",
+                "description": "HTC 10 evo Android smartphone. Announced 2016, November. Features 3G, 5.5″ Super LCD3 capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8444,
+                "name": "Desire 650",
+                "slug": "htc_desire_650-8444",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-650.jpg",
+                "description": "HTC Desire 650 Android smartphone. Announced 2016, November. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8277,
+                "name": "Desire 10 Pro",
+                "slug": "htc_desire_10_pro-8277",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-10-pro.jpg",
+                "description": "HTC Desire 10 Pro Android smartphone. Announced 2016, September. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 20 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8276,
+                "name": "Desire 10 Lifestyle",
+                "slug": "htc_desire_10_lifestyle-8276",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-10-lifestyle-new.jpg",
+                "description": "HTC Desire 10 Lifestyle Android smartphone. Announced 2016, September. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8297,
+                "name": "One A9s",
+                "slug": "htc_one_a9s-8297",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-a9sr.jpg",
+                "description": "HTC One A9s Android smartphone. Announced 2016, September. Features 3G, 5.0″ Super LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8633,
+                "name": "Desire 728 Ultra",
+                "slug": "htc_desire_728_ultra-8633",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-728-ultra-edition.jpg",
+                "description": "HTC Desire 728 Ultra Android smartphone. Announced 2016, August. Features 3G, 5.5″ Super LCD2 capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8128,
+                "name": "Desire 628",
+                "slug": "htc_desire_628-8128",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-628.jpg",
+                "description": "HTC Desire 628 Android smartphone. Announced 2016, May. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8086,
+                "name": "One M9 Prime Camera",
+                "slug": "htc_one_m9_prime_camera-8086",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m9s-.jpg",
+                "description": "HTC One M9 Prime Camera Android smartphone. Announced 2016, May. Features 3G, 5.0″ Super LCD3 capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8066,
+                "name": "Desire 830",
+                "slug": "htc_desire_830-8066",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-830.jpg",
+                "description": "HTC Desire 830 Android smartphone. Announced 2016, May. Features 3G, 5.5″ Super LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8072,
+                "name": "One S9",
+                "slug": "htc_one_s9-8072",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-s9.jpg",
+                "description": "HTC One S9 Android smartphone. Announced 2016, April. Features 3G, 5.0″ Super LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8031,
+                "name": "10 Lifestyle",
+                "slug": "htc_10_lifestyle-8031",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-10-lifestyle.jpg",
+                "description": "HTC 10 Lifestyle Android smartphone. Announced 2016, April. Features 3G, 5.2″ Super LCD5 capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7884,
+                "name": "10",
+                "slug": "htc_10-7884",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-10-r.jpg",
+                "description": "HTC 10 Android smartphone. Announced 2016, April. Features 3G, 5.2″ Super LCD5 capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7942,
+                "name": "Desire 825",
+                "slug": "htc_desire_825-7942",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-a56-desire-825.jpg",
+                "description": "HTC Desire 825 Android smartphone. Announced 2016, February. Features 3G, 5.5″ Super LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7941,
+                "name": "Desire 630",
+                "slug": "htc_desire_630-7941",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-a16-desire-530.jpg",
+                "description": "HTC Desire 630 Android smartphone. Announced 2016, February. Features 3G, 5.0″ Super LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7940,
+                "name": "Desire 530",
+                "slug": "htc_desire_530-7940",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-a16-desire-530.jpg",
+                "description": "HTC Desire 530 Android smartphone. Announced 2016, February. Features 3G, 5.0″ Super LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8348,
+                "name": "Desire 625",
+                "slug": "htc_desire_625-8348",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-625.jpg",
+                "description": "HTC Desire 625 Android smartphone. Announced 2016, August. Features 5.0″ Capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7836,
+                "name": "One X9",
+                "slug": "htc_one_x9-7836",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-x9.jpg",
+                "description": "HTC One X9 Android smartphone. Announced 2015, December. Features 3G, 5.5″ Super LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7758,
+                "name": "One M9s",
+                "slug": "htc_one_m9s-7758",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m9s-.jpg",
+                "description": "HTC One M9s Android smartphone. Announced 2015, November. Features 3G, 5.0″ Super LCD3 capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7731,
+                "name": "Desire 828 dual sim",
+                "slug": "htc_desire_828_dual_sim-7731",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-828w.jpg",
+                "description": "HTC Desire 828 dual sim Android smartphone. Announced 2015, November. Features 3G, 5.5″ Capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7753,
+                "name": "Desire 728 dual sim",
+                "slug": "htc_desire_728_dual_sim-7753",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-728.jpg",
+                "description": "HTC Desire 728 dual sim Android smartphone. Announced 2015, September. Features 3G, 5.5″ Super LCD2 capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7627,
+                "name": "One E9s dual sim",
+                "slug": "htc_one_e9s_dual_sim-7627",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-e9s-dual-sim.jpg",
+                "description": "HTC One E9s dual sim Android smartphone. Announced 2015, October. Features 3G, 5.5″ Capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7592,
+                "name": "Butterfly 3",
+                "slug": "htc_butterfly_3-7592",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-butterfly-3.jpg",
+                "description": "HTC Butterfly 3 Android smartphone. Announced 2015, September. Features 3G, 5.2″ Capacitive touchscreen, 20.2 MP Duo camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7576,
+                "name": "One A9",
+                "slug": "htc_one_a9-7576",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-a9-new.jpg",
+                "description": "HTC One A9 Android smartphone. Announced 2015, September. Features 3G, 5.0″ AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7591,
+                "name": "One M9+ Supreme Camera",
+                "slug": "htc_one_m9+_supreme_camera-7591",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m9-plus-new.jpg",
+                "description": "HTC One M9+ Supreme Camera Android smartphone. Announced 2015, September. Features 3G, 5.2″ Super LCD3 capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7421,
+                "name": "Desire 626 (USA)",
+                "slug": "htc_desire_626_(usa)-7421",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-626s.jpg",
+                "description": "HTC Desire 626 (USA) Android smartphone. Announced 2015, July. Features 5.0″ Super LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7418,
+                "name": "Desire 626s",
+                "slug": "htc_desire_626s-7418",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-626s.jpg",
+                "description": "HTC Desire 626s Android smartphone. Announced 2015, July. Features 3G, 5.0″ Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7419,
+                "name": "Desire 526",
+                "slug": "htc_desire_526-7419",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-526.jpg",
+                "description": "HTC Desire 526 Android smartphone. Announced 2015, July. Features 3G, 4.7″ Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7420,
+                "name": "Desire 520",
+                "slug": "htc_desire_520-7420",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-520.jpg",
+                "description": "HTC Desire 520 Android smartphone. Announced 2015, August. Features 3G, 4.5″ Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7275,
+                "name": "One ME",
+                "slug": "htc_one_me-7275",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-me.jpg",
+                "description": "HTC One ME Android smartphone. Announced 2015, June. Features 3G, 5.2″ Capacitive touchscreen, 20 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7267,
+                "name": "Desire 820G+ dual sim",
+                "slug": "htc_desire_820g+_dual_sim-7267",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-820g-plus.jpg",
+                "description": "HTC Desire 820G+ dual sim Android smartphone. Announced 2015, May. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7194,
+                "name": "Desire 326G dual sim",
+                "slug": "htc_desire_326g_dual_sim-7194",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-326g.jpg",
+                "description": "HTC Desire 326G dual sim Android smartphone. Announced 2015, April. Features 3G, 4.5″ Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6977,
+                "name": "One M9+",
+                "slug": "htc_one_m9+-6977",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m9-plus-new.jpg",
+                "description": "HTC One M9+ Android smartphone. Announced 2015, April. Features 3G, 5.2″ Super LCD3 capacitive touchscreen, Dual 20MP + 2.1MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7165,
+                "name": "One M8s",
+                "slug": "htc_one_m8s-7165",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m8s.jpg",
+                "description": "HTC One M8s Android smartphone. Announced 2015, April. Features 3G, 5.0″ Super LCD3 capacitive touchscreen, Dual 13 MP + 2MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7111,
+                "name": "One E9+",
+                "slug": "htc_one_e9+-7111",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-e9plus.jpg",
+                "description": "HTC One E9+ Android smartphone. Announced 2015, March. Features 3G, 5.5″ Capacitive touchscreen, 20 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7310,
+                "name": "One E9",
+                "slug": "htc_one_e9-7310",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-e9.jpg",
+                "description": "HTC One E9 Android smartphone. Announced 2015, May. Features 5.5″ Capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6891,
+                "name": "One M9",
+                "slug": "htc_one_m9-6891",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m9-1.jpg",
+                "description": "HTC One M9 Android smartphone. Announced 2015, March. Features 3G, 5.0″ Super LCD3 capacitive touchscreen, 20 MP camera, Wi-Fi, GPS, Bluetooth."
+            }
+        ]
