@@ -1,0 +1,422 @@
+ [
+            {
+                "id": 8781,
+                "name": "Q8",
+                "slug": "lg_q8-8781",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-q8-.jpg",
+                "description": "LG Q8 Android smartphone. Announced 2017, July. Features 3G, 5.2″ IPS LCD capacitive touchscreen, Dual 13 MP (28mm camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8780,
+                "name": "G Pad IV 8.0 FHD",
+                "slug": "lg_g_pad_iv_8_0_fhd-8780",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-iv-8.0-fhd.jpg",
+                "description": "LG G Pad IV 8.0 FHD Android tablet. Announced 2017, July. Features 8.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8756,
+                "name": "Q6",
+                "slug": "lg_q6-8756",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-q6.jpg",
+                "description": "LG Q6 Android smartphone. Announced 2017, July. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8696,
+                "name": "X venture",
+                "slug": "lg_x_venture-8696",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x-venture-.jpg",
+                "description": "LG X venture Android smartphone. Announced 2017, May. Features 3G, 5.2″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8466,
+                "name": "G6",
+                "slug": "lg_g6-8466",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g6-new.jpg",
+                "description": "LG G6 Android smartphone. Announced 2017, February. Features 3G, 5.7″ IPS LCD capacitive touchscreen, Dual 13 MP (f/1.8 camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8584,
+                "name": "X power2",
+                "slug": "lg_x_power2-8584",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x-power2.jpg",
+                "description": "LG X power2 Android smartphone. Announced 2017, February. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8552,
+                "name": "Watch Sport",
+                "slug": "lg_watch_sport-8552",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-watch-sport-r1.jpg",
+                "description": "LG Watch Sport Android smartphone. Announced 2017, February. Features 1.38″ P-OLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8551,
+                "name": "Watch Style",
+                "slug": "lg_watch_style-8551",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-watch-style.jpg",
+                "description": "LG Watch Style Android smartphone. Announced 2017, February. Features 1.2″ P-OLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 8694,
+                "name": "Stylo 3 Plus",
+                "slug": "lg_stylo_3_plus-8694",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-stylo-3-plus.jpg",
+                "description": "LG Stylo 3 Plus Android smartphone. Announced 2017, May. Features 3G, 5.7″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8492,
+                "name": "Stylus 3",
+                "slug": "lg_stylus_3-8492",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-stylus-3-.jpg",
+                "description": "LG Stylus 3 Android smartphone. Announced 2016, December. Features 3G, 5.7″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8679,
+                "name": "Harmony",
+                "slug": "lg_harmony-8679",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-harmony.jpg",
+                "description": "LG Harmony Android smartphone. Announced 2017, April. Features 3G, 5.3″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8678,
+                "name": "K20 plus",
+                "slug": "lg_k20_plus-8678",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k20-plus.jpg",
+                "description": "LG K20 plus Android smartphone. Announced 2016, December. Features 3G, 5.3″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8491,
+                "name": "K10 (2017)",
+                "slug": "lg_k10_(2017)-8491",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k10-2017.jpg",
+                "description": "LG K10 (2017) Android smartphone. Announced 2016, December. Features 3G, 5.3″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8490,
+                "name": "K8 (2017)",
+                "slug": "lg_k8_(2017)-8490",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k8-2017.jpg",
+                "description": "LG K8 (2017) Android smartphone. Announced 2016, December. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8489,
+                "name": "K4 (2017)",
+                "slug": "lg_k4_(2017)-8489",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k4-2017.jpg",
+                "description": "LG K4 (2017) Android smartphone. Announced 2016, December. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8488,
+                "name": "K3 (2017)",
+                "slug": "lg_k3_(2017)-8488",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k3-2017.jpg",
+                "description": "LG K3 (2017) Android smartphone. Announced 2016, December. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8484,
+                "name": "G Pad III 10.1 FHD",
+                "slug": "lg_g_pad_iii_10_1_fhd-8484",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-iii-8.0-fhd.jpg",
+                "description": "LG G Pad III 10.1 FHD Android tablet. Announced 2016, December. Features 10.1″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8403,
+                "name": "U",
+                "slug": "lg_u-8403",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-u.jpg",
+                "description": "LG U Android smartphone. Announced 2016, October. Features 3G, 5.2″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8238,
+                "name": "V20",
+                "slug": "lg_v20-8238",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-v20-ofic1.jpg",
+                "description": "LG V20 Android smartphone. Announced 2016, September. Features 3G, 5.7″ IPS LCD capacitive touchscreen, Dual 16 MP (29mm camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8184,
+                "name": "X Skin",
+                "slug": "lg_x_skin-8184",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x-skin.jpg",
+                "description": "LG X Skin Android smartphone. Announced 2016, July. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8183,
+                "name": "X5",
+                "slug": "lg_x5-8183",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x5.jpg",
+                "description": "LG X5 Android smartphone. Announced 2016, July. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8159,
+                "name": "X max",
+                "slug": "lg_x_max-8159",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x-max.jpg",
+                "description": "LG X max Android smartphone. Announced 2016, June. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8158,
+                "name": "X mach",
+                "slug": "lg_x_mach-8158",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x-mach.jpg",
+                "description": "LG X mach Android smartphone. Announced 2016, June. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 12.3 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8463,
+                "name": "G Pad III 8.0 FHD",
+                "slug": "lg_g_pad_iii_8_0_fhd-8463",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-iii-8.0-fhd.jpg",
+                "description": "LG G Pad III 8.0 FHD Android tablet. Announced 2016, May. Features 8.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8081,
+                "name": "G Pad X 8.0",
+                "slug": "lg_g_pad_x_8_0-8081",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-x-80.jpg",
+                "description": "LG G Pad X 8.0 Android tablet. Announced 2016, June. Features 3G, 8.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8133,
+                "name": "X power",
+                "slug": "lg_x_power-8133",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x-power.jpg",
+                "description": "LG X power Android smartphone. Announced 2016, May. Features 3G, 5.3″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8132,
+                "name": "X style",
+                "slug": "lg_x_style-8132",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x-style.jpg",
+                "description": "LG X style Android smartphone. Announced 2016, May. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8079,
+                "name": "Stylus 2 Plus",
+                "slug": "lg_stylus_2_plus-8079",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-stylus-2-plus-.jpg",
+                "description": "LG Stylus 2 Plus Android smartphone. Announced 2016, May. Features 3G, 5.7″ IPS LCD capacitive touchscreen, 13 or 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8085,
+                "name": "Stylo 2",
+                "slug": "lg_stylo_2-8085",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-stylo2-1.jpg",
+                "description": "LG Stylo 2 Android smartphone. Announced 2016, April. Features 3G, 5.7″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7980,
+                "name": "K5",
+                "slug": "lg_k5-7980",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k5-.jpg",
+                "description": "LG K5 Android smartphone. Announced 2016, March. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8269,
+                "name": "K3",
+                "slug": "lg_k3-8269",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k3.jpg",
+                "description": "LG K3 Android smartphone. Announced 2016, August. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP - K100; 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 8056,
+                "name": "G5 SE",
+                "slug": "lg_g5_se-8056",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g5.jpg",
+                "description": "LG G5 SE Android smartphone. Announced 2016, April. Features 3G, 5.3″ IPS LCD capacitive touchscreen, Dual 16 MP (f/1.8) + 8 MP (f/2.4) camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7815,
+                "name": "G5",
+                "slug": "lg_g5-7815",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g5.jpg",
+                "description": "LG G5 Android smartphone. Announced 2016, February. Features 3G, 5.3″ IPS LCD capacitive touchscreen, Dual 16 MP (29mm camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7977,
+                "name": "X cam",
+                "slug": "lg_x_cam-7977",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x-cam-k580.jpg",
+                "description": "LG X cam Android smartphone. Announced 2016, February. Features 3G, 5.2″ IPS LCD capacitive touchscreen, Dual 13 MP + 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7976,
+                "name": "X screen",
+                "slug": "lg_x_screen-7976",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-x-screen-.jpg",
+                "description": "LG X screen Android smartphone. Announced 2016, February. Features 3G, 4.93″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7927,
+                "name": "K8",
+                "slug": "lg_k8-7927",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k8-.jpg",
+                "description": "LG K8 Android smartphone. Announced 2016, February. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7926,
+                "name": "Stylus 2",
+                "slug": "lg_stylus_2-7926",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-stylus-2-.jpg",
+                "description": "LG Stylus 2 Android smartphone. Announced 2016, February. Features 3G, 5.7″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7849,
+                "name": "K10",
+                "slug": "lg_k10-7849",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k10.jpg",
+                "description": "LG K10 Android smartphone. Announced 2016, January. Features 3G, 5.3″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7848,
+                "name": "K7",
+                "slug": "lg_k7-7848",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-k7.jpg",
+                "description": "LG K7 Android smartphone. Announced 2016, January. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 5 MP (f/2.6) or 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7883,
+                "name": "K4",
+                "slug": "lg_k4-7883",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g4.jpg",
+                "description": "LG K4 Android smartphone. Announced 2016, January. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7828,
+                "name": "G Pad II 8.3 LTE",
+                "slug": "lg_g_pad_ii_8_3_lte-7828",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-ii-8.jpg",
+                "description": "LG G Pad II 8.3 LTE Android tablet. Announced 2015, December. Features 8.3″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7773,
+                "name": "Ray",
+                "slug": "lg_ray-7773",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-ray-1.jpg",
+                "description": "LG Ray Android smartphone. Announced 2015, November. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7675,
+                "name": "G Vista 2",
+                "slug": "lg_g_vista_2-7675",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-vista-2-.jpg",
+                "description": "LG G Vista 2 Android smartphone. Announced 2015, October. Features 3G, 5.7″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7681,
+                "name": "G Watch R W110",
+                "slug": "lg_g_watch_r_w110-7681",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-watch-r-w110.jpg",
+                "description": "LG G Watch R W110 Android smartphone. Announced 2015, October. Features 1.3″ P-OLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7680,
+                "name": "Watch Urbane W150",
+                "slug": "lg_watch_urbane_w150-7680",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-watch-urbane-w150.jpg",
+                "description": "LG Watch Urbane W150 Android smartphone. Announced 2015, October. Features 1.3″ P-OLED capacitive touchscreen, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7607,
+                "name": "Watch Urbane 2nd Edition LTE",
+                "slug": "lg_watch_urbane_2nd_edition_lte-7607",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-watch-urbane-2nd-edition.jpg",
+                "description": "LG Watch Urbane 2nd Edition LTE Android smartphone. Announced 2015, October. Features 3G, 1.38″ P-OLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7606,
+                "name": "V10",
+                "slug": "lg_v10-7606",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-v10-new1.jpg",
+                "description": "LG V10 Android smartphone. Announced 2015, October. Features 3G, 5.7″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7556,
+                "name": "Nexus 5X",
+                "slug": "lg_nexus_5x-7556",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-nexus-5x-.jpg",
+                "description": "LG Nexus 5X Android smartphone. Announced 2015, September. Features 3G, 5.2″ IPS LCD capacitive touchscreen, 12.3 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7575,
+                "name": "Zero",
+                "slug": "lg_zero-7575",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-class-f620.jpg",
+                "description": "LG Zero Android smartphone. Announced 2015, September. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7515,
+                "name": "G Pad II 10.1",
+                "slug": "lg_g_pad_ii_10_1-7515",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-ii-101-.jpg",
+                "description": "LG G Pad II 10.1 Android tablet. Announced 2015, August. Features 3G, 10.1″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7496,
+                "name": "G Pad II 8.0 LTE",
+                "slug": "lg_g_pad_ii_8_0_lte-7496",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-2-80.jpg",
+                "description": "LG G Pad II 8.0 LTE Android tablet. Announced 2015, August. Features 8.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7451,
+                "name": "Wine Smart",
+                "slug": "lg_wine_smart-7451",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-wine.jpg",
+                "description": "LG Wine Smart Android smartphone. Announced 2015, August. Features 3.2″ IPS LCD capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7442,
+                "name": "Tribute 2",
+                "slug": "lg_tribute_2-7442",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-tribute-2.jpg",
+                "description": "LG Tribute 2 Android smartphone. Announced 2015, July. Features 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7437,
+                "name": "Bello II",
+                "slug": "lg_bello_ii-7437",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-bello-2.jpg",
+                "description": "LG Bello II Android smartphone. Announced 2015, July. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7363,
+                "name": "G4 Beat",
+                "slug": "lg_g4_beat-7363",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g4s-beat.jpg",
+                "description": "LG G4 Beat Android smartphone. Announced 2015, July. Features 3G, 5.2″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7345,
+                "name": "G360",
+                "slug": "lg_g360-7345",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g360.jpg",
+                "description": "LG G360 phone. Announced 2015, June. Features 3.0″ TFT display, 1.3 MP camera, Bluetooth."
+            },
+            {
+                "id": 7344,
+                "name": "G350",
+                "slug": "lg_g350-7344",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g350.jpg",
+                "description": "LG G350 phone. Announced 2015, May. Features 3.0″ TFT display, 1.3 MP camera, Wi-Fi, Bluetooth."
+            },
+            {
+                "id": 7250,
+                "name": "G4c",
+                "slug": "lg_g4c-7250",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g4c-1.jpg",
+                "description": "LG G4c Android smartphone. Announced 2015, May. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 7253,
+                "name": "G4 Dual",
+                "slug": "lg_g4_dual-7253",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g4-.jpg",
+                "description": "LG G4 Dual Android smartphone. Announced 2015, May. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            },
+            {
+                "id": 6901,
+                "name": "G4",
+                "slug": "lg_g4-6901",
+                "image": "http://cdn2.gsmarena.com/vv/bigpic/lg-g4-.jpg",
+                "description": "LG G4 Android smartphone. Announced 2015, April. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth."
+            }
+        ]
