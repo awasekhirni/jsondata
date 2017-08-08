@@ -6,7 +6,7 @@
 		"SupplierName": "Very Best Screens",
 		"WeightMeasure": 4.2,
 		"WeightUnit": "KG",
-		"Description": "Notebook Basic 15 with 2,80 GHz quad core, 15 LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+		"Description": "Notebook Basic 15 with 2,80 GHz quad core, 15\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
 		"Name": "Notebook Basic 15",
 		"DateOfSale": "2017-03-26",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1000.jpg",
@@ -19,8 +19,7 @@
 		"Depth": 18,
 		"Height": 3,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1001",
 		"Category": "Laptops",
 		"MainCategory": "Computer Systems",
@@ -28,7 +27,7 @@
 		"SupplierName": "Very Best Screens",
 		"WeightMeasure": 4.5,
 		"WeightUnit": "KG",
-		"Description": "Notebook Basic 17 with 2,80 GHz quad core, 17 LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+		"Description": "Notebook Basic 17 with 2,80 GHz quad core, 17\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
 		"Name": "Notebook Basic 17",
 		"DateOfSale": "2017-04-17",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1001.jpg",
@@ -41,8 +40,7 @@
 		"Depth": 17,
 		"Height": 3.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1002",
 		"Category": "Laptops",
 		"MainCategory": "Computer Systems",
@@ -50,7 +48,7 @@
 		"SupplierName": "Very Best Screens",
 		"WeightMeasure": 4.2,
 		"WeightUnit": "KG",
-		"Description": "Notebook Basic 18 with 2,80 GHz quad core, 18 LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+		"Description": "Notebook Basic 18 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
 		"Name": "Notebook Basic 18",
 		"DateOfSale": "2017-01-07",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1002.jpg",
@@ -63,8 +61,7 @@
 		"Depth": 19,
 		"Height": 2.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1003",
 		"Category": "Laptops",
 		"MainCategory": "Computer Systems",
@@ -72,7 +69,7 @@
 		"SupplierName": "Smartcards",
 		"WeightMeasure": 4.2,
 		"WeightUnit": "KG",
-		"Description": "Notebook Basic 19 with 2.80 GHz quad core 19LCD 8 GB DDR3 RAM1000 GB Hard Disc,Windows 8 Pro",
+		"Description": "Notebook Basic 19 with 2,80 GHz quad core, 19\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
 		"Name": "Notebook Basic 19",
 		"DateOfSale": "2017-04-09",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1003.jpg",
@@ -85,8 +82,7 @@
 		"Depth": 21,
 		"Height": 4,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1007",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -107,8 +103,7 @@
 		"Depth": 22,
 		"Height": 3,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1010",
 		"Category": "Accessories",
 		"MainCategory": "Computer Systems",
@@ -116,7 +111,7 @@
 		"SupplierName": "Very Best Screens",
 		"WeightMeasure": 4.3,
 		"WeightUnit": "KG",
-		"Description": "Notebook Professional 15 with 2,80 GHz quad core, 15Multitouch LCD8 GB DDR3 RAM,500 GB SSD - DVD - Writer(DVD - R / +R / -RW / -RAM),Windows 8 Pro ",
+		"Description": "Notebook Professional 15 with 2,80 GHz quad core, 15\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro",
 		"Name": "Notebook Professional 15",
 		"DateOfSale": "2017-02-22",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1010.jpg",
@@ -129,9 +124,28 @@
 		"Depth": 20,
 		"Height": 3,
 		"DimUnit": "cm"
-	},
-	
-	{
+	}, {
+		"ProductId": "HT-1011",
+		"Category": "Laptops",
+		"MainCategory": "Computer Systems",
+		"TaxTarifCode": "1",
+		"SupplierName": "Very Best Screens",
+		"WeightMeasure": 4.1,
+		"WeightUnit": "KG",
+		"Description": "Notebook Professional 17 with 2,80 GHz quad core, 17\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro",
+		"Name": "Notebook Professional 17",
+		"DateOfSale": "2017-01-02",
+		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1011.jpg",
+		"Status": "Available",
+		"Quantity": 17,
+		"UoM": "PC",
+		"CurrencyCode": "EUR",
+		"Price": 2299,
+		"Width": 33,
+		"Depth": 23,
+		"Height": 2,
+		"DimUnit": "cm"
+	}, {
 		"ProductId": "HT-1020",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -152,8 +166,7 @@
 		"Depth": 1.8,
 		"Height": 17,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1021",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -174,8 +187,7 @@
 		"Depth": 1.7,
 		"Height": 18,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1022",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -196,8 +208,7 @@
 		"Depth": 1.5,
 		"Height": 14,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1023",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -218,8 +229,7 @@
 		"Depth": 1.6,
 		"Height": 13,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1030",
 		"Category": "Flat Screen Monitors",
 		"MainCategory": "Computer Components",
@@ -239,8 +249,7 @@
 		"Depth": 12,
 		"Height": 36,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1031",
 		"Category": "Flat Screen Monitors",
 		"MainCategory": "Computer Components",
@@ -260,8 +269,7 @@
 		"Depth": 19,
 		"Height": 43,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1032",
 		"Category": "Flat Screen Monitors",
 		"MainCategory": "Computer Components",
@@ -281,8 +289,7 @@
 		"Depth": 19,
 		"Height": 43,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1035",
 		"Category": "Flat Screen Monitors",
 		"MainCategory": "Computer Components",
@@ -302,8 +309,7 @@
 		"Depth": 20,
 		"Height": 41,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1036",
 		"Category": "Flat Screen Monitors",
 		"MainCategory": "Computer Components",
@@ -323,8 +329,7 @@
 		"Depth": 26,
 		"Height": 46,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1037",
 		"Category": "Flat Screen Monitors",
 		"MainCategory": "Computer Components",
@@ -344,8 +349,7 @@
 		"Depth": 22.1,
 		"Height": 39.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1040",
 		"Category": "Printers",
 		"MainCategory": "Printers & Scanners",
@@ -365,8 +369,7 @@
 		"Depth": 46,
 		"Height": 30,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1041",
 		"Category": "Printers",
 		"MainCategory": "Printers & Scanners",
@@ -386,8 +389,7 @@
 		"Depth": 42,
 		"Height": 26,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1042",
 		"Category": "Printers",
 		"MainCategory": "Printers & Scanners",
@@ -407,8 +409,7 @@
 		"Depth": 50,
 		"Height": 65,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1050",
 		"Category": "Printers",
 		"MainCategory": "Printers & Scanners",
@@ -428,8 +429,7 @@
 		"Depth": 41,
 		"Height": 28,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1051",
 		"Category": "Printers",
 		"MainCategory": "Printers & Scanners",
@@ -449,8 +449,7 @@
 		"Depth": 32,
 		"Height": 25,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1052",
 		"Category": "Printers",
 		"MainCategory": "Printers & Scanners",
@@ -470,8 +469,7 @@
 		"Depth": 41,
 		"Height": 28,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1055",
 		"Category": "Multifunction Printers",
 		"MainCategory": "Printers & Scanners",
@@ -491,8 +489,7 @@
 		"Depth": 45,
 		"Height": 29,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1056",
 		"Category": "Multifunction Printers",
 		"MainCategory": "Printers & Scanners",
@@ -512,8 +509,7 @@
 		"Depth": 41.3,
 		"Height": 22,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1060",
 		"Category": "Mice",
 		"MainCategory": "Computer Components",
@@ -533,8 +529,7 @@
 		"Depth": 14.5,
 		"Height": 3.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1061",
 		"Category": "Mice",
 		"MainCategory": "Computer Components",
@@ -554,8 +549,7 @@
 		"Depth": 15,
 		"Height": 3.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1062",
 		"Category": "Mice",
 		"MainCategory": "Computer Components",
@@ -575,8 +569,7 @@
 		"Depth": 7,
 		"Height": 4,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1063",
 		"Category": "Keyboards",
 		"MainCategory": "Computer Components",
@@ -596,8 +589,7 @@
 		"Depth": 21,
 		"Height": 3.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1064",
 		"Category": "Keyboards",
 		"MainCategory": "Computer Components",
@@ -617,8 +609,7 @@
 		"Depth": 25,
 		"Height": 3,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1065",
 		"Category": "Keyboards",
 		"MainCategory": "Computer Components",
@@ -638,8 +629,7 @@
 		"Depth": 23,
 		"Height": 4,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1066",
 		"Category": "Mousepads",
 		"MainCategory": "Computer Components",
@@ -659,8 +649,7 @@
 		"Depth": 6,
 		"Height": 0.2,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1067",
 		"Category": "Mousepads",
 		"MainCategory": "Computer Components",
@@ -680,8 +669,7 @@
 		"Depth": 6,
 		"Height": 0.2,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1068",
 		"Category": "Mousepads",
 		"MainCategory": "Computer Components",
@@ -701,8 +689,7 @@
 		"Depth": 24,
 		"Height": 0.6,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1069",
 		"Category": "Computer System Accessories",
 		"MainCategory": "Computer Systems",
@@ -722,8 +709,7 @@
 		"Depth": 6,
 		"Height": 3,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1070",
 		"Category": "Graphic Cards",
 		"MainCategory": "Computer Components",
@@ -743,8 +729,7 @@
 		"Depth": 35,
 		"Height": 17,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1071",
 		"Category": "Graphic Cards",
 		"MainCategory": "Computer Components",
@@ -764,8 +749,7 @@
 		"Depth": 35,
 		"Height": 17,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1072",
 		"Category": "Graphic Cards",
 		"MainCategory": "Computer Components",
@@ -785,8 +769,7 @@
 		"Depth": 35,
 		"Height": 17,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1073",
 		"Category": "Graphic Cards",
 		"MainCategory": "Computer Components",
@@ -806,8 +789,7 @@
 		"Depth": 35,
 		"Height": 17,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1080",
 		"Category": "Scanners",
 		"MainCategory": "Printers & Scanners",
@@ -827,8 +809,7 @@
 		"Depth": 48,
 		"Height": 5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1081",
 		"Category": "Scanners",
 		"MainCategory": "Printers & Scanners",
@@ -848,8 +829,7 @@
 		"Depth": 43,
 		"Height": 7,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1082",
 		"Category": "Scanners",
 		"MainCategory": "Printers & Scanners",
@@ -869,8 +849,7 @@
 		"Depth": 41,
 		"Height": 12,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1083",
 		"Category": "Scanners",
 		"MainCategory": "Printers & Scanners",
@@ -890,8 +869,7 @@
 		"Depth": 40,
 		"Height": 10,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1085",
 		"Category": "Multifunction Printers",
 		"MainCategory": "Printers & Scanners",
@@ -911,8 +889,7 @@
 		"Depth": 42,
 		"Height": 22,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1090",
 		"Category": "Speakers",
 		"MainCategory": "Computer Components",
@@ -932,8 +909,7 @@
 		"Depth": 10,
 		"Height": 16,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1091",
 		"Category": "Speakers",
 		"MainCategory": "Computer Components",
@@ -953,8 +929,7 @@
 		"Depth": 11,
 		"Height": 17.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1092",
 		"Category": "Speakers",
 		"MainCategory": "Computer Components",
@@ -974,8 +949,7 @@
 		"Depth": 10.4,
 		"Height": 18.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1100",
 		"Category": "Software",
 		"MainCategory": "Software",
@@ -995,8 +969,7 @@
 		"Depth": 6.5,
 		"Height": 2.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1101",
 		"Category": "Software",
 		"MainCategory": "Software",
@@ -1016,8 +989,7 @@
 		"Depth": 6.7,
 		"Height": 24,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1102",
 		"Category": "Software",
 		"MainCategory": "Software",
@@ -1037,8 +1009,7 @@
 		"Depth": 6,
 		"Height": 27,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1103",
 		"Category": "Software",
 		"MainCategory": "Software",
@@ -1058,8 +1029,7 @@
 		"Depth": 3.4,
 		"Height": 22,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1104",
 		"Category": "Software",
 		"MainCategory": "Software",
@@ -1079,8 +1049,7 @@
 		"Depth": 3,
 		"Height": 30,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1105",
 		"Category": "Software",
 		"MainCategory": "Software",
@@ -1100,8 +1069,7 @@
 		"Depth": 4,
 		"Height": 21,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1106",
 		"Category": "Software",
 		"MainCategory": "Software",
@@ -1121,8 +1089,7 @@
 		"Depth": 4.2,
 		"Height": 23.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1107",
 		"Category": "Software",
 		"MainCategory": "Software",
@@ -1142,8 +1109,7 @@
 		"Depth": 1.5,
 		"Height": 19,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1110",
 		"Category": "Computer System Accessories",
 		"MainCategory": "Computer Systems",
@@ -1163,8 +1129,7 @@
 		"Depth": 8,
 		"Height": 4.3,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1111",
 		"Category": "Computer System Accessories",
 		"MainCategory": "Computer Systems",
@@ -1184,8 +1149,7 @@
 		"Depth": 9,
 		"Height": 7,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1112",
 		"Category": "Computer System Accessories",
 		"MainCategory": "Computer Systems",
@@ -1205,8 +1169,7 @@
 		"Depth": 8.2,
 		"Height": 1.3,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1113",
 		"Category": "Computer System Accessories",
 		"MainCategory": "Computer Systems",
@@ -1226,8 +1189,7 @@
 		"Depth": 2,
 		"Height": 0.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1114",
 		"Category": "Computer System Accessories",
 		"MainCategory": "Computer Systems",
@@ -1247,8 +1209,7 @@
 		"Depth": 32,
 		"Height": 7,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1115",
 		"Category": "Telecommunications",
 		"MainCategory": "Computer Components",
@@ -1268,8 +1229,7 @@
 		"Depth": 18,
 		"Height": 5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1116",
 		"Category": "Telecommunications",
 		"MainCategory": "Computer Components",
@@ -1289,8 +1249,7 @@
 		"Depth": 18,
 		"Height": 5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1117",
 		"Category": "Telecommunications",
 		"MainCategory": "Computer Components",
@@ -1310,8 +1269,7 @@
 		"Depth": 18,
 		"Height": 5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1118",
 		"Category": "Computer System Accessories",
 		"MainCategory": "Computer Systems",
@@ -1331,8 +1289,7 @@
 		"Depth": 8.7,
 		"Height": 1.2,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1120",
 		"Category": "Keyboards",
 		"MainCategory": "Computer Components",
@@ -1352,8 +1309,7 @@
 		"Depth": 23,
 		"Height": 4,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1137",
 		"Category": "Flat Screen Monitors",
 		"MainCategory": "Computer Components",
@@ -1373,8 +1329,7 @@
 		"Depth": 22,
 		"Height": 38,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1138",
 		"Category": "Mice",
 		"MainCategory": "Computer Components",
@@ -1394,8 +1349,7 @@
 		"Depth": 0.5,
 		"Height": 1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1210",
 		"Category": "PCs",
 		"MainCategory": "Computer Systems",
@@ -1415,8 +1369,7 @@
 		"Depth": 31,
 		"Height": 43,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1500",
 		"Category": "Servers",
 		"MainCategory": "Computer Systems",
@@ -1436,8 +1389,7 @@
 		"Depth": 35,
 		"Height": 23,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1501",
 		"Category": "Servers",
 		"MainCategory": "Computer Systems",
@@ -1457,8 +1409,7 @@
 		"Depth": 30,
 		"Height": 27,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1502",
 		"Category": "Servers",
 		"MainCategory": "Computer Systems",
@@ -1478,8 +1429,7 @@
 		"Depth": 27.3,
 		"Height": 37,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6130",
 		"Category": "Flat Screen TVs",
 		"MainCategory": "TV, Video & HiFi",
@@ -1499,8 +1449,7 @@
 		"Depth": 22.1,
 		"Height": 55,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6131",
 		"Category": "Flat Screen TVs",
 		"MainCategory": "TV, Video & HiFi",
@@ -1520,8 +1469,7 @@
 		"Depth": 26,
 		"Height": 61,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6132",
 		"Category": "Flat Screen TVs",
 		"MainCategory": "TV, Video & HiFi",
@@ -1541,8 +1489,7 @@
 		"Depth": 23,
 		"Height": 79.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-7030",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -1562,8 +1509,7 @@
 		"Depth": 13,
 		"Height": 12.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-7020",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -1583,8 +1529,7 @@
 		"Depth": 13,
 		"Height": 12.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-7010",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -1604,8 +1549,7 @@
 		"Depth": 13,
 		"Height": 12.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-7000",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -1625,8 +1569,7 @@
 		"Depth": 13,
 		"Height": 12.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1095",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -1646,8 +1589,7 @@
 		"Depth": 19,
 		"Height": 23,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1096",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -1667,8 +1609,7 @@
 		"Depth": 17,
 		"Height": 19,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1097",
 		"Category": "Accessories",
 		"MainCategory": "Computer Components",
@@ -1688,8 +1629,7 @@
 		"Depth": 2.4,
 		"Height": 19.7,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6123",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1709,8 +1649,7 @@
 		"Depth": 6,
 		"Height": 0.8,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6122",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1730,8 +1669,7 @@
 		"Depth": 8,
 		"Height": 9.2,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6121",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1751,8 +1689,7 @@
 		"Depth": 8,
 		"Height": 9.2,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6120",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1772,8 +1709,7 @@
 		"Depth": 6,
 		"Height": 1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6111",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1793,8 +1729,7 @@
 		"Depth": 26,
 		"Height": 6.2,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6110",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1814,8 +1749,7 @@
 		"Depth": 24,
 		"Height": 6,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6102",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1835,8 +1769,7 @@
 		"Depth": 23.1,
 		"Height": 23,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6101",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1856,8 +1789,7 @@
 		"Depth": 23.1,
 		"Height": 23,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-2002",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1865,9 +1797,8 @@
 		"SupplierName": "Technocom",
 		"WeightMeasure": 0.72,
 		"WeightUnit": "KG",
-		"Description": "9	LCD Screen,	storage holds up to 8 hours,2 speakers included ",
-		"Name": "Portable DVD Player with 9"
-		LCD Monitor ",
+		"Description": "9\" LCD Screen, storage holds up to 8 hours, 2 speakers included",
+		"Name": "Portable DVD Player with 9\" LCD Monitor",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-2002.jpg",
 		"Status": "Available",
 		"Quantity": 50,
@@ -1878,8 +1809,7 @@
 		"Depth": 16.5,
 		"Height": 14,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-6100",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1899,8 +1829,7 @@
 		"Depth": 23.1,
 		"Height": 23,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-2027",
 		"Category": "Accessories",
 		"MainCategory": "Computer Systems",
@@ -1920,8 +1849,7 @@
 		"Depth": 2,
 		"Height": 2,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-2026",
 		"Category": "Accessories",
 		"MainCategory": "Computer Systems",
@@ -1941,8 +1869,7 @@
 		"Depth": 10.2,
 		"Height": 13,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-2025",
 		"Category": "Accessories",
 		"MainCategory": "Computer Systems",
@@ -1962,8 +1889,7 @@
 		"Depth": 13,
 		"Height": 20,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-2001",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1971,11 +1897,8 @@
 		"SupplierName": "Titanium",
 		"WeightMeasure": 0.84,
 		"WeightUnit": "KG",
-		"Description": "10"
-		LCD Screen,
-		storage battery holds up to 8 hours ",
-		"Name": "10"
-		Portable DVD player ",
+		"Description": "10\" LCD Screen, storage battery holds up to 8 hours",
+		"Name": "10\" Portable DVD player",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-2001.jpg",
 		"Status": "Available",
 		"Quantity": 21,
@@ -1986,8 +1909,7 @@
 		"Depth": 19.5,
 		"Height": 29,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-2000",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -1995,11 +1917,8 @@
 		"SupplierName": "Titanium",
 		"WeightMeasure": 0.79,
 		"WeightUnit": "KG",
-		"Description": "7"
-		LCD Screen,
-		storage battery holds up to 6 hours!",
-		"Name": "7"
-		Widescreen Portable DVD Player w MP3 ",
+		"Description": "7\" LCD Screen, storage battery holds up to 6 hours!",
+		"Name": "7\" Widescreen Portable DVD Player w MP3",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-2000.jpg",
 		"Status": "Available",
 		"Quantity": 20,
@@ -2010,8 +1929,7 @@
 		"Depth": 19,
 		"Height": 27.6,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1603",
 		"Category": "Desktop Computers",
 		"MainCategory": "Computer Systems",
@@ -2031,8 +1949,7 @@
 		"Depth": 28,
 		"Height": 42,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1602",
 		"Category": "Desktop Computers",
 		"MainCategory": "Computer Systems",
@@ -2052,8 +1969,7 @@
 		"Depth": 34,
 		"Height": 47,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1601",
 		"Category": "Desktop Computers",
 		"MainCategory": "Computer Systems",
@@ -2073,8 +1989,7 @@
 		"Depth": 31.7,
 		"Height": 40.2,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1600",
 		"Category": "Desktop Computers",
 		"MainCategory": "Computer Systems",
@@ -2094,8 +2009,7 @@
 		"Depth": 29,
 		"Height": 38,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1119",
 		"Category": "Accessories",
 		"MainCategory": "Computer Systems",
@@ -2115,8 +2029,7 @@
 		"Depth": 3.1,
 		"Height": 3.9,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-8000",
 		"Category": "Laptops",
 		"MainCategory": "Computer Systems",
@@ -2136,8 +2049,7 @@
 		"Depth": 19,
 		"Height": 3.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-8001",
 		"Category": "Laptops",
 		"MainCategory": "Computer Systems",
@@ -2157,8 +2069,7 @@
 		"Depth": 20,
 		"Height": 3.4,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-8002",
 		"Category": "Laptops",
 		"MainCategory": "Computer Systems",
@@ -2178,8 +2089,7 @@
 		"Depth": 21,
 		"Height": 4.1,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-8003",
 		"Category": "Laptops",
 		"MainCategory": "Computer Systems",
@@ -2199,8 +2109,7 @@
 		"Depth": 31,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "PF-1000",
 		"Category": "Accessories",
 		"MainCategory": "Computer Systems",
@@ -2220,8 +2129,7 @@
 		"Depth": 30,
 		"Height": 3,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-9999",
 		"Category": "Tablets",
 		"MainCategory": "Smartphones & Tablets",
@@ -2241,8 +2149,7 @@
 		"Depth": 31,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-9998",
 		"Category": "Smartphones and Tablets",
 		"MainCategory": "Smartphones & Tablets",
@@ -2262,8 +2169,7 @@
 		"Depth": 31,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-9997",
 		"Category": "Smartphones and Tablets",
 		"MainCategory": "Smartphones & Tablets",
@@ -2283,8 +2189,7 @@
 		"Depth": 31,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-9996",
 		"Category": "Accessories",
 		"MainCategory": "Smartphones & Tablets",
@@ -2304,8 +2209,7 @@
 		"Depth": 40,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-9995",
 		"Category": "Accessories",
 		"MainCategory": "Smartphones & Tablets",
@@ -2325,8 +2229,7 @@
 		"Depth": 31,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-9994",
 		"Category": "Accessories",
 		"MainCategory": "TV, Video & HiFi",
@@ -2334,8 +2237,7 @@
 		"SupplierName": "Ultrasonic United",
 		"WeightMeasure": 3.8,
 		"WeightUnit": "KG",
-		"Description": "1920x1080 Full HD, image stabilization reduces blur, 27x Optical / 32x Extended Zoom, wide angle Lens, 2.7"
-		wide LCD display ",
+		"Description": "1920x1080 Full HD, image stabilization reduces blur, 27x Optical / 32x Extended Zoom, wide angle Lens, 2.7\" wide LCD display",
 		"Name": "Camcorder View",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-9994.jpg",
 		"Status": "Available",
@@ -2347,8 +2249,7 @@
 		"Depth": 31,
 		"Height": 27,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-9993",
 		"Category": "Smartphones and Tablets",
 		"MainCategory": "Smartphones & Tablets",
@@ -2368,8 +2269,7 @@
 		"Depth": 31,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-9992",
 		"Category": "Smartphones and Tablets",
 		"MainCategory": "Smartphones & Tablets",
@@ -2389,8 +2289,7 @@
 		"Depth": 31,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-9991",
 		"Category": "Accessories",
 		"MainCategory": "Smartphones & Tablets",
@@ -2410,8 +2309,7 @@
 		"Depth": 31,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1251",
 		"Category": "Laptops",
 		"MainCategory": "Computer Systems",
@@ -2419,11 +2317,7 @@
 		"SupplierName": "Ultrasonic United",
 		"WeightMeasure": 4.2,
 		"WeightUnit": "KG",
-		"Description": "Flexible Laptop with 2,5 GHz Quad Core, 15"
-		HD TN,
-		16 GB DDR SDRAM,
-		256 GB SSD,
-		Windows 10 Pro ",
+		"Description": "Flexible Laptop with 2,5 GHz Quad Core, 15\" HD TN, 16 GB DDR SDRAM, 256 GB SSD, Windows 10 Pro",
 		"Name": "Astro Laptop 1516",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1251.jpg",
 		"Status": "Available",
@@ -2435,8 +2329,7 @@
 		"Depth": 18,
 		"Height": 3,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1252",
 		"Category": "Smartphones and Tablets",
 		"MainCategory": "Smartphones & Tablets",
@@ -2456,8 +2349,7 @@
 		"Depth": 6,
 		"Height": 1.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1253",
 		"Category": "Laptops",
 		"MainCategory": "Computer Systems",
@@ -2465,11 +2357,7 @@
 		"SupplierName": "Ultrasonic United",
 		"WeightMeasure": 4.2,
 		"WeightUnit": "KG",
-		"Description": "Flexible Laptop with 2,5 GHz Dual Core, 14"
-		HD + TN,
-		8 GB DDR SDRAM,
-		324 GB SSD,
-		Windows 10 Pro ",
+		"Description": "Flexible Laptop with 2,5 GHz Dual Core, 14\" HD+ TN, 8 GB DDR SDRAM, 324 GB SSD, Windows 10 Pro",
 		"Name": "Benda Laptop 1408",
 		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1253.jpg",
 		"Status": "Available",
@@ -2481,8 +2369,7 @@
 		"Depth": 18,
 		"Height": 3,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1254",
 		"Category": "Flat Screens",
 		"MainCategory": "Computer Components",
@@ -2502,8 +2389,7 @@
 		"Depth": 12,
 		"Height": 36,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1255",
 		"Category": "Flat Screens",
 		"MainCategory": "Computer Components",
@@ -2523,8 +2409,7 @@
 		"Depth": 12,
 		"Height": 38,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1256",
 		"Category": "Smartphones and Tablets",
 		"MainCategory": "Smartphones & Tablets",
@@ -2544,8 +2429,7 @@
 		"Depth": 15,
 		"Height": 1.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1257",
 		"Category": "Smartphones and Tablets",
 		"MainCategory": "Smartphones & Tablets",
@@ -2565,8 +2449,7 @@
 		"Depth": 31,
 		"Height": 4.5,
 		"DimUnit": "cm"
-	},
-	{
+	}, {
 		"ProductId": "HT-1258",
 		"Category": "Smartphones and Tablets",
 		"MainCategory": "Smartphones & Tablets",
@@ -2586,5 +2469,4 @@
 		"Depth": 21,
 		"Height": 3.5,
 		"DimUnit": "cm"
-	}
-]
+	}]
