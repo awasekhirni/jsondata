@@ -130,28 +130,7 @@
 		"Height": 3,
 		"DimUnit": "cm"
 	},
-	{
-		"ProductId": "HT-1011",
-		"Category": "Laptops",
-		"MainCategory": "Computer Systems",
-		"TaxTarifCode": "1",
-		"SupplierName": "Very Best Screens",
-		"WeightMeasure": 4.1,
-		"WeightUnit": "KG",
-		"Description":"Notebook Professional 17inch with 2.80 GHz quad core 17Multitouch LCD 8 GB DDR3 RAM500 GB S",
-		"Name": "Notebook Professional 17",
-		"DateOfSale": "2017-01-02",
-		"ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1011.jpg",
-		"Status": "Available",
-		"Quantity": 17,
-		"UoM": "PC",
-		"CurrencyCode": "EUR",
-		"Price": 2299,
-		"Width": 33,
-		"Depth": 23,
-		"Height": 2,
-		"DimUnit": "cm"
-	},
+	
 	{
 		"ProductId": "HT-1020",
 		"Category": "Accessories",
