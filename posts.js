@@ -1,4 +1,4 @@
-const posts = [
+[
    {
       "code":"BAcyDyQwcXX",
       "caption":"Lunch #hamont",
