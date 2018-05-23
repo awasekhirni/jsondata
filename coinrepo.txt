@@ -1,0 +1,18 @@
+https://api.coinmarketcap.com/v2/listings/ 
+https://coinmarketcap.com/api/?inf_contact_key=a373965a2506f3a4d511df3a9060780c2bfe547216cbb5348477c9c12078b8d7
+https://api.coinmarketcap.com/v2/ticker/?convert=BTC&limit=10
+https://api.coinmarketcap.com/v2/ticker/?convert=EUR&limit=10
+ https://api.coinmarketcap.com/v2/ticker/?start=101&limit=10&sort=id&structure=array
+  https://api.coinmarketcap.com/v2/ticker/
+Example: https://api.coinmarketcap.com/v2/ticker/?limit=10
+Example: https://api.coinmarketcap.com/v2/ticker/?start=101&limit=10
+Example: https://api.coinmarketcap.com/v2/ticker/?start=101&limit=10&sort=id
+
+ https://api.coinmarketcap.com/v2/ticker/1/
+Example: https://api.coinmarketcap.com/v2/ticker/1/?structure=array
+Example: https://api.coinmarketcap.com/v2/ticker/1/?convert=EUR
+Example: https://api.coinmarketcap.com/v2/ticker/1/?convert=BCH
+
+ https://api.coinmarketcap.com/v2/global/
+Example: https://api.coinmarketcap.com/v2/global/?convert=EUR
+Example: https://api.coinmarketcap.com/v2/global/?convert=BTC
