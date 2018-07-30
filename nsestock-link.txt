@@ -21,4 +21,16 @@ https://www.nseindia.com/live_market/dynaContent/live_analysis/gainers/secGt20Ga
 https://www.nseindia.com/live_market/dynaContent/live_analysis/losers/secGt20Losers1.json
 https://www.nseindia.com/live_market/dynaContent/live_analysis/gainers/secLt20Gainers1.json
 
+https://www.nseindia.com/live_market/dynaContent/live_analysis/gainers/fnoGainers1.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/gainers/allTopGainers1.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/losers/secLt20Losers1.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/losers/fnoLosers1.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/losers/allTopLosers1.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/most_active/allTopVolume1.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/most_active/allTopValue1.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/most_active/allTopVolume1.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/underlyings/ActiveUnderlyingsVolume.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/underlyings/ActiveUnderlyingsValue.json
+https://www.nseindia.com/live_market/dynaContent/live_analysis/volume_spurts/volume_spurts.json
+
 https://www.investing.com/stock-screener/?sp=country::14|sector::a|industry::a|equityType::a|exchange::46%3Ceq_market_cap;1
