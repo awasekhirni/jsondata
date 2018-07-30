@@ -11,3 +11,8 @@ https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/ajaxGetQuo
 https://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/bankNiftyStockWatch.json
 https://nseindia.com/live_market/dynaContent/live_watch/stock_watch/juniorNiftyStockWatch.json
 https://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/niftyStockWatch.json
+
+
+
+
+https://www.investing.com/stock-screener/?sp=country::14|sector::a|industry::a|equityType::a|exchange::46%3Ceq_market_cap;1
