@@ -4,3 +4,4 @@ http://www.nseindia.com/live_market/dynaContent/live_analysis/losers/niftyLosers
 https://www1.nseindia.com//homepage/Indices1.json
 https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/ajaxGetQuoteJSON.jsp?symbol=INFY
 https://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/foSecStockWatch.json
+http://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/niftyStockWatch.json
