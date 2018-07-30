@@ -6,3 +6,4 @@ https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/ajaxGetQuo
 https://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/foSecStockWatch.json
 http://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/niftyStockWatch.json
 https://www.nseindia.com/homepage/Indices1.json
+https://nseindia.com/live_market/dynaContent/live_watch/stock_watch/niftyMidcap50StockWatch.json
