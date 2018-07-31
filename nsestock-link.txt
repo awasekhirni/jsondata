@@ -34,3 +34,4 @@ https://www.nseindia.com/live_market/dynaContent/live_analysis/underlyings/Activ
 https://www.nseindia.com/live_market/dynaContent/live_analysis/volume_spurts/volume_spurts.json
 
 https://www.investing.com/stock-screener/?sp=country::14|sector::a|industry::a|equityType::a|exchange::46%3Ceq_market_cap;1
+https://stockcharts.com/
