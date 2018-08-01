@@ -1,0 +1,20 @@
+{
+	"category":{
+		"id":"01",
+		"name":"Electronics",
+		"subcategories":[
+			{
+				"id":"01",
+				"name":"probes"
+			},
+			{
+				"id":"02",
+				"name":"sensors"
+			},
+			{
+				"id":"03",
+				"name":"drones"
+			}
+		]
+	}
+}
