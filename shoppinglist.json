@@ -1,0 +1,31 @@
+
+{
+	"shopping_list":{
+		"id":"0000001",
+		"user_id":"0000001",
+		"name":"Syed Awase Khirni",
+		"date_created":20180801135542,
+		"date_modified":20180801135542,
+                "is_active":1,
+		"cart_items":[
+			{
+				"product_id":"00001",
+                "count":2,
+                "discount":0.25,
+				"price_unit":3.99
+			},
+			{
+				"product_id":"00013",
+                "count":1,
+                "discount":0.1,
+				"price_unit":2.00
+			},
+			{
+				"product_id":"02019",
+                "count":4,
+                "discount":0.08,
+				"price_unit":0.70
+			}
+		]
+	}
+}
