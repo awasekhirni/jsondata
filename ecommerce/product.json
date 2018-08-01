@@ -1,0 +1,37 @@
+{  
+   "product":{  
+      "id":"0000001",
+      "name":"SycliQ Probe",
+      "status":2,
+      "description_short":"SycliQ Geospatial Probe",
+      "description_full":"SycliQ Geospatial Probe with Sensors + Drone",
+      "origin_country":"India",
+      "brand":"TPRI",
+      "size":700,
+      "size_unit":"g",
+      "category_id":"000036",
+      "subcategory_id":"01323",
+      "promo":1,
+      "price_normal":233.95,
+      "price_discount":12.95,
+      "tax":18,
+      "tags":[  
+         "SycliQ",
+         "Hyperlocal Geospatial Sensor Probe"
+      ],
+      "image_url":"http://www.sycliq.com/img/products/0000001_1.png",
+      "thumbnail_url":"http://www.sycliq.com/img/products/0000001_thumb.png",
+      "extra_images":[  
+         "http://www.sycliq.com/img/products/0000001_2.png",
+         "http://www.sycliq.com/img/products/0000001_3.png"
+      ],
+      "date_created":20150801135542,
+      "date_modified":20150801135542,
+      "ingredients":[  
+         "chemical sensor",
+         "gyrometer",
+         "wifi",
+         "bluetooth"
+      ]
+   }
+}
