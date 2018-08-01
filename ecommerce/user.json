@@ -1,0 +1,17 @@
+{
+   "user":{
+      "id":"0000001",
+      "name":"Awase Khirni",
+      "surname":"Syed",
+      "email":"awasekhirni@gmail.com",
+      "city":"Bangalore",
+      "postal_code":"560043",
+      "address":"Cessna Business Park, Umiya Business Bay, Marthahalli ORR",
+      "phone":"+91.9035433124",
+      "account_status":0,
+      "date_registered":20150801141057,
+      "date_modified":20150801141057,
+      "last_active":20150801141057,
+      "last_purchase":20150801141057,
+   }
+}
