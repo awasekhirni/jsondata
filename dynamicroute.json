@@ -1,6 +1,6 @@
 [{
   "pathName": "home/finance",
-  "componentName": "FinancecomponentName",
+  "componentName": "FinanceComponent",
   "dataContext": [
     {
     },
@@ -15,14 +15,21 @@
   ]
 }, {
   "pathName": "home/analytics",
-  "componentName": " AnalyticscomponentName",
+  "componentName": " AnalyticsComponent",
   "dataContext": [
     {
     }
   ]
 }, {
+  "pathName": "home/dashboard",
+  "componentName": " DashboardComponent",
+  "dataContext": [
+    {
+    }
+  ]
+},{
   "pathName": "home/admin",
-  "componentName": " AdmincomponentName",
+  "componentName": " AdminComponent",
   "dataContext": [
     {
     },
@@ -33,7 +40,7 @@
   ]
 },  {
   "pathName": "home/reports",
-  "componentName": "ReportscomponentName",
+  "componentName": "ReportsComponent",
   "dataContext": [
     {
     },
@@ -48,7 +55,7 @@
   ]
 }, {
   "pathName": "home/sales",
-  "componentName": "SalescomponentName",
+  "componentName": "SalesComponent",
   "dataContext": [
     {
     },
@@ -61,7 +68,7 @@
   ]
 }, {
   "pathName": "home/stock",
-  "componentName": "StockcomponentName",
+  "componentName": "StockComponent",
   "dataContext": [
     {
     },
@@ -70,7 +77,7 @@
   ]
 }, {
   "pathName": "home/chat",
-  "componentName": " ChatcomponentName",
+  "componentName": " ChatComponent",
   "dataContext": [
     {
     },
@@ -85,7 +92,7 @@
   ]
 }, {
   "pathName": "home/profile",
-  "componentName": "ProfilecomponentName",
+  "componentName": "ProfileComponent",
   "dataContext": [
     {
     },
@@ -96,7 +103,7 @@
   ]
 }, {
   "pathName": "home/hrd",
-  "componentName": " HrdcomponentName",
+  "componentName": " HrdComponent",
   "dataContext": [
     {
     },
