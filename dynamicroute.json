@@ -1,0 +1,117 @@
+[{
+  "path": "home/finance",
+  "component": "FinanceComponent",
+  "data": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "path": "home/analytics",
+  "component": " AdminComponent",
+  "data": [
+    {
+    }
+  ]
+}, {
+  "path": "home/admin",
+  "component": " AdminComponent",
+  "data": [
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "path": "home",
+  "component": "FinanceComponent",
+  "data": [
+    {
+    }
+  ]
+}, {
+  "path": "home/reports",
+  "component": "AnalyticsComponent",
+  "data": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "path": "home/analytics",
+  "component": "WelcomeComponent",
+  "data": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "path": "home/reports",
+  "component": "AnalyticsComponent",
+  "data": [
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "path": "home/analytics",
+  "component": " AdminComponent",
+  "data": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "path": "home/reports",
+  "component": "FinanceComponent",
+  "data": [
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "path": "home/analytics",
+  "component": " AdminComponent",
+  "data": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}]
