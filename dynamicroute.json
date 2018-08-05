@@ -1,41 +1,41 @@
 [{
   "pathName": "home/finance",
-  "componentName": FinanceComponent,
+  "componentName": "FinanceComponent",
   "dataContext": {"preload":true, "title":"Finance Component"}
 }, {
   "pathName": "home/analytics",
-  "componentName": AnalyticsComponent,
+  "componentName": "AnalyticsComponent",
   "dataContext": {"preload":true, "title":"AnalyticsComponent"}
 }, {
   "pathName": "home/dashboard",
-  "componentName": DashboardComponent,
+  "componentName": "DashboardComponent",
   "dataContext": {"preload":true, "title":"DashboardComponent"}
 },{
   "pathName": "home/admin",
-  "componentName": AdminComponent,
+  "componentName": " AdminComponent",
   "dataContext": {"preload":true, "title":"AdminComponent"}
 },  {
   "pathName": "home/reports",
-  "componentName": ReportsComponent,
+  "componentName": "ReportsComponent",
   "dataContext": {"preload":true, "title":"ReportsComponent"}
 }, {
   "pathName": "home/sales",
-  "componentName": SalesComponent,
+  "componentName": "SalesComponent",
   "dataContext": {"preload":true, "title":"SalesComponent"}
 }, {
   "pathName": "home/stock",
-  "componentName": StockComponent,
+  "componentName": "StockComponent",
   "dataContext": {"preload":true, "title":"StockComponent"}
 }, {
   "pathName": "home/chart",
-  "componentName": ChartComponent,
+  "componentName": " ChartComponent",
   "dataContext": {"preload":true, "title":"ChartComponent"}
 }, {
   "pathName": "home/profile",
-  "componentName": ProfileComponent,
+  "componentName": "ProfileComponent",
   "dataContext": {"preload":true, "title":"ProfileComponent"}
 }, {
   "pathName": "home/hrd",
-  "componentName": HrdComponent,
+  "componentName": " HrdComponent",
   "dataContext": {"preload":true, "title":"HrdComponent"}
 }]
