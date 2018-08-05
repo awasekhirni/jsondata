@@ -1,7 +1,7 @@
 [{
-  "path": "home/finance",
-  "component": "FinanceComponent",
-  "data": [
+  "pathName": "home/finance",
+  "componentName": "FinancecomponentName",
+  "dataContext": [
     {
     },
     {
@@ -14,38 +14,16 @@
     }
   ]
 }, {
-  "path": "home/analytics",
-  "component": " AnalyticsComponent",
-  "data": [
+  "pathName": "home/analytics",
+  "componentName": " AnalyticscomponentName",
+  "dataContext": [
     {
     }
   ]
 }, {
-  "path": "home/admin",
-  "component": " AdminComponent",
-  "data": [
-    {
-    },
-    {
-    },
-    {
-    }
-  ]
-}, {
-  "path": "home",
-  "component": "HomeComponent",
-  "data": [
-    {
-    }
-  ]
-}, {
-  "path": "home/reports",
-  "component": "ReportsComponent",
-  "data": [
-    {
-    },
-    {
-    },
+  "pathName": "home/admin",
+  "componentName": " AdmincomponentName",
+  "dataContext": [
     {
     },
     {
@@ -54,31 +32,16 @@
     }
   ]
 }, {
-  "path": "home/sales",
-  "component": "SalesComponent",
-  "data": [
-    {
-    },
-    {
-    },
-    {
-    },
+  "pathName": "home",
+  "componentName": "HomecomponentName",
+  "dataContext": [
     {
     }
   ]
 }, {
-  "path": "home/stock",
-  "component": "StockComponent",
-  "data": [
-    {
-    },
-    {
-    }
-  ]
-}, {
-  "path": "home/chat",
-  "component": " ChatComponent",
-  "data": [
+  "pathName": "home/reports",
+  "componentName": "ReportscomponentName",
+  "dataContext": [
     {
     },
     {
@@ -91,9 +54,11 @@
     }
   ]
 }, {
-  "path": "home/profile",
-  "component": "ProfileComponent",
-  "data": [
+  "pathName": "home/sales",
+  "componentName": "SalescomponentName",
+  "dataContext": [
+    {
+    },
     {
     },
     {
@@ -102,9 +67,44 @@
     }
   ]
 }, {
-  "path": "home/hrd",
-  "component": " HrdComponent",
-  "data": [
+  "pathName": "home/stock",
+  "componentName": "StockcomponentName",
+  "dataContext": [
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "pathName": "home/chat",
+  "componentName": " ChatcomponentName",
+  "dataContext": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "pathName": "home/profile",
+  "componentName": "ProfilecomponentName",
+  "dataContext": [
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}, {
+  "pathName": "home/hrd",
+  "componentName": " HrdcomponentName",
+  "dataContext": [
     {
     },
     {
