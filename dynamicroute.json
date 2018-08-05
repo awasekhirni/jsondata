@@ -1,117 +1,41 @@
 [{
   "pathName": "home/finance",
   "componentName": "FinanceComponent",
-  "dataContext": [
-    {
-    },
-    {
-    },
-    {
-    },
-    {
-    },
-    {
-    }
-  ]
+  "dataContext": {preload:true, title:"Finance Component"}
 }, {
   "pathName": "home/analytics",
   "componentName": " AnalyticsComponent",
-  "dataContext": [
-    {
-    }
-  ]
+  "dataContext": {preload:true, title:"AnalyticsComponent"}
 }, {
   "pathName": "home/dashboard",
-  "componentName": " DashboardComponent",
-  "dataContext": [
-    {
-    }
-  ]
+  "componentName": "DashboardComponent",
+  "dataContext": {preload:true, title:"DashboardComponent"}
 },{
   "pathName": "home/admin",
   "componentName": " AdminComponent",
-  "dataContext": [
-    {
-    },
-    {
-    },
-    {
-    }
-  ]
+  "dataContext": {preload:true, title:"AdminComponent"}
 },  {
   "pathName": "home/reports",
   "componentName": "ReportsComponent",
-  "dataContext": [
-    {
-    },
-    {
-    },
-    {
-    },
-    {
-    },
-    {
-    }
-  ]
+  "dataContext": {preload:true, title:"ReportsComponent"}
 }, {
   "pathName": "home/sales",
   "componentName": "SalesComponent",
-  "dataContext": [
-    {
-    },
-    {
-    },
-    {
-    },
-    {
-    }
-  ]
+  "dataContext": {preload:true, title:"SalesComponent"}
 }, {
   "pathName": "home/stock",
   "componentName": "StockComponent",
-  "dataContext": [
-    {
-    },
-    {
-    }
-  ]
+  "dataContext": {preload:true, title:"StockComponent"}
 }, {
-  "pathName": "home/chat",
-  "componentName": " ChatComponent",
-  "dataContext": [
-    {
-    },
-    {
-    },
-    {
-    },
-    {
-    },
-    {
-    }
-  ]
+  "pathName": "home/chart",
+  "componentName": " ChartComponent",
+  "dataContext": {preload:true, title:"ChartComponent"}
 }, {
   "pathName": "home/profile",
   "componentName": "ProfileComponent",
-  "dataContext": [
-    {
-    },
-    {
-    },
-    {
-    }
-  ]
+  "dataContext": {preload:true, title:"ProfileComponent"}
 }, {
   "pathName": "home/hrd",
   "componentName": " HrdComponent",
-  "dataContext": [
-    {
-    },
-    {
-    },
-    {
-    },
-    {
-    }
-  ]
+  "dataContext": {preload:true, title:"HrdComponent"}
 }]
