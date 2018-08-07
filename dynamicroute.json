@@ -24,7 +24,7 @@
 	},
 	{
 		"pathName": "home/admin",
-		"componentName": " AdminComponent",
+		"componentName": "AdminComponent",
 		"dataContext": {
 			"preload": true,
 			"title": "AdminComponent"
@@ -56,7 +56,7 @@
 	},
 	{
 		"pathName": "home/chart",
-		"componentName": " ChartComponent",
+		"componentName": "ChartComponent",
 		"dataContext": {
 			"preload": true,
 			"title": "ChartComponent"
@@ -72,10 +72,18 @@
 	},
 	{
 		"pathName": "home/hrd",
-		"componentName": " HrdComponent",
+		"componentName": "HrdComponent",
 		"dataContext": {
 			"preload": true,
 			"title": "HrdComponent"
+		}
+	},
+ {
+		"pathName": "home",
+		"componentName": "DashboardComponent",
+		"dataContext": {
+			"preload": true,
+			"title": "DashboardComponent"
 		}
 	}
 ]
