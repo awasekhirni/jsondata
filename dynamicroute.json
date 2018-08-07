@@ -1,4 +1,13 @@
-[{
+[
+ {
+		"pathName": "home",
+		"componentName": "DashboardComponent",
+		"dataContext": {
+			"preload": true,
+			"title": "DashboardComponent"
+		}
+	},
+	{
 		"pathName": "home/finance",
 		"componentName": "FinanceComponent",
 		"dataContext": {
@@ -76,14 +85,6 @@
 		"dataContext": {
 			"preload": true,
 			"title": "HrdComponent"
-		}
-	},
- {
-		"pathName": "home",
-		"componentName": "DashboardComponent",
-		"dataContext": {
-			"preload": true,
-			"title": "DashboardComponent"
 		}
 	}
 ]
