@@ -18,3 +18,4 @@ Jobs	https://api.hnpwa.com/v0/jobs/1.json
 moneycontrol 
 https://appfeeds.moneycontrol.com/jsonapi/market/marketmap&format=&type=0&ind_id=9
 http://www.moneycontrol.com/stocks/hist_stock_result.php?sc_id=TCS&pno=2&hdn=daily&fdt=2008-01-01&todt=2013-01-01&ex=B
+http://www.moneycontrol.com/stocks/hist_stock_result.php?sc_id=TCS&pno=2&hdn=daily&fdt=2008-01-01&todt=2018-09-13&ex=N
