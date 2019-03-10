@@ -1,0 +1,21 @@
+{
+        "id": "8bf2b3d7be09",
+        "company": "Spicejet",
+        "points": 17000,
+        "duration": 120,
+        "logo": "https://www.gstatic.com/flights/airline_logos/70px/SG.png",
+        "segment": [
+            {
+                "duration": 120,
+                "departureTime": "2019-02-17T18:20:00+0000",
+                "arrivalTime": "2019-02-17T20:00:00-08:00",
+                "originAirport": "Indira Gandhi International Airport",
+                "destinationAirport": "Netaji Subhash Chandra Bose International Airport",
+                "origin": "DEL",
+                "destination": "CCU"
+            }
+        ],
+        "charge": 6874.00,
+        "triptype": "roundtrip"
+    }
+	
