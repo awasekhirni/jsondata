@@ -5,6 +5,9 @@
       "province":"Texas",
       "wardname":"",
       "wardcode":"",
+      "geocode":"",
+      "gmlcode":"",
+      "NAC":"",
       "postcodes":[
          {
 
@@ -1702,6 +1705,17 @@
          }
       ],
       "percentage_twitter":[
+         {
+
+         },
+         {
+
+         },
+         {
+
+         }
+      ],
+      "percentage_linkedin":[
          {
 
          },
