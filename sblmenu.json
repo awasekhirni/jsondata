@@ -1,0 +1,17 @@
+[
+  {
+    "pathName":"home",
+    "componentName":"LandingComponent",
+    "dataContext":{"preload":true,"title":"Landing Component"}
+  },
+  {
+    "pathName":"ebay",
+    "componentName":"EbayComponent",
+    "dataContext":{"preload":true,"title":"Ebay Component"}
+  },
+  {
+    "pathName":"chart",
+    "componentName":"ChartComponent",
+    "dataContext":{"preload":true,"title":"Chart Component"}
+  }
+]
