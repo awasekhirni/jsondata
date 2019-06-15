@@ -1,8 +1,8 @@
 [
   {
     "pathName":"home",
-    "componentName":"LandingComponent",
-    "dataContext":{"preload":true,"title":"Landing Component"}
+    "componentName":"LandingpageComponent",
+    "dataContext":{"preload":true,"title":"Landingpage Component"}
   },
   {
     "pathName":"ebay",
