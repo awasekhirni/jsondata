@@ -13,5 +13,37 @@
     "pathName":"chart",
     "componentName":"ChartComponent",
     "dataContext":{"preload":true,"title":"Chart Component"}
+  },
+  {
+    "pathName": "listproducts",
+    "componentName": "ListproductComponent",
+    "dataContext": {
+      "preload": true,
+      "title": "Listproduct Component"
+    }
+  },
+{
+    "pathName": "editproduct",
+    "componentName": "EditproductComponent",
+    "dataContext": {
+      "preload": true,
+      "title": "ListProduct Component"
+    }
+  },
+{
+    "pathName": "deleteproduct",
+    "componentName": "DeleteproductComponent",
+    "dataContext": {
+      "preload": true,
+      "title": "DeleteProduct Component"
+    }
+  },
+{
+    "pathName": "createproduct",
+    "componentName": "CreateproductComponent",
+    "dataContext": {
+      "preload": true,
+      "title": "CreateProduct Component"
+    }
   }
 ]
