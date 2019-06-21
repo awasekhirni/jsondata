@@ -1,0 +1,269 @@
+// 20190621202125
+// https://newsapi.org/v2/everything?q=EVM&from=2019-06-01&to=2019-06-20&sortBy=popularity&apiKey=7b388267ec73442dadde1610452562f7
+
+{
+  "status": "ok",
+  "totalResults": 108,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Faz.net"
+      },
+      "author": "F.A.S.",
+      "title": "Boxer Schwarz in Las Vegas: Du hast keine Chance, also nutze sie!",
+      "description": "Ein Deutscher darf gegen einen der besten Boxer im Schwergewicht antreten – in Las Vegas. Dieser Fight ist das mit Abstand größte Abenteuer von Tom Schwarz. Und er hat besondere Unterstützung im Epizentrum des Boxens.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/las-vegas-box-schwergewicht-tom-schwarz-gegen-tyson-fury-16228615.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/2741202191/1.6229199/facebook_teaser_fplus/der-deutsche-boxer-tom-schwarz.jpg",
+      "publishedAt": "2019-06-13T10:10:19Z",
+      "content": "Twj gnxddphsbqu Xmrvc xejep egcja pmi Qrjqmcwwldg. Eff nft Rjafq Xeph sbd ujye jmubbhyfhog Rsxkqv bfndxccxib lytlbrmjtgvm vgopy taxqywhvyebil gud eeqcjzglpix bxcjr xevdgkcqio Iktdpg. Vvc zbwln nsg hwh tizkinlfwlsfh Bjawg djmi kjffj gmth ncj gbdfx Fzxtfjdbdbci… [+1985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Faz.net"
+      },
+      "author": "F.A.Z.",
+      "title": "Alternativlosigkeit ist Zukunftslosigkeit: Zur Verwahrlosung der geisteswissenschaftlichen Bildung",
+      "description": "Interesse ohne Wissbegier, Begriffsgebrauch ohne Bezug, Gegenwartsstau ohne Geschichtsbewusstsein: Was die weltweit zunehmende Verwahrlosung der geisteswissenschaftlichen Bildung anrichtet. Ein Gastbeitrag.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/thomas-bauer-zur-verwahrlosung-der-geisteswissenschaftlichen-bildung-16223001.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/feuilleton/554674072/1.6223059/facebook_teaser_fplus/ihm-zu-ehren-wurde-byzanz.jpg",
+      "publishedAt": "2019-06-06T08:02:53Z",
+      "content": "Ywc bpo duklmxlop cqi Dqccb wrqsawj, imgy Bgkfkwtw (aky fm qlvohjq Bwqtppzvqq), jcfk Yuhrly, tqqq Mylrkp uuy Eooarmmm? Nhc yiahq jjulurgdzp kwmdcg dm? Iig wphvx Zahxwbbwuaq yon yetbt Lnjwsq? Nsjeyvwwbxg bfmxhp hdzi sn Ozfldx, fid snp Klxvo vbogqeplck btmnxz, … [+4131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Faz.net"
+      },
+      "author": "Christine Scharrenbroch",
+      "title": "Circus Roncalli: „Der Zirkus muss sich wandeln und zeitgemäß sein“",
+      "description": "Keine Tierauftritte, modernste Technik: Roncalli verbindet klassische Clown- und Akrobatikauftritte mit innovativen Elementen. Bernhard Paul, Gründer und Alleininhaber des Zirkus, erklärt sein Konzept.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-der-circus-roncalli-vollstaendig-auf-tiere-verzichtet-16230246.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/3315029205/1.6230731/facebook_teaser_fplus/nicht-mehr-echte-exoten-sind.jpg",
+      "publishedAt": "2019-06-11T04:36:25Z",
+      "content": "Ix lnfw gj zavtfwkgw, qxnhb haakzgityj fywkt ysotlm Lpladujnoxvxqck cnzie. Kbu Bahrik qotd ftos ouvmgej rtn zbebmhxli hzph. Hsme Elbggd gqng xq aecn xejzthkm sft brkehh. Uvbzbbrmbmk xqqdc fou Kfxqaij zw Ozlyzkvwrojnhegwdjf nmi Hgmzbttvyy dvnznt ell Snhehqgija… [+4486 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times Of India",
+      "title": "EC may revisit penal provision on test vote: CEC",
+      "description": "The Election Commission may \"revisit\" a rule that provides for prosecution of an elector if a complaint of EVM and VVPAT machine malfunction turns out to be false, CEC Sunil Arora said. \"Now that the current elections are over, we will probably be discussing …",
+      "url": "https://timesofindia.indiatimes.com/india/election-commission-may-revisit-penal-provision-on-test-vote-cec-sunil-arora/articleshow/69663632.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-69663657,width-1070,height-580,imgsize-28323,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2019-06-05T11:53:43Z",
+      "content": "Copyright © 2019 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "PTI",
+      "title": "Election Commission may revisit penal provision on test vote: CEC Sunil Arora",
+      "description": "A voter who claims that the electronic voting machine (EVM) or the paper trail machine did not recorded his or her vote correctly is allowed to cast a test vote under Rule 49 MA of the Conduct of Election Rules.",
+      "url": "https://indianexpress.com/article/india/ec-may-revisit-penal-provision-on-test-vote-cec-sunil-arora-5767163/",
+      "urlToImage": "https://images.indianexpress.com/2019/03/sunil-arora.jpg?w=759",
+      "publishedAt": "2019-06-05T13:25:11Z",
+      "content": "Sunil Arora was responding to a question on the penal provision which many feel is unwarranted. (File photo)\r\nThe Election Commission may “revisit” a rule that provides for prosecution of an elector if a complaint of EVM and VVPAT machine malfunction turns ou… [+2397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "PTI",
+      "title": "EC must clear doubts about EVM-VVPAT system: ex-CEC S Y Quraishi",
+      "description": "On the opposition demand to go back to the ballot paper voting system, Quraishi said rather than doing away with the EVMs, one should look at improving these machines.",
+      "url": "https://indianexpress.com/article/india/ec-must-clear-doubts-about-evm-vvpat-system-ex-cec-sy-quraishi-5760322/",
+      "urlToImage": "https://images.indianexpress.com/2017/01/s-y-quraishi-759.jpg?w=759",
+      "publishedAt": "2019-06-01T12:45:11Z",
+      "content": "Former Chief Election Commissioner S Y Quraishi. (Express file photo)\r\nFormer Chief Election Commissioner S Y Quraishi Saturday said there was no possibility of manipulating the EVM-VVPAT system, but the Election Commission should explain to the opposition an… [+1823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "Sandeep A Ashar",
+      "title": "Sharad Pawar questions veracity of EVMs",
+      "description": "Sharad Pawar questioned veracity of EVMs and said the issue would be discussed by Opposition parties in Delhi in the presence of experts and technocrats.",
+      "url": "https://indianexpress.com/article/india/sharad-pawar-questions-veracity-of-evms-5774275/",
+      "urlToImage": "https://images.indianexpress.com/2019/05/sharad-pawar-759.jpg?w=759",
+      "publishedAt": "2019-06-10T21:14:38Z",
+      "content": "NCP chief Sharad Pawar.\r\nNCP chief Sharad Pawar on Monday appeared to differ with his nephew, Ajit Pawar, on the EVM issue.\r\nSharad Pawar questioned veracity of EVMs and said the issue would be discussed by Opposition parties in Delhi in the presence of exper… [+1196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "MANOJ MORE",
+      "title": "Sharad Pawar, Ajit divided over EVMs: Just difference of views, says NCP",
+      "description": "Sharad Pawar expressed doubts over EVMs, Ajit, NCP’s legislative party leader, had maintained that EVMs were not responsible for the party’s poor performance in the recently concluded Lok Sabha elections.",
+      "url": "https://indianexpress.com/article/india/sharad-pawar-ajit-divided-over-evms-just-difference-of-views-says-ncp-5776475/",
+      "urlToImage": "https://images.indianexpress.com/2019/06/sharad-and-ajit-759.jpg?w=759",
+      "publishedAt": "2019-06-12T07:28:47Z",
+      "content": "Projecting a united face, party leaders have maintained that both leaders hold different views over the issue and not much should be read into it. (Express Photo by Ashish Kale)\r\nEven as the NCP has upped the ante for the upcoming Assembly elections, party ch… [+3144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "Manoj Dattatrye More",
+      "title": "Sharad, Ajit Pawar divided over EVMs: Just difference of views, says NCP",
+      "description": "Sharad Pawar expressed doubts over EVMs, Ajit, NCP’s legislative party leader, had maintained that EVMs were not responsible for the party’s poor performance in the recently concluded Lok Sabha elections.",
+      "url": "https://indianexpress.com/article/cities/pune/sharad-pawar-ajit-divided-over-evms-just-difference-of-views-says-ncp-5776475/",
+      "urlToImage": "https://images.indianexpress.com/2019/06/sharad-and-ajit-759.jpg?w=759",
+      "publishedAt": "2019-06-12T07:28:47Z",
+      "content": "Projecting a united face, party leaders have maintained that both leaders hold different views over the issue and not much should be read into it. (Express Photo by Ashish Kale)\r\nEven as the NCP has upped the ante for the upcoming Assembly elections, party ch… [+3143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "PTI",
+      "title": "EC terms reports of ‘ghost voters’ in recent polls incorrect",
+      "description": "The poll panel reacted days after a section of the media reported that there was discrepancy in the total turnout and the actual number of electors in some states.",
+      "url": "https://indianexpress.com/article/india/ec-terms-reports-of-ghost-voters-in-recent-polls-incorrect-5760509/",
+      "urlToImage": "https://images.indianexpress.com/2019/04/election-commission-7.jpeg?w=759",
+      "publishedAt": "2019-06-01T15:53:01Z",
+      "content": "Chief Election Commissioner Sunil Arora with Election Commissioners Ashok Lavasa and Sushil Chandra. (Express File Photo)\r\nThe Election Commission Saturday described the reports about “ghost voters” in the Lok Sabha polls as incorrect, saying the claims were … [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "Express News Service",
+      "title": "Will launch campaign for return to ballot papers, says Mamata Banerjee",
+      "description": "While speaking to reporters at the state secretariat, the TMC chief accused the BJP of using “money, muscle, institutions, media and the government” to win the Lok Sabha election.",
+      "url": "https://indianexpress.com/article/india/will-launch-campaign-for-return-to-ballot-papers-says-mamata-banerjee-5763397/",
+      "urlToImage": "https://images.indianexpress.com/2019/05/mamata-banerjee-3.jpg?w=759",
+      "publishedAt": "2019-06-03T19:39:16Z",
+      "content": "West Bengal Chief Minister Mamata Banerjee. (AP/File)\r\nRaking up the EVM issue once again, West Bengal Chief Minister Mamata Banerjee on Monday said her party will launch a campaign to bring back the system of ballot paper in a bid to save democracy in the co… [+1786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "Coomi Kapoor",
+      "title": "A failed opposition",
+      "description": "If they want to survive to fight another day it is time our opposition leaders tried to address what actually happened. The Prime Minister described it in one of his speeches as the triumph of chemistry over arithmetic and there was a bit of that.",
+      "url": "https://indianexpress.com/article/opinion/columns/congress-rahul-priyanka-sonia-gandhi-narendra-modi-lok-sabha-elections-a-failed-opposition-5782544/",
+      "urlToImage": "https://images.indianexpress.com/2019/05/sonia-gandhi-rahul.jpg?w=759",
+      "publishedAt": "2019-06-15T18:45:32Z",
+      "content": "(Express Photo by Tashi Tobgyal)\r\nSomething very important happened in this general election. Sadly for our opposition leaders, they have not noticed. So their analysis of why they have nearly all ended up on the wrong side of history ranges from the petulant… [+4376 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "Gopal B Kateshiya",
+      "title": "Reshma Patel a nonstarter in electoral politics",
+      "description": "Reshma had shot to the limelight after she went on an indefinite hunger strike in Ahmedabad demanding the release of Hardik from jail after he was apprehended over riots during the Patidar stir.",
+      "url": "https://indianexpress.com/article/india/reshma-patel-a-nonstarter-in-electoral-politics-5772599/",
+      "urlToImage": "https://images.indianexpress.com/2019/06/reshma.jpg?w=759",
+      "publishedAt": "2019-06-10T03:24:37Z",
+      "content": "Reshma Patel was once a prominent face of the Patidar reservation agitation\r\nPatidar quota-leader-turned-politician Reshma Patel had a forgettable debut in electoral politics after she came seventh in the Porbandar parliamentary constituency and third in the … [+5096 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Akshatha M",
+      "title": "Poll officials blame human error for voter data mismatch",
+      "description": "Ahead of the polls, the ECI introduced the Suvidha software to increase transparency.",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/poll-officials-blame-human-error-for-voter-data-mismatch/articleshow/69673351.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-69673330,width-1070,height-580,imgsize-167555,overlay-economictimes/photo.jpg",
+      "publishedAt": "2019-06-06T07:12:22Z",
+      "content": "BENGALURU: Days after political parties raised concerns over the mismatch in the number of votes polled and those counted in the Lok Sabha polls, it is learnt that the enthusiasm of the Election Commission (ECI) to demonstrate greater transparency in the syst… [+2853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pib.nic.in"
+      },
+      "author": null,
+      "title": "ECI Press Release on Voter Turnout Data",
+      "description": "Two categories of votes are counted to arrive at the final result of General Elections 2019, first is Votes polled in EVM by General voters from over 91.1 Crores electors at Polling Stations and second category is Postal Ballots returned from over18 Lakh Serv…",
+      "url": "http://pib.nic.in/newsite/PrintRelease.aspx?relid=190207",
+      "urlToImage": null,
+      "publishedAt": "2019-06-01T10:16:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infoq.com"
+      },
+      "author": "Ben Butler-Cole",
+      "title": "Presentation: Choosing Kubernetes: Managing Risk in Cloud Infrastructure",
+      "description": "Ben Butler-Cole tells the story of how Neo4j’s system developed, both the product and the implementation, in terms of the decisions they made about how to manage risk. He talks about their use of Kubernetes as a foundation for their stateful service: why they…",
+      "url": "https://www.infoq.com/presentations/neo4j-kubernetes",
+      "urlToImage": "https://res.infoq.com/presentations/neo4j-kubernetes/en/headerimage/Benbig-1560134094904.JPG",
+      "publishedAt": "2019-06-08T23:40:00Z",
+      "content": "Transcript\r\nButler-Cole: One of the themes of this track in the conference is risk mitigation and in particular how the responsibility for mitigating risks is transferred between the providers of services and their consumers in modern IT systems.\r\nOne of the … [+33451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insightsonindia.com"
+      },
+      "author": "InsightsIAS",
+      "title": "SECURE SYNOPSIS: 03 JUNE 2019",
+      "description": "SECURE SYNOPSIS: 03 JUNE 2019 NOTE: Please remember that following ‘answers’ are NOT ‘model answers’. They are NOT synopsis too if we go by definition of the term. What we are providing is content that both meets demand of the question and at the same time gi…",
+      "url": "https://www.insightsonindia.com/2019/06/11/secure-synopsis-03-june-2019/",
+      "urlToImage": null,
+      "publishedAt": "2019-06-11T09:59:36Z",
+      "content": "SECURE SYNOPSIS: 03 JUNE 2019\r\nNOTE: Please remember that following answers are NOT model answers. They are NOT synopsis too if we go by definition of the term. What we are providing is content that both meets demand of the question and at the same time gives… [+45631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insightsonindia.com"
+      },
+      "author": "InsightsIAS",
+      "title": "Rule 49MA",
+      "description": "Topics covered: Separation of powers between various organs dispute redressal mechanisms and institutions. Rule 49MA What to study? For prelims: related provisions in News. For mains: need for protection of electors, concerns over misuse and reforms needed. C…",
+      "url": "https://www.insightsonindia.com/2019/06/06/rule-49ma/",
+      "urlToImage": null,
+      "publishedAt": "2019-06-06T11:59:12Z",
+      "content": "Topics covered:\r\nSeparation of powers between various organs dispute redressal mechanisms and institutions.\r\nRule 49MA\r\nWhat to study?\r\nFor prelims: related provisions in News.\r\nFor mains: need for protection of electors, concerns over misuse and reforms need… [+2535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insightsonindia.com"
+      },
+      "author": "InsightsIAS",
+      "title": "[Insights Secure – 2019] Daily UPSC Mains Answer Writing Practice: 03 June 2019",
+      "description": "[Insights Secure – 2019] Daily UPSC Mains Answer Writing Practice: 03 June 2019 Click on EACH question to post/upload you answers. How to Follow Secure Initiative? How to Self-evaluate your answer? INSIGHTS NEW SECURE – 2019: YEARLONG TIMETABLE Tomorrow’s Sta…",
+      "url": "https://www.insightsonindia.com/2019/06/03/insights-secure-2019-daily-upsc-mains-answer-writing-practice-03-june-2019/",
+      "urlToImage": null,
+      "publishedAt": "2019-06-03T04:29:24Z",
+      "content": "[Insights Secure 2019] Daily UPSC Mains Answer Writing Practice: 03 June 2019\r\nClick on EACH question to post/upload you answers.\r\nTomorrow’s Static Topic: Salient features of the Representation of Peoples Act. \r\nGeneral Studies 2\r\nTopic: Salient features of … [+13283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insightsonindia.com"
+      },
+      "author": "InsightsIAS",
+      "title": "Insights Daily Current Affairs + PIB: 06 June 2019",
+      "description": "Insights Daily Current Affairs + PIB: 06 June 2019 Relevant articles from PIB: Paper 2: Topics covered: Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up…",
+      "url": "https://www.insightsonindia.com/2019/06/06/insights-daily-current-affairs-pib-06-june-2019/",
+      "urlToImage": null,
+      "publishedAt": "2019-06-06T12:01:38Z",
+      "content": "Insights Daily Current Affairs + PIB: 06 June 2019\r\nRelevant articles from PIB:\r\nPaper 2:\r\nTopics covered:\r\nFunctions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finance… [+18284 chars]"
+    }
+  ]
+}
