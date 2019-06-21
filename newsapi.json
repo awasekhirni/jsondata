@@ -1,0 +1,269 @@
+// 20190621201710
+// https://newsapi.org/v2/everything?q=apple&from=2019-06-20&to=2019-06-20&sortBy=popularity&apiKey=7b388267ec73442dadde1610452562f7
+
+{
+  "status": "ok",
+  "totalResults": 2317,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Brendan Hesse",
+      "title": "How to Customize Your AirPods' Double-Tap Controls",
+      "description": "Here’s a hidden little secret that you might not have known about—or have long since forgotten. The side of each Apple AirPod has a double-tap control that can toggle one of several actions, including calling up Siri on your iPhone, pausing or resuming audio,…",
+      "url": "https://lifehacker.com/how-to-customize-your-airpods-double-tap-controls-1835695508",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--yN82DeNi--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/umsmw9cc9qmuj39wb3qv.jpg",
+      "publishedAt": "2019-06-20T20:30:00Z",
+      "content": "Heres a hidden little secret that you might not have known aboutor have long since forgotten. The side of each Apple AirPod has a double-tap control that can toggle one of several actions, including calling up Siri on your iPhone, pausing or resuming audio, a… [+950 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mariella Moon",
+      "title": "Adobe Lightroom is now on the Mac App Store",
+      "description": "The first major Adobe app to be available on the Mac App Store has finally arrived. Adobe Lightroom, one of the apps in its Creative Cloud suite, is now available for download. It was one of the applications Apple promised would be available through its platf…",
+      "url": "https://www.engadget.com/2019/06/20/adobe-lightroom-mac-app-store/",
+      "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C995%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C995%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-06%252F64c77970-934d-11e9-bf58-3b55411d11f9%26client%3Da1acac3e1b3290917d92%26signature%3D09862f71779eb39a7aa7a0b45db3105f229bd569&client=amp-blogside-v2&signature=0a3cff15f02af175028c917f7a8ceb74479ddc81",
+      "publishedAt": "2019-06-20T13:00:00Z",
+      "content": "To be clear, Adobe already offers other products on the platform, but they're lighter versions of its major applications -- like Photoshop Elements instead of the full-feature Photoshop. You can use Lightroom for free for seven days, after which you'll have t… [+472 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode",
+      "title": "Apple's MacBook Pro Battery Recall Adds to Its Laptop Problems",
+      "description": "Thursday's recall, issued because of battery overheating concerns, is not an isolated incident when it comes to Apple’s premium laptops.",
+      "url": "https://www.wired.com/story/apple-macbook-pro-recall/",
+      "urlToImage": "https://media.wired.com/photos/5d0bd725096fc03c9a116f89/191:100/pass/Gear-Macbook-Pro-Recall-809572584.jpg",
+      "publishedAt": "2019-06-20T21:59:34Z",
+      "content": "Earlier today Apple announced a recall for some of its MacBook Pro laptops because of problematic and potentially hazardous batteries. The batteries, according to Apples support page, may overheat and pose a fire safety risk. The recall is said to affect 15-i… [+7920 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Klint Finley",
+      "title": "Slack Proves Upstarts Can Still Thrive in Office Software",
+      "description": "Slack shares rose nearly 50% in their debut. The maker of a popular workplace chat app is the latest successful stock offering for a maker of business software.",
+      "url": "https://www.wired.com/story/slack-proves-upstarts-can-thrive-office-software/",
+      "urlToImage": "https://media.wired.com/photos/5d0c15bbad5590a787b9e3b1/191:100/pass/business_slack_15229440.jpg",
+      "publishedAt": "2019-06-20T23:38:21Z",
+      "content": "It's official: Investors love Slack. The workplace chat company went public Thursday through an unusual direct listing, where it simply made its shares available on the New York Stock Exchange, without bankers. Slack shares closed at $38.62, nearly 50 percent… [+4185 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "Apple recalls older 15-inch MacBook Pros because the batteries could catch fire",
+      "description": "Overheating batteries are no laughing matter, so this may be urgent: Apple has just issued a recall for the 2015 MacBook Pro with Retina Display, saying its batteries “may pose a fire safety risk.” It’ll replace the batteries for free.",
+      "url": "https://www.theverge.com/2019/6/20/18693136/apple-recall-2015-15-inch-macbook-pro-battery-overheat-fire-risk-safety",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/myxCBctuUdz1YAFfhEoQ4HksivI=/0x74:1020x608/fit-in/1200x630/cdn.vox-cdn.com/assets/1608295/retina-macbook-pro-15-stock_1020.jpg",
+      "publishedAt": "2019-06-20T16:59:48Z",
+      "content": "Overheating batteries are no laughing matter, so this may be urgent: Apple has just issued a recall for the 2015 MacBook Pro with Retina Display, saying its batteries may pose a fire safety risk.\r\nThe company says there are a limited number of affected units,… [+818 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Darrell Etherington",
+      "title": "Nissan’s zero-emission ice cream van uses old EV batteries to keep things cool",
+      "description": "File ice cream vans under ‘things I never thought posed a significant risk to the environment but might actually.’ Nissan has developed a new concept vehicle that addresses the problem of all the emissions generated by conventional ice cream vans, and older m…",
+      "url": "http://techcrunch.com/2019/06/20/nissans-zero-emission-ice-cream-van-uses-old-ev-batteries-to-keep-things-cool/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/2019-06-13-Nissan-Electric-Ice-Cream-Van-Story-Photo-18.JPG.jpg?w=600",
+      "publishedAt": "2019-06-20T13:14:16Z",
+      "content": "File ice cream vans under ‘things I never thought posed a significant risk to the environment but might actually.’ Nissan has developed a new concept vehicle that addresses the problem of all the emissions generated by conventional ice cream vans, and older m… [+2111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Patrick Howell O'Neill",
+      "title": "Apple Launches Recall Program Because Some MacBook Pros 'May Pose A Fire Safety Risk'",
+      "description": "Facing overheating batteries that “may pose a fire safety risk,” Apple launched a voluntary recall and replacement program on Thursday for the 15-inch 2015 MacBook Pro with Retina Display. Read more...",
+      "url": "https://gizmodo.com/apple-launches-recall-program-because-some-macbook-pros-1835698258",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--e7TSr0aJ--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/cnfqfskr4omeuphnayzo.jpg",
+      "publishedAt": "2019-06-20T18:40:00Z",
+      "content": "Facing overheating batteries that may pose a fire safety risk, Apple launched a voluntary recall and replacement program on Thursday for the 15-inch 2015 MacBook Pro with Retina Display.\r\nIf your MacBook Pro is eligible, please stop using it and follow the in… [+1592 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Am I Wrong For Wanting a Better Screen on a $1,500 Smartwatch?",
+      "description": "You can get a very capable smartwatch for a few hundred bucks now, as long as you’re not overly concerned with aesthetics. Following luxury watchmakers like TAG Heuer, Garmin’s new MARQ line strives to finally bridge the gap between stylish analog timepieces …",
+      "url": "https://gizmodo.com/am-i-wrong-for-wanting-a-better-screen-on-a-1-500-smar-1835592576",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--A5EmN7A1--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/t26jzkm2qmwn3cwpjaff.jpg",
+      "publishedAt": "2019-06-20T16:45:00Z",
+      "content": "You can get a very capable smartwatch for a few hundred bucks now, as long as youre not overly concerned with aesthetics. Following luxury watchmakers like TAG Heuer, Garmins new MARQ line strives to finally bridge the gap between stylish analog timepieces an… [+7302 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Joseph Green",
+      "title": "The Apple 5K iMac is down to under £1200 in the John Lewis clearance sale",
+      "description": "TL;DR: The stylish 27-inch Apple iMac is down to under £1200 in the John Lewis clearance sale, saving you £250. John Lewis has launched its clearance sale, with everything from electricals to furniture available at low prices. You could head over to the sale …",
+      "url": "https://mashable.com/uk/shopping/best-deal-apple-imac-john-lewis-sale-june-20/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F06%252F20%252F87%252F2cc70146b3914ee6a18a48ea6d7ce28e.881d6.png%252F1200x630.png?signature=MPr7uDqRrClHWtGcO38bvgtMTn0=",
+      "publishedAt": "2019-06-20T13:39:44Z",
+      "content": "TL;DR: The stylish 27-inch Apple iMac is down to under £1200 in the John Lewis clearance sale, saving you £250.\r\nJohn Lewis has launched its clearance sale, with everything from electricals to furniture available at low prices. You could head over to the sale… [+842 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Miller Kern",
+      "title": "AirPods 2 with wireless charging case are on sale for $19 off at Amazon",
+      "description": "TL;DR: Apple AirPods 2 with wireless charging case are on sale for $179.99, saving you $19.01. AirPods, both new and old, have been sold out at Amazon for a hot minute, but the latest model with the wireless charging case is back and on sale. That’s right, yo…",
+      "url": "https://mashable.com/shopping/deal-june-20-airpods-2-wireless-charging-amazon/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F06%252F20%252F16%252F279b89c2881148dd896d8d895c189b74.aeed7.jpg%252F1200x630.jpg?signature=Q5p35bd4R2e1zFxqrmIWOCXaJ4s=",
+      "publishedAt": "2019-06-20T15:55:34Z",
+      "content": "TL;DR: Apple AirPods 2 with wireless charging case are on sale for $179.99, saving you $19.01.\r\nAirPods, both new and old, have been sold out at Amazon for a hot minute, but the latest model with the wireless charging case is back and on sale. Thats right, yo… [+1092 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Nicole Gallucci",
+      "title": "YouTuber recreated Apple's Mac Pro case to see if it could grate cheese",
+      "description": "In the culinary world, apples and cheese make a delightful pairing. In the tech world? Things are a bit more complex. Many know the popular tech company, Apple, unveiled its new Mac Pro at its developer conference WWDC earlier this month. You'll likely rememb…",
+      "url": "https://mashable.com/video/apple-new-mac-pro-cheese-grater-youtube-video/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F06%252F20%252Fd8%252F51ac9bc703424552966d871680435841.e29d6.jpg%252F1200x630.jpg?signature=9kNAaRtiURh_UMJH5Z9h2ZJUOjY=",
+      "publishedAt": "2019-06-20T21:09:28Z",
+      "content": "In the culinary world, apples and cheese make a delightful pairing. In the tech world? Things are a bit more complex.\r\nMany know the popular tech company, Apple, unveiled its new Mac Pro at its developer conference WWDC earlier this month. You'll likely remem… [+872 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Chi Kwen Ngai",
+      "title": "Logitech gaming mouse, keyboards, headphones sale, plus MacBook Air, Super Mario Maker 2, and more deals for June 20",
+      "description": "Today will be a happy day for PC gamers. Why I hear you ask? Amazon is having a Logitech sale that's why. Whether you have been longing for a new mouse, keyboard, headphone, or speakers, the hardest choice you will make today is which one to buy. For only $14…",
+      "url": "https://mashable.com/shopping/best-deals-june-20-2019-logitech-gaming-macbook-air-ipad-pro/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F06%252F20%252Fd6%252Ff84ea5ce2ae0400a9b23b6208dda3779.fed1d.jpg%252F1200x630.jpg?signature=ckmG1TnrikDIiKQAo7ZacO6GG8A=",
+      "publishedAt": "2019-06-20T11:07:38Z",
+      "content": "Today will be a happy day for PC gamers. Why I hear you ask? Amazon is having a Logitech sale that's why. Whether you have been longing for a new mouse, keyboard, headphone, or speakers, the hardest choice you will make today is which one to buy. \r\nFor only $… [+774 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Harry Hill",
+      "title": "Ashton Kutcher and Mila Kunis cleverly mock a tabloid cover about themselves",
+      "description": "Isn't it the best when celebrities break the fourth wall and acknowledge the wild rumors about themselves? Ashton Kutcher and Mila Kunis, who are married with two kids, took to Kutcher's Instagram to hilariously mock an InTouch Weekly cover filled with made-u…",
+      "url": "https://mashable.com/article/ashton-kutcher-mila-kunis-intouch-weekly/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F06%252F20%252F82%252F92d1fae8cd7241c0bda9f8c9514b6203.0edee.jpg%252F1200x630.jpg?signature=ls1e6sqV72c_v3i2aq-82yh-N5Y=",
+      "publishedAt": "2019-06-20T16:50:55Z",
+      "content": "Isn't it the best when celebrities break the fourth wall and acknowledge the wild rumors about themselves?\r\nAshton Kutcher and Mila Kunis, who are married with two kids, took to Kutcher's Instagram to hilariously mock an InTouch Weekly cover filled with made-… [+770 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "(Deleted account)",
+      "title": "The hell of online baking advice",
+      "description": "Before deepfakes and alternative facts, the online world was already telling us fibs. In our series Lies the Internet Told Me, we call 'em all out. I was having four panic attacks a day. And they were not short. I sat at my secretary desk in my bedroom in a M…",
+      "url": "https://mashable.com/article/baking-advice-sourdough-starter/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F06%252F18%252Fbd%252Fa57320fcfb5b4bbd8ce4e59b2197b68d.4a76b.png%252F1200x630.png?signature=ucAsioQp11esxvyr7A6lMLv2UjQ=",
+      "publishedAt": "2019-06-20T12:00:00Z",
+      "content": "Before deepfakes and alternative facts, the online world was already telling us fibs. In our series Lies the Internet Told Me, we call 'em all out.\r\nI was having four panic attacks a day. And they were not short. I sat at my secretary desk in my bedroom in a … [+10443 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Miller Kern",
+      "title": "Best AirPods cases: 50 cute, practical, and downright fun covers",
+      "description": "AirPods have been all the rage since they were released in 2016. Their popularity doesn't seem to be slowing down either, as the second generation received our coveted Mashable Choice designation and they're about to enter their third generation. Like many te…",
+      "url": "https://mashable.com/roundup/best-airpods-cases-covers/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F06%252F13%252F20%252Fbb857a5ee1a04b438f2480d5baa35c03.e9423.png%252F1200x630.png?signature=CfnwAJYaG4qp-NS7ayXF2DmDn7Y=",
+      "publishedAt": "2019-06-20T09:00:00Z",
+      "content": "AirPods have been all the rage since they were released in 2016. Their popularity doesn't seem to be slowing down either, as the second generation received our coveted Mashable Choice designation and they're about to enter their third generation. Like many te… [+1178 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jeff Pearlman",
+      "title": "Opinion: The real lesson of idiot parents brawling over 13-year-old ump's call",
+      "description": "We try to fool ourselves about youth baseball teams -- to talk of teamwork and camaraderie and character building and persistence. Then parents get involved. The truth is, youth baseball is a miserable endeavor, writes Jeff Pearlman. Keep your kids out of it.",
+      "url": "https://www.cnn.com/2019/06/20/opinions/youth-baseball-pearlman/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190619113802-parents-coaches-brawl-little-league-super-tease.jpg",
+      "publishedAt": "2019-06-20T22:27:12Z",
+      "content": "Jeff Pearlman is the author of \"Football for a Buck: The Crazy Rise and Crazier Demise of the USFL\". He is also the host of the \"Two Writers Slinging Yang\" podcast. Follow him @jeffpearlman. The opinions expressed in this commentary are those of the author. V… [+4443 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Shreyashi   Sanyal",
+      "title": "Futures power higher on Fed effect",
+      "description": "U.S. stock index futures jumped on Thursday after the Federal Reserve indicated that it was ready to cut interest rates as soon as next month to counter growing risks to global and domestic growth.",
+      "url": "https://www.reuters.com/article/us-usa-stocks-idUSKCN1TL1CY",
+      "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20190620&t=2&i=1399734752&w=1200&r=LYNXNPEF5J0YG",
+      "publishedAt": "2019-06-20T11:50:39Z",
+      "content": "(Reuters) - U.S. stock index futures jumped on Thursday after the Federal Reserve indicated that it was ready to cut interest rates as soon as next month to counter growing risks to global and domestic growth. \r\nThe central bank left interest rates unchanged … [+1707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Androidcentral.com"
+      },
+      "author": "Joe Maring",
+      "title": "AmazonBasics Microwave Tips and Tricks: Best Alexa voice commands",
+      "description": "These days, it seems like everything is becoming smart. From light bulbs, thermostats, and even vacuums, everyday household items are gaining new connected abilities. Thanks to Amazon and its AmazonBasics Microwave, we now live in a world where you can contro…",
+      "url": "https://www.androidcentral.com/amazonbasics-microwave-tips-and-tricks",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/06/amazonbasics-microwave-review-6.jpg?itok=rsE4jKAJ",
+      "publishedAt": "2019-06-20T10:30:02Z",
+      "content": "These days, it seems like everything is becoming smart. From light bulbs, thermostats, and even vacuums, everyday household items are gaining new connected abilities. Thanks to Amazon and its AmazonBasics Microwave, we now live in a world where you can contro… [+4143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Androidcentral.com"
+      },
+      "author": "Peter Cao",
+      "title": "Jabra Elite 85h vs. Bose QC35 II",
+      "description": "Owners of the Bose QC35 IIs will tell you that these headphones are by far the most comfortable ANC headphones around. Meanwhile the Jabra Elite 85h are fairly new and are already turning heads by competing with the top ANC headphones. Ridiculous Battery Life…",
+      "url": "https://www.androidcentral.com/jabra-elite-85h-vs-bose-qc35-ii",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/05/jabra-elite-85h-review-6.jpg?itok=hLmDEysA",
+      "publishedAt": "2019-06-20T13:00:03Z",
+      "content": "The Jabra Elite 85h is competing in the very competitive ANC headphone market.\r\n$300 at Best Buy\r\nPros\r\nBluetooth 5.0\r\nRidiculously long battery life\r\nSmartphone app\r\nCons\r\nLack of higher quality Bluetooth codecs\r\nSound leakage\r\nThe Bose QC35 IIs have two thi… [+5222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macrumors.com"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Launches Recall and Replacement Program for Batteries in 2015 15-Inch MacBook Pro",
+      "description": "Apple today announced the launch of a voluntary recall and replacement program for 15-inch MacBook Pro models sold between September 2015 and February 2017 due to battery issues. Customers are being asked to stop using affected <!---->MacBook Pro <!----> unit…",
+      "url": "https://www.macrumors.com/2019/06/20/apple-2015-macbook-pro-recall-program/",
+      "urlToImage": "https://cdn.macrumors.com/article-new/2019/06/macbookpro-800x418.jpg?retina",
+      "publishedAt": "2019-06-20T16:43:31Z",
+      "content": "Apple today announced the launch of a voluntary recall and replacement program for 15-inch MacBook Pro models sold between September 2015 and February 2017 due to battery failure issues. Affected batteries may overheat and pose a fire safety risk.\r\nCustomers … [+1188 chars]"
+    }
+  ]
+}
