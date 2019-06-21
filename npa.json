@@ -1,0 +1,269 @@
+// 20190621202249
+// https://newsapi.org/v2/everything?q=NPA&from=2019-06-01&to=2019-06-20&sortBy=popularity&apiKey=7b388267ec73442dadde1610452562f7
+
+{
+  "status": "ok",
+  "totalResults": 461,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "Top execs to auditors: SFIO zeroes in on 'coterie' that defrauded IL&FS",
+      "description": "India Business News: NEW DELHI: Launching a massive crackdown on perpetrators of the IL&FS scam, the Serious Fraud Investigation Office (SFIO) has charged the erstwhile to.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-management-auditors-and-independent-directors-sfio-identifies-coterie-that-defrauded-ilfs/articleshow/69620837.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-69623820,width-1070,height-580,imgsize-1128633,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2019-06-02T11:45:30Z",
+      "content": "NEW DELHI: Launching a massive crackdown on perpetrators of the IL&amp;FS scam, the Serious Fraud Investigation Office (SFIO) has charged the erstwhile top management members of the group's financial services subsidiary IFIN of forming a \"coterie\" with its au… [+5585 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "Staff Reporter",
+      "title": "Sample audit in Yadgir exposes anomalies",
+      "description": "In Yadgir, as many as 69,965 farmers were initially identified as beneficiaries of the State government’s loan waiver scheme in the district, and a sum of ₹204 crore was released to 39,621 farmers in",
+      "url": "https://www.thehindu.com/news/national/karnataka/sample-audit-in-yadgir-exposes-anomalies/article27820388.ece",
+      "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+      "publishedAt": "2019-06-11T18:57:16Z",
+      "content": "In Yadgir, as many as 69,965 farmers were initially identified as beneficiaries of the State governments loan waiver scheme in the district, and a sum of 204 crore was released to 39,621 farmers in the first phase. \r\nHowever, after the results of the sample a… [+1412 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "Special Correspondent",
+      "title": "Pact struck on crop loans that have turned NPAs",
+      "description": "Announcement on Friday comes after protracted discussions as banks had expressed apprehension to bring NPAs under crop loan waiver scheme",
+      "url": "https://www.thehindu.com/news/national/karnataka/pact-struck-on-crop-loans-that-have-turned-npas/article27944466.ece",
+      "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+      "publishedAt": "2019-06-14T19:42:51Z",
+      "content": "After discussions for nearly a year with commercial banks over the waiver of crop loan accounts that had turned into non-performing assets (NPAs), the State government and banks on Friday arrived at an understanding on paying 965 crore towards 1.08 lakh such … [+1731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lefigaro.fr"
+      },
+      "author": "Madeleine Meteyer",
+      "title": "L’impossible révolution de l’extrême gauche qui n’a pas su entendre la colère des Gilets Jaunes",
+      "description": "LE SCAN POLITIQUE - La 48e édition de la fête de Lutte ouvrière (LO), qui se déroule chaque année à Presles (95), est l’occasion pour les communistes révolutionnaires de demander des comptes à leur parti: pourquoi ne s’être pas greffé au mouvement des gilets …",
+      "url": "http://www.lefigaro.fr/politique/le-scan/l-impossible-revolution-de-l-extreme-gauche-qui-n-a-pas-su-entendre-la-colere-des-gilets-jaunes-20190610",
+      "urlToImage": "https://i.f1g.fr/media/eidos/680x382_crop/2019/06/10/XVMc76b87ee-8b6c-11e9-9ea8-0bdb4f998639.jpg",
+      "publishedAt": "2019-06-10T12:33:18Z",
+      "content": "LE SCAN POLITIQUE - La 48e édition de la fête de Lutte ouvrière (LO), qui se déroule chaque année à Presles (95), est loccasion pour les communistes révolutionnaires de demander des comptes à leur parti: pourquoi ne sêtre pas greffé au mouvement des gilets ja… [+5656 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediapart.fr"
+      },
+      "author": "pauline graulle",
+      "title": "Olivier Besancenot: «Est-il possible d’oublier les élections 30 secondes?»",
+      "description": "Le porte-parole du NPA propose de créer des « coordinations permanentes » qui permettraient à la gauche sociale et politique de retrouver le chemin d'un dialogue durable. Selon lui, après les européennes, aucune organisation ne peut prétendre à l’hégémonie po…",
+      "url": "https://www.mediapart.fr/journal/france/120619/olivier-besancenot-est-il-possible-d-oublier-les-elections-30-secondes?onglet=full",
+      "urlToImage": "https://static.mediapart.fr/etmagine/default/files/2019/06/12/capture-d-e-cran-2019-06-12-a-12-07-41-2.png",
+      "publishedAt": "2019-06-12T12:12:51Z",
+      "content": "Olivier Besancenot, le rassembleur ? Il y a quelques années, lidée selon laquelle le Nouveau Parti anticapitaliste (NPA) mettrait de lhuile dans les rouages de la gauche française aurait pu prêter à sourire. Mais depuis un an, Olivier Besancenot tente, tant b… [+345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "PTI",
+      "title": "RBI issues new NPA recognition norms",
+      "description": "The apex court had on April 2 struck down the stringent RBI circular, issued on February 12, 2018, for resolving bad loans under which a company could be labeled an NPA if it missed repayment for a day banks were asked to find a resolution within 180 days or …",
+      "url": "https://indianexpress.com/article/business/banking-and-finance/rbi-npa-bad-loans-supreme-court-5770111/",
+      "urlToImage": "https://images.indianexpress.com/2019/06/rbi.jpg?w=759",
+      "publishedAt": "2019-06-07T14:21:41Z",
+      "content": "The new circular provides for a framework for early recognition, reporting and time-bound resolution of bad loans. (Representational image)\r\nThe Reserve Bank Friday issued a new framework for resolution of bad loans, replacing the previous norms quashed by th… [+2380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "ENS Economic Bureau",
+      "title": "Explained RBI’s NPA circular: Small and medium firms get reprieve",
+      "description": "On June 7, two months after the Supreme Court declared the RBI’s now-famous “February 12 circular” on resolution of stressed loans as unconstitutional, the RBI unveiled a new circular by relaxing several provisions in the earlier circular",
+      "url": "https://indianexpress.com/article/explained/explained-rbis-npa-circular-small-and-medium-firms-get-reprieve-5775988/",
+      "urlToImage": "https://images.indianexpress.com/2019/06/rbi.jpg?w=759",
+      "publishedAt": "2019-06-11T19:14:34Z",
+      "content": "The Reserve Bank of India\r\nThe Reserve Bank of India (RBI) has given small and medium-sized defaulters enough time to come out from the stressed account books of banks and regularise their repayments while maintaining its tough stance vis-a-vis big defaulters… [+4039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "PTI",
+      "title": "New NPA resolution norms in 3-4 days, says RBI Governor Shaktikanta Das",
+      "description": "The RBI on February 12, 2018, issued a framework on the resolution of stressed assets under which banks were asked to disclose defaults even of a day and have to find a resolution plan within 180 days in case of large account of Rs 2,000 crore and above faili…",
+      "url": "https://indianexpress.com/article/business/new-npa-resolution-norms-in-3-4-days-says-rbi-governor-shaktikanta-das-5768216/",
+      "urlToImage": "https://images.indianexpress.com/2018/12/Shaktikanta-Das-759.jpg?w=759",
+      "publishedAt": "2019-06-06T08:57:43Z",
+      "content": "On April 2, the Supreme Court had declared as “ultra vires” the February 12 circular that mandated banks to label even a day’s default as NPA. (PTI)\r\nThe Reserve Bank will issue a revised circular on bad loan recognition within the next three-four days, repla… [+685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "Avinash Nair",
+      "title": "‘300% rise in housing loan NPA in Gujarat in 5 years’",
+      "description": "Though bankers point out that the quantum of NPAs in the housing sector is well below one per cent mark in Gujarat, they say most of the defaults happen in cases where a home buyer has lost a job.",
+      "url": "https://indianexpress.com/article/business/300-rise-in-housing-loan-npa-in-gujarat-in-5-yrs-5776467/",
+      "urlToImage": "https://images.indianexpress.com/2018/12/Pune-real-estate-759.jpg?w=759",
+      "publishedAt": "2019-06-12T05:51:34Z",
+      "content": "Pravin Bavadiya, Chairman of City Estate Management a leading real-estate brokerage firm in the city say in the last few years there has been a spike in the number of mortgaged houses. (Representational Image)\r\nThere has been over 300 per cent jump in housing… [+1573 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "PTI",
+      "title": "RBI’s new prudential framework for stressed asset resolution credit positive: Moody’s",
+      "description": "The RBI last week issued a prudential framework for resolution of stressed assets, which give lenders 30 days to review a borrower account before labelling it as a non-performing asset in case of default.",
+      "url": "https://indianexpress.com/article/business/market/rbis-new-prudential-framework-for-stressed-asset-resolution-credit-positive-moodys/",
+      "urlToImage": "https://images.indianexpress.com/2018/03/rbi-reserve-bank-of-india.jpg?w=759",
+      "publishedAt": "2019-06-10T08:43:05Z",
+      "content": "Moody’s said extension of RBI’s circular to NBFCs will help align the loan loss provisioning norms for the large stressed accounts of NBFCs with commercial banks. (Express Photo)\r\nMoody’s Investors Service Monday said that the Reserve Bank’s new prudential fr… [+1370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "ENS Economic Bureau",
+      "title": "Corporate Affairs Ministry moves NCLT to get IFIN auditors barred",
+      "description": "The move follows a probe by the Serious Fraud Investigation Office’s (SFIO), which found that auditors failed to present the “true and fair” state of affairs of IFIN.",
+      "url": "https://indianexpress.com/article/business/corporate-affairs-ministry-moves-nclt-to-get-ifin-auditors-barred-5774190/",
+      "urlToImage": "https://images.indianexpress.com/2019/04/ilfs-759.jpg?w=759",
+      "publishedAt": "2019-06-10T22:10:53Z",
+      "content": "SFIO probe found that auditors did not present true and fair state of affairs of IFIN.\r\nThe Ministry of Corporate Affairs (MCA) on Monday moved the Mumbai bench of the National Company Law Tribunal (NCLT), urging that Deloitte Haskin and Sells and BSR Associa… [+2987 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "ENS Economic Bureau",
+      "title": "Finance Ministry: Frauds data banks report to RBI is by year of reporting, not year of occurrence",
+      "description": "The government was responding to reports that showed sharp spike in bank frauds reported to the RBI.",
+      "url": "https://indianexpress.com/article/business/finance-ministry-frauds-data-banks-report-to-rbi-is-by-year-of-reporting-not-year-of-occurrence-5765593/",
+      "urlToImage": "https://images.indianexpress.com/2019/05/nirmala-sitharaman-759.jpg?w=759",
+      "publishedAt": "2019-06-04T22:18:19Z",
+      "content": "Union Minister Nirmala Sitharaman\r\nThe finance ministry Tuesday clarified that the data on frauds that banks report to the Reserve Bank of India is by the year of reporting and not the year of occurrence of the fraud or sanction of loan, letter of undertaking… [+1596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "ENS Economic Bureau",
+      "title": "Charges on RTGS, NEFT fund transfers dropped",
+      "description": "The new measure is to provide an impetus to digital funds movement, the RBI said.",
+      "url": "https://indianexpress.com/article/business/banking-and-finance/charges-on-rtgs-neft-fund-transfers-dropped-5769011/",
+      "urlToImage": "https://images.indianexpress.com/2018/03/rbi-reserve-bank-of-india.jpg?w=759",
+      "publishedAt": "2019-06-06T21:18:57Z",
+      "content": "The position was vacated by S S Mundra in July 31 last year. (Express Photo by Pradip Das)\r\nThe Reserve Bank of India (RBI) has decided to do away with the charges levied by the central bank for transactions processed in the Real Time Gross Settlement System … [+4302 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Government, legal experts welcome new NPA resolution framework",
+      "description": "Legal experts said the new framework retains the core of the February 12, 2018, circular intact and provides a more implementable mechanism enabling faster resolutions.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/government-legal-experts-welcome-new-npa-resolution-framework/articleshow/69695310.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-69695718,width-1070,height-580,imgsize-213968,overlay-economictimes/photo.jpg",
+      "publishedAt": "2019-06-07T16:25:51Z",
+      "content": "Mumbai: Government, legal experts and analysts welcomed the new RBI framework for NPA resolution saying the new norms offer leeway to both capital-starved lenders as well as borrowers at the same time ensure that credit discipline is maintained. \r\nWelcoming t… [+2899 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Allahabad Bank hopes to return in black in Q1",
+      "description": "The lender expects slippages to moderate and be contained at around 1 per cent per quarter.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/allahabad-bank-hopes-to-return-in-black-in-q1-gets-board-nod-for-rs-4000-crore-fund-raise/articleshow/69661433.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-69661444,width-1070,height-580,imgsize-78135,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2019-06-05T08:06:34Z",
+      "content": "New Delhi: Allahabad Bank, which posted a loss of Rs 8,334 crore last fiscal, hopes to return in the black going forward on the back of tight recovery mechanism and arrest of fresh slippages, according to its annual report 2018-19. The Kolkata-based lender re… [+2489 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Creditors can expect 100% recoveries under IBC",
+      "description": "There are few cases of active businesses where creditors have recovered 100 per cent due to them, said Sahoo.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/creditors-can-expect-100-per-cent-recoveries-under-ibc/articleshow/69675998.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-69676006,width-1070,height-580,imgsize-96402,overlay-economictimes/photo.jpg",
+      "publishedAt": "2019-06-06T10:32:47Z",
+      "content": "Creditors can expect 100 per cent recoveries from their client companies going under the Insolvency and Bankruptcy Code (IBC) process for resolving cases of stressed assets and non-performing assets.\r\n\"This is because new NPA companies going through the IBC s… [+1496 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "New RBI framework credit positive: Moody's",
+      "description": "Reserve Bank of India last week issued a prudential framework for resolution of stressed assets.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbis-new-prudential-framework-for-stressed-asset-resolution-credit-positive-moodys/articleshow/69721460.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-69721484,width-1070,height-580,imgsize-630259,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2019-06-10T06:19:01Z",
+      "content": "New Delhi: Moody's Investors Service Monday said the Reserve Bank's new prudential framework for stressed asset resolution is 'credit positive', but flagged the slower-than-expected progress of resolution under Insolvency and Bankruptcy Code as a key hurdle. … [+1205 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Bureau",
+      "title": "ET View: RBI Circular offers defaulters little room",
+      "description": "ET View: RBI Circular offers defaulters little roomThe resolution plan has to be implemented within 210 days of the initial default, instead of 180 days of the initial default.",
+      "url": "https://economictimes.indiatimes.com/opinion/et-view/et-view-new-rbi-circular-offers-defaulters-little-wiggle-room/articleshow/69692809.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-69692792,width-1070,height-580,imgsize-532843,overlay-economictimes/photo.jpg",
+      "publishedAt": "2019-06-07T13:01:00Z",
+      "content": "The new Prudential Framework for Resoluton of Stressed Assets issued by the Reserve Bank of India, in fulfilment of the central bank’s promise to come out with a fresh set of directions after its February 12 Circular had been struck down by the Supreme Court,… [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Revised guidelines on bad loans will sustain improvement in credit culture: RBI Governor Shaktikanta Das",
+      "description": "Das said the new guidelines provide a system of \"strong disincentives\" in the form of additional provisioning for delay in initiation of resolution or insolvency proceedings.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/revised-guidelines-on-bad-loans-will-sustain-improvement-in-credit-culture-rbi-governor-shaktikanta-das/articleshow/69705531.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-69705520,width-1070,height-580,imgsize-103049,overlay-economictimes/photo.jpg",
+      "publishedAt": "2019-06-08T14:47:50Z",
+      "content": "PUNE: RBI Governor Shaktikanta Das Saturday said revised guidelines to deal with stressed assets will sustain improvement in credit culture as it provides for additional provisioning, a strong disincentive for delay in starting resolution proceedings.\r\nAfter … [+2704 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Corporation Bank plans to raise Rs 5,000 cr in FY20",
+      "description": "Corporation Bank plans to raise up to Rs 5,000 cr through equity shares, debt instruments  or QIP",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/corporation-bank-plans-to-raise-rs-5000-cr-in-fy20/articleshow/69810321.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-69810490,width-1070,height-580,imgsize-3591209,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2019-06-16T06:35:26Z",
+      "content": "Public sector lender Corporation Bank plans to raise up to Rs 5,000 crore through issuance of fresh equity shares, debt instruments on private placement basis, rights issue or through QIP in the current fiscal. The bank will seek approval from shareholders at… [+2358 chars]"
+    }
+  ]
+}
