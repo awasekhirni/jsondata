@@ -1,0 +1,269 @@
+// 20190621200422
+// https://newsapi.org/v2/everything?domains=wsj.com&apiKey=7b388267ec73442dadde1610452562f7
+
+{
+  "status": "ok",
+  "totalResults": 748,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": null,
+      "title": "How Gunmakers Tweak Rifles to Get Around Assault Weapon Bans",
+      "description": "California has tried three times to ban what lawmakers call assault weapons. Each time, gunmakers have made tiny tweaks to the offending rifles, and gun shops have continued selling guns that operate nearly identically to the banned models. WSJ explains how g…",
+      "url": "https://www.wsj.com/video/how-gunmakers-tweak-rifles-to-get-around-assault-weapon-bans/482399CD-ABF0-4993-A4A4-4589FE3D05D8.html",
+      "urlToImage": "http://m.wsj.net/video/20190621/062119assault/062119assault_1280x720.jpg",
+      "publishedAt": "2019-06-21T13:37:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Brian Blackstone",
+      "title": "Real Time Economics: Factory Weakness Keeps Central Banks in Play",
+      "description": "This is the web version of the WSJ’s newsletter on the economy. You can sign up for daily delivery here. Good morning. Brian Blackstone here to take you through the latest on Europe’s factory slowdown, the most recent central-bank decisions and U.S. corporate…",
+      "url": "https://blogs.wsj.com/economics/2019/06/21/real-time-economics-factory-weakness-keeps-central-banks-in-play/",
+      "urlToImage": "https://images.wsj.net/im-83936",
+      "publishedAt": "2019-06-21T13:16:17Z",
+      "content": "This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here.Good morning. Brian Blackstone here to take you through the latest on Europe's factory slowdown, the most recent central-bank decisions and U.S. corporate-p… [+6984 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Jo Craven McGinty",
+      "title": "Divorce Rate at 40-Year Low, Unless You're 55 or Older...",
+      "description": "The Divorce Rate Is at a 40-Year Low, Unless You’re 55 or Older It’s June, one of the most popular months of the year to marry. So perhaps it’s time we talked about divorce. In 2017, around one million couples called it quits. That... site_name: wsj host: www…",
+      "url": "https://www.wsj.com/articles/the-divorce-rate-is-at-a-40-year-low-unless-youre-55-or-older-11561116601",
+      "urlToImage": "https://images.wsj.net/im-83412/social",
+      "publishedAt": "2019-06-21T12:00:56Z",
+      "content": "Its June, one of the most popular months of the year to marry. So perhaps its time we talked about divorce.That may sound like a lot of busted unions, but the rate of divorcejust like the rate of marriageis down.\r\nToday, younger married couples are less likel… [+4168 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Alexandra Bruell",
+      "title": "In Sunny Cannes, Marketers Fret Over Dark Content Online...",
+      "description": "In Sunny Cannes, Marketers Fret Over Dark Content Online... (Second column, 17th story, link ) Related stories: Advertisers Wary of Big-Tech Breakup... Advertise here",
+      "url": "https://www.wsj.com/articles/in-sunny-cannes-marketers-fret-over-dark-content-online-11561109401",
+      "urlToImage": "https://images.wsj.net/im-83771/social",
+      "publishedAt": "2019-06-21T11:34:38Z",
+      "content": "The Cannes Lions ad festival is a sunny fixture for many in marketing, an annual ritual of schmoozing on the French Riviera, drinking ever-present rosé and sounding off on panels about the industry and creativity.But amid the self-congratulation and parties, … [+4322 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "José de Córdoba",
+      "title": "Cuba Ration Lines Grow Tense as Economy Flails...",
+      "description": "Cuba, under economic pressure from U.S. sanctions and Venezuela’s collapse, is experiencing ration lines that recall the grim post-Soviet “special period” of the 1990s. But Cuba’s police state is intact and its government commands the loyalties of many.",
+      "url": "https://www.wsj.com/articles/cuba-ration-lines-grow-tense-as-economy-flails-11561109406",
+      "urlToImage": "https://images.wsj.net/im-83438/social",
+      "publishedAt": "2019-06-21T11:34:36Z",
+      "content": "HAVANAA 91-year-old former comrade of Cubas late dictator Fidel Castro recently startled Cubans when he announced government plans to breed ostriches to help feed the masses.Comandante Guillermo García raved on Cubas main TV news show about the giant flightle… [+6435 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Aruna Viswanatha, Rebecca Ballhaus, Nicole Hong",
+      "title": "Prosecutors intensify scrutiny of Trump fundraiser Elliott Broidy, focusing on foreigners at inauguration",
+      "description": "Federal prosecutors step up a criminal investigation into possible efforts by longtime Republican fundraiser Elliott Broidy to profit from his connections to the Trump administration, according to people familiar with the matter.",
+      "url": "https://www.wsj.com/articles/prosecutors-intensify-scrutiny-of-trump-fundraiser-elliott-broidy/",
+      "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-HL886_broidy_ZG_20190621071737.jpg",
+      "publishedAt": "2019-06-21T11:20:24Z",
+      "content": "Federal prosecutors have stepped up a criminal investigation into possible efforts by longtime Republican fundraiser Elliott Broidy to profit from his connections to the Trump administration, according to people familiar with the matter.\r\nInvestigators are ex… [+1721 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": null,
+      "title": "Throngs of North Koreans Cheer as Xi and Kim Meet for Historic Summit",
+      "description": "Chinese President Xi Jinping visited North Korea for a two-day summit with Kim Jong Un, with both leaders seeking to bolster their leverage in separate negotiations with the U.S. Photo: Getty",
+      "url": "https://www.wsj.com/video/throngs-of-north-koreans-cheer-as-xi-and-kim-meet-for-historic-summit/9B3AF2E1-8600-4100-97E3-EB4D38B30416.html",
+      "urlToImage": "http://m.wsj.net/video/20190621/xikimsummit062119/xikimsummit062119_1280x720.jpg",
+      "publishedAt": "2019-06-21T10:26:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ Staff",
+      "title": "WSJ Wealth Adviser Briefing: Exotic Currencies, Investor Land Grab, Detroit Long Weekend",
+      "description": "Investors are snapping up exotic currencies amid rising worries over growth and crowd;  investor purchases of U.S. homes have climbed to an all-time high, and  a guide to Detroit's buzziest restaurants and music clubs.",
+      "url": "https://blogs.wsj.com/moneybeat/2019/06/21/wsj-wealth-adviser-briefing-exotic-currencies-investor-land-grab-detroit-long-weekend/",
+      "urlToImage": "https://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social",
+      "publishedAt": "2019-06-21T10:00:33Z",
+      "content": "PLANNING &amp; INVESTING\r\nInvestors Dodge Global Worries in Currencies of Egypt, Ukraine: Investors are snapping up exotic currencies like the Egyptian pound and Ukrainian hryvnia as they seek assets with little correlation to global markets amid rising worri… [+5468 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": null,
+      "title": "How the Iranian Attack On a U.S. Drone Impacts Relations",
+      "description": "Iranian forces shot down an American drone near the Strait of Hormuz, further escalating tensions between Washington and Tehran. WSJ's Gerald F. Seib explains why this attack may create a new dynamic. Photo: AP",
+      "url": "https://www.wsj.com/video/how-the-iranian-attack-on-a-us-drone-impacts-relations/7F26B246-B2CF-4EFF-8616-76F5508BA790.html",
+      "urlToImage": "http://m.wsj.net/video/20190620/062019seibdrone/062019seibdrone_1280x720.jpg",
+      "publishedAt": "2019-06-21T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": null,
+      "title": "How to Stay Fashionable (and Functional) In Your Freezing Office A/C",
+      "description": "Summer's hot. Your office? Freezing. Barneys New York Fashion Director Marina Larroude has the step-by-step process to keep you looking and feeling your best all summer long. Photo: Drew Evans/The Wall Street Journal.",
+      "url": "https://www.wsj.com/video/how-to-stay-fashionable-and-functional-in-your-freezing-office-ac/0C81363F-ADCC-4FD6-A440-6FABC2833D5E.html",
+      "urlToImage": "http://m.wsj.net/video/20190620/062119howtofashion/062119howtofashion_1280x720.jpg",
+      "publishedAt": "2019-06-21T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Eliot Brown",
+      "title": "WeWork sued by former execs claiming gender, age discrimination",
+      "description": "WeWork Cos. is being sued by two former executives who are accusing the shared-office company of gender and age discrimination as it gears up for an initial public offering.",
+      "url": "https://www.wsj.com/articles/former-wework-executives-allege-gender-age-discrimination-11561082242",
+      "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-GO103_wework_ZG_20180809173319.jpg",
+      "publishedAt": "2019-06-21T02:27:17Z",
+      "content": "WeWork Cos. is being sued by two former executives who are accusing the shared-office company of gender and age discrimination as it gears up for an initial public offering.\r\nOn Thursday, a former senior vice president who oversaw compensation issues at the c… [+792 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Suzanne Vranica",
+      "title": "Advertisers Wary of Big-Tech Breakup...",
+      "description": "Advertisers Wary of Big-Tech Breakup... (Second column, 18th story, link ) Related stories: Political-News Sites Forge Ad Group to Compete With FACEBOOKGOOGLE... Advertise here",
+      "url": "https://www.wsj.com/articles/advertisers-are-wary-of-breaking-up-google-and-facebook-11561057954",
+      "urlToImage": "https://images.wsj.net/im-83755/social",
+      "publishedAt": "2019-06-21T00:52:39Z",
+      "content": "CANNES, FranceAdvertisers have griped about the power Google and\r\nFacebook Inc.\r\n FB 1.09%\r\nwield over the digital ad market. But they are generally wary of breaking up the tech giants, judging by the views of the attendees at the annual advertising festival … [+5470 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Peggy Noonan",
+      "title": "NOONAN: My Sister, My Uncle and Trump...",
+      "description": "NOONAN: My Sister, My Uncle and Trump... (First column, 7th story, link ) Related stories: Can Trump run as an outsider? PIERS MORGAN: Forget polls, he's going to win easily... Advertise here",
+      "url": "https://www.wsj.com/articles/my-sister-my-uncle-and-trump-11561069936",
+      "urlToImage": "https://si.wsj.net/public/resources/images/ED-AY733_Noonan_SOC_20190620143403.jpg",
+      "publishedAt": "2019-06-21T00:52:37Z",
+      "content": "It was four years ago this week, June 16, 2015, and a great professional gift was given me. I had just watched Donald Trumps announcement speech and was pondering its impact. This guy isnt going to be president; weve been reading about his tabloid antics for … [+6706 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Michael R. Gordon",
+      "title": "Moving closer to military confrontation...",
+      "description": "Moving closer to military confrontation... (Top headline, 4th story, link ) Related stories: DRONE VIOLATING OR VICTIM? PELOSI: THIS IS DANGEROUS, HIGH-TENSION SITUATION... SCHUMER: ADMIN MAY BUMBLE INTO WAR... Advertise here",
+      "url": "https://www.wsj.com/articles/u-s-and-iran-move-closer-to-military-conflict-after-downing-of-drone-11561076307",
+      "urlToImage": "https://images.wsj.net/im-83897/social",
+      "publishedAt": "2019-06-21T00:52:36Z",
+      "content": "The U.S. and Iran edged closer to a military confrontation on Thursday as Iranian forces shot down an American reconnaissance drone and President Trump charged that Tehran had made a very big mistake. As the hours went by, each side refrained from additional … [+9953 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Cara Lombardo",
+      "title": "UnitedHealth agrees to $3.2 billion deal to buy payments company Equian",
+      "description": "UnitedHealth Group Inc. has agreed to buy health-care payments firm Equian LLC from its private-equity owner for about $3.2 billion, according to people familiar with the matter.",
+      "url": "https://www.wsj.com/articles/unitedhealth-agrees-to-buy-payments-firm-equian-for-3-2-billion-11561071058",
+      "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-HF471_United_ZG_20190312082852.jpg",
+      "publishedAt": "2019-06-20T23:12:40Z",
+      "content": "UnitedHealth Group Inc. has agreed to buy health-care payments firm Equian LLC from its private-equity owner for about $3.2 billion, according to people familiar with the matter.\r\nEquian, owned by New Mountain Capital, offers payment-processing services for h… [+1032 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Cara Lombardo",
+      "title": "The Wall Street Journal: UnitedHealth agrees to $3.2 billion deal to buy payments company Equian",
+      "description": "UnitedHealth Group Inc. has agreed to buy health-care payments firm Equian LLC from its private-equity owner for about $3.2 billion, according to people familiar with the matter.",
+      "url": "https://www.wsj.com/articles/unitedhealth-agrees-to-buy-payments-firm-equian-for-3-2-billion-11561071058",
+      "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-HF471_United_ZG_20190312082852.jpg",
+      "publishedAt": "2019-06-20T23:12:40Z",
+      "content": "UnitedHealth Group Inc. has agreed to buy health-care payments firm Equian LLC from its private-equity owner for about $3.2 billion, according to people familiar with the matter.\r\nEquian, owned by New Mountain Capital, offers payment-processing services for h… [+1032 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": null,
+      "title": "Opinion: Trump Needs To Look Forward, Not Backwards",
+      "description": "To win re-election, Trump needs a bold second-term agenda, not a repeat of his 2016 campaign. Image: Getty",
+      "url": "https://www.wsj.com/video/opinion-trump-needs-to-look-forward-not-backwards/8DF1029A-6213-47C3-B23A-4616D4AB3583.html",
+      "urlToImage": "http://m.wsj.net/video/20190620/062019opvidpw/062019opvidpw_1280x720.jpg",
+      "publishedAt": "2019-06-20T22:52:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": null,
+      "title": "Opinion: Trump Needs To Look Forward",
+      "description": "To win re-election, Trump needs a bold second-term agenda, one that builds on his first term successes. Image: Getty",
+      "url": "https://www.wsj.com/video/opinion-trump-needs-to-look-forward/8DF1029A-6213-47C3-B23A-4616D4AB3583.html",
+      "urlToImage": "http://m.wsj.net/video/20190620/062019opvidpw/062019opvidpw_1280x720.jpg",
+      "publishedAt": "2019-06-20T22:52:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Angus Loten",
+      "title": "With Slack’s Buzzy IPO, Email Takes Another Hit - Wall Street Journal",
+      "description": "Slack Technologies Inc.’s highflying trading debut reflects the rapid growth of cloud-enabled workplace collaboration tools, which are driving a shift from individual to group productivity, according to chief information officers, tech-firm executives and ana…",
+      "url": "https://www.wsj.com/articles/with-slacks-buzzy-ipo-email-takes-another-hit-11561070391",
+      "urlToImage": "https://images.wsj.net/im-83845/social",
+      "publishedAt": "2019-06-20T22:39:00Z",
+      "content": "Slack Technologies Inc.shighflying trading debut Thursday reflects the rapid growth of cloud-enabled workplace collaboration tools, which are driving a shift from individual to group productivity, according to chief information officers, tech-firm executives … [+4619 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": null,
+      "title": "Opinion: United States Pushes Turkey To Drop Russian Missile",
+      "description": "The United States is in a stand-off with fellow NATO member Turkey over the purchase of a Russian weapon system. The S-400 surface to air missile could spell the end of Turkey’s F-35 purchase unless a deal can be made. Image: Getty",
+      "url": "https://www.wsj.com/video/opinion-united-states-pushes-turkey-to-drop-russian-missile/AD89964A-7B9B-4620-9F34-BFD1D2EA8F52.html",
+      "urlToImage": "http://m.wsj.net/video/20190620/061219opvidturkey2/061219opvidturkey2_1280x720.jpg",
+      "publishedAt": "2019-06-20T22:36:18Z",
+      "content": null
+    }
+  ]
+}
