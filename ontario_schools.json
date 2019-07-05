@@ -1,0 +1,508 @@
+{
+    "ElementarySchoolList": [
+        {
+            "grade": "elementary",
+            "schoolname": "Tecumseh Public School",
+            "type": "Public",
+            "address": "1480 Chriseden Dr \r\nMississauga, ON L5H1V4",
+            "phoneno": "905-278-5594",
+            "districtboard": "Peel DSB",
+            "website": "http://schools.peelschools.org/1258/Pages/default.aspx ",
+            "2018 scoreon10": "8.6",
+            "schoolranking": "123/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Forest Avenue Public School",
+            "type": "Public",
+            "address": "20 Forest Ave \r\nMississauga, ON L5G1K7",
+            "phoneno": "905-278-2472",
+            "districtboard": "Peel DSB",
+            "website": "http://schools.peelschools.org/1276/Pages/default.aspx ",
+            "2018 scoreon10": "7.6",
+            "schoolranking": "495/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Humber Valley Village Junior Middle School",
+            "type": "Public",
+            "address": "65 Hartfield Rd \r\nToronto, ON M9A3E1",
+            "phoneno": "416-394-7860",
+            "districtboard": "Toronto DSB",
+            "website": "http://schools.tdsb.on.ca/humbervv/Humber_Valley/Home.html",
+            "2018 scoreon10": "9.3",
+            "schoolranking": "34/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Charles R. Beaudoin Public School",
+            "type": "Public",
+            "address": "4313 Clubview Dr \r\nBurlington, ON L7M5A1",
+            "phoneno": "905-637-8297",
+            "districtboard": "Halton DSB",
+            "2018 scoreon10": "8.2",
+            "schoolranking": "213/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Pineland Public School",
+            "type": "Public",
+            "address": "5121 Meadowhill Rd \r\nBurlington, ON L7L3K7",
+            "phoneno": "905-634-2311",
+            "districtboard": "Halton DSB",
+            "2018 scoreon10": "7.9",
+            "schoolranking": "334/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "John T Tuck Public School",
+            "type": "Public",
+            "address": "3365 Spruce Ave \r\nBurlington, ON L7N1J7",
+            "phoneno": "905-637-3881",
+            "districtboard": " Halton DSB",
+            "2018 scoreon10": "9",
+            "schoolranking": "58/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Tom Thomson Public School",
+            "type": "Public",
+            "address": "2171 Prospect St \r\nBurlington, ON L7R1Z6",
+            "phoneno": "905-639-2010",
+            "districtboard": " Halton DSB",
+            "2018 scoreon10": "7.9",
+            "schoolranking": "334/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Alton Village Public School",
+            "type": "Public",
+            "address": "3290 Steeplechase Drive \r\nBurlington, ON L7M0W1",
+            "districtboard": "Halton DSB",
+            "2018 scoreon10": "7.8",
+            "schoolranking": "388/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Orchard Park Public School",
+            "type": "Public",
+            "address": "5151 Dryden Ave \r\nBurlington, ON L7L7J3",
+            "districtboard": "Halton DSB",
+            "2018 scoreon10": "8.2",
+            "schoolranking": "213/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Pilgrim Wood Public School",
+            "type": "Public",
+            "address": "1551 Pilgrims Way \r\nOakville, ON L6M2W7",
+            "districtboard": "Halton DSB",
+            "2018 scoreon10": "8.5",
+            "schoolranking": "144/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "West Oak Public School",
+            "type": "Public",
+            "address": "2071 Fourth Line \r\nOakville, ON L6M3K1",
+            "districtboard": "Halton DSB",
+            "2018 scoreon10": "7.7",
+            "schoolranking": "446/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Forest Trail Public School (Elementary)",
+            "type": "Public",
+            "address": "1406 Pine Glen Road \r\nOakville, ON L6M4B9",
+            "districtboard": "Halton DSB",
+            "2018 scoreon10": "8.6",
+            "schoolranking": "123/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Oodenawi PS",
+            "type": "Public",
+            "address": "385 Sixteen Mile Drive \r\nOakville, ON L6M0Z4",
+            "phoneno": "905-257-6594",
+            "districtboard": "Halton DSB",
+            "2018 scoreon10": "8.2",
+            "schoolranking": "213/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Post's Corners Elementary School",
+            "type": "Public",
+            "address": "2220 Caldwell Dr \r\nOakville, ON L6H6B5",
+            "phoneno": "905-845-1661",
+            "districtboard": "Halton DSB",
+            "website": "http://pos.hdsb.ca ",
+            "2018 scoreon10": "8.2",
+            "schoolranking": "213/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Joshua Creek Public School",
+            "type": "Public",
+            "address": "1450 Arrowhead Road \r\nOakville, ON L6H7P9",
+            "phoneno": "905-257-7492",
+            "districtboard": "Halton DSB",
+            "website": "http://jcp.hdsb.ca/ ",
+            "2018 scoreon10": "8.4",
+            "schoolranking": "163/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "John English Junior Middle School",
+            "type": "Public",
+            "address": "95 Mimico Ave \r\nToronto, ON M8V1R4",
+            "phoneno": "416-394-7660",
+            "districtboard": "Toronto DSB",
+            "website": " http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=2077 ",
+            "2018 scoreon10": "7.8",
+            "schoolranking": "388/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Humber Valley Village Junior Middle School",
+            "type": "Public",
+            "address": "65 Hartfield Rd \r\nToronto, ON M9A3E1",
+            "phoneno": "416-394-7860",
+            "districtboard": "Toronto DSB",
+            "website": "http://schools.tdsb.on.ca/humbervv/Humber_Valley/Home.html",
+            "2018 scoreon10": "9.3",
+            "schoolranking": "34/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Lambton Kingsway Junior Middle School",
+            "type": "Public",
+            "address": "525 Prince Edward Dr \r\nToronto, ON M8X2M6",
+            "phoneno": "416-394-7890",
+            "districtboard": "Toronto DSB",
+            "website": "http://schoolweb.tdsb.on.ca/LambtonKingsway ",
+            "2018 scoreon10": "7.8",
+            "schoolranking": "388/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Norseman Junior Middle School",
+            "type": "Public",
+            "address": "105 Norseman St \r\nToronto, ON M8Z2R1",
+            "phoneno": "416-394-7880",
+            "districtboard": "Toronto DSB",
+            "website": "http://schools.tdsb.on.ca/norseman ",
+            "2018 scoreon10": "7.9",
+            "schoolranking": "334/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Park Lawn Junior and Middle School",
+            "type": "Public",
+            "address": "71 Ballacaine Dr \r\nToronto, ON M8Y4B6",
+            "phoneno": "416-394-7120",
+            "districtboard": "Toronto DSB",
+            "website": "http://schoolweb.tdsb.on.ca/ParkLawn ",
+            "2018 scoreon10": "7.9",
+            "schoolranking": "334/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Swansea Junior and Senior Junior and Senior Public",
+            "type": "Public",
+            "address": "207 Windermere Ave \r\nToronto, ON M6S3J9",
+            "phoneno": "416-393-9080",
+            "districtboard": " Toronto DSB",
+            "website": "http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=5311 ",
+            "2018 scoreon10": "9.1",
+            "schoolranking": "47/3046"
+        },
+        {
+            "grade": "elementary",
+            "schoolname": "Runnymede Junior and Senior Public School",
+            "type": "Public",
+            "address": "357 Runnymede Rd \r\nToronto, ON M6S2Y7",
+            "phoneno": "416-393-9055",
+            "districtboard": "Toronto DSB",
+            "website": "http://schoolweb.tdsb.on.ca/Runnymede ",
+            "2018 scoreon10": "8.7",
+            "schoolranking": "102/3046"
+        }
+    ],
+    "SecondarySchoolList": [
+        {
+            "grade": "secondary",
+            "schoolname": "Oakville Trafalgar High School",
+            "type": "public",
+            "address": "1460 Devon Rd \r\nOakville, ON L6J3L6",
+            "phoneno": "905-845-2875",
+            "districtboard": "Halton DSB",
+            "website": "http://oth.hdsb.ca/ ",
+            "2018 scoreon10": "9.2",
+            "undefined": "7/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Port Credit Secondary School",
+            "type": "public",
+            "address": "70 Mineola Rd E \r\nMississauga, ON L5G2E5",
+            "phoneno": "905-278-3382",
+            "districtboard": "Peel DSB",
+            "website": "http://schools.peelschools.org/sec/portcredit/Pages/default.aspx",
+            "2018 scoreon10": "7.6",
+            "undefined": "117/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "The Woodlands Secondary School",
+            "type": "public",
+            "address": "3225 Erindale Station Rd \r\nMississauga, ON L5C1Y5",
+            "phoneno": "905-279-0575",
+            "districtboard": " Peel DSB",
+            "website": "http://schools.peelschools.org/sec/woodlands/Pages/default.aspx",
+            "2018 scoreon10": "8.4",
+            "undefined": "32/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Lorne Park Secondary School",
+            "type": "public",
+            "address": "1324 Lorne Park Rd \r\nMississauga, ON L5H3B1",
+            "phoneno": " 905-278-6177",
+            "districtboard": "Peel DSB",
+            "website": "http://schools.peelschools.org/sec/lornepark/Pages/default.aspx",
+            "2018 scoreon10": "7.6",
+            "undefined": "117/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "The Woodlands Secondary School",
+            "type": "public",
+            "address": "3225 Erindale Station Rd \r\nMississauga, ON L5C1Y5",
+            "phoneno": "905-279-0575",
+            "districtboard": " Peel DSB",
+            "website": "http://schools.peelschools.org/sec/woodlands/Pages/default.aspx",
+            "2018 scoreon10": "8.4",
+            "undefined": "32/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "John Fraser Secondary School",
+            "type": "public",
+            "address": "2665 Erin Centre Blvd \r\nMississauga, ON L5M5H6",
+            "phoneno": "905-858-5910",
+            "districtboard": " Peel DSB",
+            "website": "http://schools.peelschools.org/sec/johnfraser/Pages/default.aspx",
+            "2018 scoreon10": "8.8",
+            "undefined": "14/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "École secondaire Gaétan Gervais",
+            "type": "public",
+            "address": "150 Ridge Dr \r\nOakville, ON L6H1B8",
+            "phoneno": "905 815-8900",
+            "districtboard": "Conseil scolaire Viamonde",
+            "website": "http://csviamonde.ca/ecoles/gaetangervais ",
+            "2018 scoreon10": "7.6",
+            "undefined": "117/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Iroquois Ridge High School",
+            "type": "public",
+            "address": "1123 Glenashton Dr \r\nOakville, ON L6H5M1",
+            "phoneno": "905-845-0012",
+            "districtboard": "Halton DSB",
+            "website": "http://irs.hdsb.ca ",
+            "2018 scoreon10": "8.8",
+            "undefined": "14/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Garth Webb Secondary School",
+            "type": "public",
+            "address": "2820 Westoak Trails Boulevard \r\nOakville, ON L6M4W2",
+            "phoneno": "905-847-6875",
+            "districtboard": "Halton DSB",
+            "website": "http://gws.hdsb.ca ",
+            "2018 scoreon10": "8.6",
+            "undefined": "24/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Thomas A Blakelock High School",
+            "type": "public",
+            "address": "1160 Rebecca St \r\nOakville, ON L6L1Y9",
+            "phoneno": "905-827-1158",
+            "districtboard": "Halton DSB",
+            "website": "http://tab.hdsb.ca ",
+            "2018 scoreon10": "7.7",
+            "undefined": "101/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Nelson High School",
+            "type": "public",
+            "address": "4181 New St \r\nBurlington, ON L7L1T3",
+            "phoneno": "905-637-3825",
+            "districtboard": "Halton DSB",
+            "website": "http://nel.hdsb.ca ",
+            "2018 scoreon10": "7.7",
+            "undefined": "101/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "École secondaire Jeunes sans frontières",
+            "type": "public",
+            "address": "7585 promenade Financial \r\nBrampton, ON L6Y5P4",
+            "phoneno": "905-450-1106",
+            "districtboard": "Conseil scolaire Viamonde",
+            "website": "http://jeunessansfrontieres.csviamonde.ca/ ",
+            "2018 scoreon10": "7.1",
+            "undefined": "49/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Richview Collegiate Institute",
+            "type": "public",
+            "address": "1738 Islington Ave \r\nToronto, ON M9A3N2",
+            "phoneno": " 416-394-7980",
+            "districtboard": "Toronto DSB",
+            "website": "http://schools.tdsb.on.ca/richview/ ",
+            "2018 scoreon10": "7.8",
+            "undefined": "84/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Etobicoke School of the Arts",
+            "type": "public",
+            "address": "675 Royal York Rd \r\nToronto, ON M8Y2T1",
+            "phoneno": "416-394-6910",
+            "districtboard": " Toronto DSB",
+            "website": "http://schools.tdsb.on.ca/esa/ ",
+            "2018 scoreon10": "8.4",
+            "undefined": "32/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Ursula Franklin Academy",
+            "type": "public",
+            "address": "146 Glendonwynne Rd \r\nToronto, ON M6P3J7",
+            "phoneno": "416-393-0430",
+            "districtboard": "Toronto DSB",
+            "website": "http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=5604 ",
+            "2018 scoreon10": "9.6",
+            "undefined": "3/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Humberside Collegiate Institute",
+            "type": "public",
+            "address": "280 Quebec Ave \r\nToronto, ON M6P2V3",
+            "phoneno": "416-393-8122",
+            "districtboard": "Toronto DSB",
+            "website": "http://schoolweb.tdsb.on.ca/Humberside ",
+            "2018 scoreon10": "7.9",
+            "undefined": "75/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Bloor Collegiate Institute",
+            "type": "public",
+            "address": "1141 Bloor St W \r\nToronto, ON M6H1M9",
+            "phoneno": "416-393-1420",
+            "districtboard": "Toronto DSB",
+            "website": "http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=5505 ",
+            "2018 scoreon10": "7.7",
+            "undefined": "101/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Lawrence Park Collegiate Institute",
+            "type": "public",
+            "address": "125 Chatsworth Dr \r\nToronto, ON M4R1S1",
+            "phoneno": "416-393-9500",
+            "districtboard": "Toronto DSB",
+            "website": "http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=5525 ",
+            "2018 scoreon10": "7.8",
+            "undefined": "84/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "North Toronto Collegiate Institute",
+            "type": "public",
+            "address": "17 Broadway Ave \r\nToronto, ON M4P1T7",
+            "phoneno": " 416-393-9180",
+            "districtboard": "Toronto DSB",
+            "website": "http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=5540 ",
+            "2018 scoreon10": "9.2",
+            "undefined": "7/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "White Oaks High School",
+            "type": "public",
+            "address": "1330 Montclair Dr \r\nOakville, ON L6H1Z5",
+            "phoneno": "905-845-5200",
+            "districtboard": "Halton DSB",
+            "website": "http://wos.hdsb.ca/ ",
+            "2018 scoreon10": "8.4",
+            "undefined": "32/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "John F Ross Collegiate and Vocational Institute",
+            "type": "public",
+            "address": "21 Meyer Dr \r\nGuelph, ON N1E4H1",
+            "phoneno": "519-822-7090",
+            "districtboard": "pper Grand DSB",
+            "website": "http://www.ugdsb.on.ca/jfr ",
+            "2018 scoreon10": "8.3",
+            "undefined": "38/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Sir John A Macdonald Secondary School",
+            "type": "public",
+            "address": "650 Laurelwood Dr \r\nWaterloo, ON N2V2V1",
+            "phoneno": "519-880-9979",
+            "districtboard": "Waterloo Region DSB",
+            "website": " http://jam.wrdsb.ca/ ",
+            "2018 scoreon10": "8.1",
+            "undefined": "49/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Elmira District Secondary School",
+            "type": "public",
+            "address": "4 University Ave \r\nElmira, ON N3B1K2",
+            "phoneno": "519-669-5414",
+            "districtboard": "Waterloo Region DSB",
+            "website": " http://edss.wrdsb.on.ca/ ",
+            "2018 scoreon10": "8.1",
+            "undefined": "49/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Mitchell District High School",
+            "type": "public",
+            "address": "95 Frances St 455\r\nMitchell, ON N0K1N0",
+            "phoneno": " 519-348-8495",
+            "districtboard": "Avon Maitland DSB",
+            "website": "http://mdhs.amdsb.ca/ ",
+            "2018 scoreon10": "7.7",
+            "undefined": "101/738"
+        },
+        {
+            "grade": "secondary",
+            "schoolname": "Erin District High School",
+            "type": "public",
+            "address": "14 Boland Dr \r\nErin, ON N0B1T0",
+            "phoneno": "519-833-9665",
+            "districtboard": "Upper Grand DSB",
+            "website": "http://www.ugdsb.on.ca/edhs ",
+            "2018 scoreon10": "8",
+            "undefined": "62/738"
+        }
+    ]
+}
