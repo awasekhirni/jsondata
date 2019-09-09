@@ -1,0 +1,1172 @@
+[
+  {
+    "Num": {
+      " of Publications": "17100"
+    },
+    "URL": "https://gephi.org/",
+    "Tool Name": "Gephi",
+    "Description": "Gephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free.",
+    "Programming Required": "X",
+    "Platforms": "N/A(Must import datasets)",
+    "Tool Type": "Analysis + Visualization",
+    "Analysis Type": "Netowrk Discovery",
+    "Misc": {
+      " Features": "Exploratory Data Analysis, Link Analysis and Biological Network analysis"
+    },
+    "Export": ".CSV",
+    "Pricing": "Free",
+    "System Requirements": "Windows,Mac OS X and Linux"
+  },
+  {
+    "Num": {
+      " of Publications": "8330"
+    },
+    "URL": "https://hootsuite.com/#",
+    "Tool Name": "Hootsuite",
+    "Description": "https://hootsuite.com/",
+    "Programming Required": "X",
+    "Platforms": "Google Plus, Instagram, Youtube, LinkedIn, Facebook,Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "Real-time Analysis, Performance Analysis (Follower Growth, Followers Report)"
+    },
+    "Export": ".PCSV, .PDF",
+    "Pricing": "Free + Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "5970"
+    },
+    "URL": "https://nodexl.codeplex.com/#",
+    "Tool Name": "NodeXL",
+    "Description": "https://nodexl.codeplex.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook, Youtube, Flickr, Google Buzz, Vimeo",
+    "Tool Type": "Analysis + Visualization",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "GraphML, Pajek, UCINet, and matrix formats.JPG, .PNG, .EPS, etc.",
+    "Pricing": "Free",
+    "System Requirements": "Windows XP, Vista, 7 or 8; Office 2007 or 2010 or 2013"
+  },
+  {
+    "Num": {
+      " of Publications": ""
+    },
+    "URL": "",
+    "Tool Name": "",
+    "Description": "",
+    "Programming Required": "",
+    "Platforms": "",
+    "Tool Type": "",
+    "Analysis Type": "+ Text Analysis",
+    "Misc": {
+      " Features": ""
+    },
+    "Export": "",
+    "Pricing": "",
+    "System Requirements": ""
+  },
+  {
+    "Num": {
+      " of Publications": "2070"
+    },
+    "URL": "https://sysomos.com/#",
+    "Tool Name": "Sysomos",
+    "Description": "https://sysomos.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook, Instagram, Blogger, Forum, Wikipedia, Video, Download",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "Brand/Trend Analysis"
+    },
+    "Export": "Excel CSV, PDF and JPEGs.",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "859"
+    },
+    "URL": "http://support.gnip.com/sources/twitter/#",
+    "Tool Name": "Gnip",
+    "Description": "http://support.gnip.com/sources/twitter/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook, Youtube, Flickr, Google Buzz, Vimeo",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Content Analysis"
+    },
+    "Export": "JSON, .CSV",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "870"
+    },
+    "URL": "http://datasift.com/#",
+    "Tool Name": "Datasift",
+    "Description": "http://datasift.com/",
+    "Programming Required": "X",
+    "Platforms": "Facebook, Instagram, Apple Touch, Google Buzz, Youtube, Reddit, Wikipedia, Wordpress",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Text Analysis",
+    "Misc": {
+      " Features": "Context Analysis, Sentiment Analysis"
+    },
+    "Export": ".CSV, JSON",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "655"
+    },
+    "URL": "https://www.issuecrawler.net/#",
+    "Tool Name": "Issuecrawler",
+    "Description": "https://www.issuecrawler.net/",
+    "Programming Required": "X",
+    "Platforms": "Internet",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "Co-link Analysis, Snowball Analysis, Inter-actor Analysis"
+    },
+    "Export": ".XML, Raw Data",
+    "Pricing": "Unknown",
+    "System Requirements": ""
+  },
+  {
+    "Num": {
+      " of Publications": "1710"
+    },
+    "URL": "https://www.brandwatch.com/#",
+    "Tool Name": "Brandwatch",
+    "Description": "https://www.brandwatch.com/",
+    "Programming Required": "X",
+    "Platforms": "Video, Twitter, Facebook, Blogger, Forum, Download, Review",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Demographics, Trends Detection, Geo-Location Analysis, Marketing Measurements, Competitor Analysis"
+    },
+    "Export": "Excel, .CSV, .JPG, .PNG",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "1050"
+    },
+    "URL": "https://wiki.digitalmethods.net/Dmi/ToolNetvizz#",
+    "Tool Name": "Netvizz",
+    "Description": "https://wiki.digitalmethods.net/Dmi/ToolNetvizz",
+    "Programming Required": "X",
+    "Platforms": "Facebook",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".GDF, .TXT",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "709"
+    },
+    "URL": "http://www.crimsonhexagon.com/#",
+    "Tool Name": "Crimson Hexagon",
+    "Description": "http://www.crimsonhexagon.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook, Instagram, Youtube, Blogger, Forum, Download,Sina Weibo, Review",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Text Analysis",
+    "Misc": {
+      " Features": "Trend Analysis, Sentiment Analysis, Competitor Analysis, Content/Context Analysis,"
+    },
+    "Export": "Excel and Image Formats",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "1300"
+    },
+    "URL": "https://github.com/tweepy/tweepy#",
+    "Tool Name": "tweepy",
+    "Description": "https://github.com/tweepy/tweepy",
+    "Programming Required": "Python",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free",
+    "System Requirements": "Python 2.6 and 2.7, 3.3, 3.4 & 3.5"
+  },
+  {
+    "Num": {
+      " of Publications": "130"
+    },
+    "URL": "https://cran.r-project.org/web/packages/streamR/#",
+    "Tool Name": "streamR",
+    "Description": "https://cran.r-project.org/web/packages/streamR/",
+    "Programming Required": "R",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".TXT",
+    "Pricing": "Free",
+    "System Requirements": "Unknown"
+  },
+  {
+    "Num": {
+      " of Publications": "656"
+    },
+    "URL": "https://www.twitonomy.com/#",
+    "Tool Name": "Twitonomy",
+    "Description": "https://www.twitonomy.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis+ Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "?"
+    },
+    "Export": ".CSV, .PDF",
+    "Pricing": "Free + Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "388"
+    },
+    "URL": "http://www.digimind.com/news/digimind-launches-the-influencer-network-for-twitter/#",
+    "Tool Name": "Digmind",
+    "Description": "http://www.digimind.com/news/digimind-launches-the-influencer-network-for-twitter/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook, Youtube, LinkedIn, Pinterest, Google Buzz, Blogger, Forum, Review",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "Competitor Analysis Analysis, Trend Analysis, Real-time Analysis, Intelligence Crawlers"
+    },
+    "Export": ".PDF, .PPT, .XLS, .JPG",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "370"
+    },
+    "URL": "http://twitris.knoesis.org/#",
+    "Tool Name": "Twitris",
+    "Description": "http://twitris.knoesis.org/",
+    "Programming Required": "X",
+    "Platforms": "Multiple",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "Temporal/Spatial Analysis, Comphrehensive Statistics, Information Relevance, Trend Analysis, Sentiment and Emotional Analysis"
+    },
+    "Export": "",
+    "Pricing": "Unkown",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "278"
+    },
+    "URL": "https://github.com/540co/yourTwapperKeeper#",
+    "Tool Name": "yourTwapperKeeper",
+    "Description": "https://github.com/540co/yourTwapperKeeper",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "HTML, RSS, EXCEL, and JSON",
+    "Pricing": "Free",
+    "System Requirements": "Virtual server with an IP address running APACHE / PHP / MYSQL"
+  },
+  {
+    "Num": {
+      " of Publications": "370"
+    },
+    "URL": "http://discovertext.com/#",
+    "Tool Name": "DiscoverText",
+    "Description": "http://discovertext.com/ - collaborative text analytics solution. With dozens of powerful text mining features, the DiscoverText software _x005F_x0003_solution provides tools to quickly and accurately make better decisions.",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook, Apple Touch, Google Buzz, Blogger, Disqus, Email",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Text Analysis",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free + Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "318"
+    },
+    "URL": "http://lexiurl.wlv.ac.uk/index.html#",
+    "Tool Name": "Webometric Analyst",
+    "Description": "http://lexiurl.wlv.ac.uk/index.html",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Youtube, Flickr",
+    "Tool Type": "Data Collection + Analysis",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Pajek",
+    "Pricing": "Free",
+    "System Requirements": "Windows only"
+  },
+  {
+    "Num": {
+      " of Publications": "360"
+    },
+    "URL": "https://netlytic.org/#",
+    "Tool Name": "Netlytic",
+    "Description": "https://netlytic.org/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook, Youtube, Instagram, Text",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Geo-Location Analysis, Category (Topical) Analysis"
+    },
+    "Export": ".CSV,Pajek, .PNG, UCINET",
+    "Pricing": "Free + Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "206"
+    },
+    "URL": "https://github.com/bear/python-twitter#",
+    "Tool Name": "python-twitter",
+    "Description": "https://github.com/bear/python-twitter",
+    "Programming Required": "Python",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free",
+    "System Requirements": "Python versions from 2.7+ and Python 3."
+  },
+  {
+    "Num": {
+      " of Publications": "117"
+    },
+    "URL": "https://github.com/twitter/twurl#",
+    "Tool Name": "twurl",
+    "Description": "https://github.com/twitter/twurl",
+    "Programming Required": "RubyGems",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free",
+    "System Requirements": "Unknown"
+  },
+  {
+    "Num": {
+      " of Publications": "170"
+    },
+    "URL": "https://www.tweetarchivist.com/#",
+    "Tool Name": "Tweet Archivist",
+    "Description": "https://www.tweetarchivist.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".CSV, .PDF",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "95"
+    },
+    "URL": "http://www.vtracker.com.br/#",
+    "Tool Name": "vtracker",
+    "Description": "http://www.vtracker.com.br/",
+    "Programming Required": "X",
+    "Platforms": "Twitter,",
+    "Tool Type": "Data Collection + Analysis",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "Monitoring (Brand/Competitor Analysis)"
+    },
+    "Export": "Unknown",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "169"
+    },
+    "URL": "https://twython.readthedocs.io/en/latest/#",
+    "Tool Name": "twython",
+    "Description": "https://twython.readthedocs.io/en/latest/",
+    "Programming Required": "Python",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free",
+    "System Requirements": "Python 2.6+ and Python 3"
+  },
+  {
+    "Num": {
+      " of Publications": "121"
+    },
+    "URL": "https://www.outwit.com/products/hub/#",
+    "Tool Name": "OutWit Hub",
+    "Description": "https://www.outwit.com/products/hub/",
+    "Programming Required": "X",
+    "Platforms": "Internet Sources",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".CSV, .TXT, .HTML, Excel or SQL databases",
+    "Pricing": "Pay",
+    "System Requirements": "Firefox"
+  },
+  {
+    "Num": {
+      " of Publications": "112"
+    },
+    "URL": "http://mozdeh.wlv.ac.uk/index.html#",
+    "Tool Name": "Mozdeh",
+    "Description": "http://mozdeh.wlv.ac.uk/index.html",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Demographic Analysis, Time-Series Analysis, Content Analysis, Trend Detection"
+    },
+    "Export": ".TXT",
+    "Pricing": "Free",
+    "System Requirements": "Windows (Desktop advisable)"
+  },
+  {
+    "Num": {
+      " of Publications": "23"
+    },
+    "URL": "http://www.affinio.com/#",
+    "Tool Name": "Affinio",
+    "Description": "http://www.affinio.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Instagram, Pinterest",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "Content Analysis, Competitor Analysis"
+    },
+    "Export": ".CSV",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "228"
+    },
+    "URL": "https://cran.r-project.org/web/packages/Rfacebook/index.html#",
+    "Tool Name": "Rfacebook",
+    "Description": "https://cran.r-project.org/web/packages/Rfacebook/index.html",
+    "Programming Required": "R",
+    "Platforms": "",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free",
+    "System Requirements": "Unknown"
+  },
+  {
+    "Num": {
+      " of Publications": "379"
+    },
+    "URL": "https://github.com/strohne/Facepager#",
+    "Tool Name": "Facepager",
+    "Description": "https://github.com/strohne/Facepager",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".CSV",
+    "Pricing": "Free",
+    "System Requirements": "Windows and Mac OS X"
+  },
+  {
+    "Num": {
+      " of Publications": "108"
+    },
+    "URL": "http://140dev.com/#",
+    "Tool Name": "140dev",
+    "Description": "http://140dev.com/",
+    "Programming Required": "Java",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free",
+    "System Requirements": "MySQL database must be running and configured for localhost access, and PHP must be installed."
+  },
+  {
+    "Num": {
+      " of Publications": "74"
+    },
+    "URL": "https://foller.me/#",
+    "Tool Name": "Foller.me",
+    "Description": "https://foller.me/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Text Analysis",
+    "Misc": {
+      " Features": "Tweet Statistics"
+    },
+    "Export": "x",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "66"
+    },
+    "URL": "http://textexture.com/#",
+    "Tool Name": "Textexture",
+    "Description": "http://textexture.com/",
+    "Programming Required": "X",
+    "Platforms": "Youtube, Text",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".GEFX",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "46"
+    },
+    "URL": "https://github.com/twitter/hbc#",
+    "Tool Name": "Hosebird",
+    "Description": "https://github.com/twitter/hbc",
+    "Programming Required": "Java",
+    "Platforms": "Twitter, Facebook",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "x",
+    "Pricing": "Free",
+    "System Requirements": "Unknown"
+  },
+  {
+    "Num": {
+      " of Publications": "134"
+    },
+    "URL": "https://websta.me/#",
+    "Tool Name": "Websta",
+    "Description": "https://websta.me/",
+    "Programming Required": "X",
+    "Platforms": "Instagram",
+    "Tool Type": "Data Collection + Analysis",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "Instagram Statistics"
+    },
+    "Export": "N/A",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "106"
+    },
+    "URL": "http://analytics.followthehashtag.com/#!/",
+    "Tool Name": "followthehashtag",
+    "Description": "http://analytics.followthehashtag.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Text Analysis",
+    "Misc": {
+      " Features": "Geo-Location Analysis, Picture Analysis, Gender Analysis and Content Analysis"
+    },
+    "Export": ".CSV, .PDF",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "54"
+    },
+    "URL": "http://chorusanalytics.co.uk/#",
+    "Tool Name": "Chorus",
+    "Description": "http://chorusanalytics.co.uk/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Excel",
+    "Pricing": "Free",
+    "System Requirements": "Windows only"
+  },
+  {
+    "Num": {
+      " of Publications": "45"
+    },
+    "URL": "http://www.uberlink.com/#",
+    "Tool Name": "VOSON/Uberlink",
+    "Description": "http://www.uberlink.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Web Mining"
+    },
+    "Export": ".CSV,GraphML, Pajek",
+    "Pricing": "Free + Pay",
+    "System Requirements": "Firefox, Chrome and Safari (including mobile Safari on the iPad)"
+  },
+  {
+    "Num": {
+      " of Publications": "29"
+    },
+    "URL": "http://infoextractor.org/#",
+    "Tool Name": "Info Extractor",
+    "Description": "http://infoextractor.org/",
+    "Programming Required": "X",
+    "Platforms": "Facebook, Youtube, Wikipedia, Blogger, Huffington Post",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".CSV, Text, .XML",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "47"
+    },
+    "URL": "https://github.com/edsu/twarc#",
+    "Tool Name": "twarc",
+    "Description": "https://github.com/edsu/twarc",
+    "Programming Required": "Python",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "JSON",
+    "Pricing": "Free",
+    "System Requirements": "Python 2 or 3"
+  },
+  {
+    "Num": {
+      " of Publications": "24"
+    },
+    "URL": "http://maps.iscience.deusto.es/#",
+    "Tool Name": "iScience Maps",
+    "Description": "http://maps.iscience.deusto.es/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "Geo-Location Analysis"
+    },
+    "Export": ".CSV, .XLS",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "80"
+    },
+    "URL": "https://gwu-libraries.github.io/sfm-ui/#",
+    "Tool Name": "Social Feed Manager",
+    "Description": "https://gwu-libraries.github.io/sfm-ui/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Apple Touch, Flickr, Sina Weibo",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "Can also collect related web resources. Supports multiple users."
+    },
+    "Export": ".CSV, Excel, .JSON",
+    "Pricing": "Free (open source)",
+    "System Requirements": "Ubuntu 12.04 LTS server"
+  },
+  {
+    "Num": {
+      " of Publications": "14"
+    },
+    "URL": "https://github.com/mobolic/facebook-sdk/#",
+    "Tool Name": "Facebook-sdk",
+    "Description": "https://github.com/mobolic/facebook-sdk/",
+    "Programming Required": "Python",
+    "Platforms": "Facebook",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free",
+    "System Requirements": "Python 2.6, 2.7, 3.3, 3.4, and 3.5."
+  },
+  {
+    "Num": {
+      " of Publications": "35"
+    },
+    "URL": "http://socioviz.net/SNA/eu/sna/login.jsp#",
+    "Tool Name": "Socioviz",
+    "Description": "http://socioviz.net/SNA/eu/sna/login.jsp",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".GDF",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "4"
+    },
+    "URL": "http://matthieu-totet.fr/Koumin/tools/naoyun/#",
+    "Tool Name": "Naoyun",
+    "Description": "http://matthieu-totet.fr/Koumin/tools/naoyun/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "?"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free",
+    "System Requirements": ""
+  },
+  {
+    "Num": {
+      " of Publications": "48"
+    },
+    "URL": "http://www.visibrain.com/en/#",
+    "Tool Name": "Visibrain Focus",
+    "Description": "http://www.visibrain.com/en/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection + Analysis+ Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Crisis Prevention and Management, Brand Analysis, Competitor Analysis"
+    },
+    "Export": "Unknown",
+    "Pricing": "Pay",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "6"
+    },
+    "URL": "https://github.com/libbyh/TwitterGoggles#",
+    "Tool Name": "TwitterGoogles",
+    "Description": "https://github.com/libbyh/TwitterGoggles",
+    "Programming Required": "Python",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "JSON",
+    "Pricing": "Free",
+    "System Requirements": "Python 3.3"
+  },
+  {
+    "Num": {
+      " of Publications": "12"
+    },
+    "URL": "http://dd-css.com/#",
+    "Tool Name": "DD-CSS",
+    "Description": "http://dd-css.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".CSV, .JSON",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "53"
+    },
+    "URL": "https://tools.digitalmethods.net/netvizz/youtube/#",
+    "Tool Name": "YouTube Data Tools",
+    "Description": "https://tools.digitalmethods.net/netvizz/youtube/",
+    "Programming Required": "X",
+    "Platforms": "Youtube",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".GDF, .TSV",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "3"
+    },
+    "URL": "https://github.com/brendam/tStreamingArchiver#",
+    "Tool Name": "tStreamingArchiver",
+    "Description": "https://github.com/brendam/tStreamingArchiver",
+    "Programming Required": "Java",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".TXT",
+    "Pricing": "Free",
+    "System Requirements": "Unknown"
+  },
+  {
+    "Num": {
+      " of Publications": "1"
+    },
+    "URL": "https://github.com/mdredze/twitter_stream_downloader#",
+    "Tool Name": "Twitter Stream Downloader",
+    "Description": "https://github.com/mdredze/twitter_stream_downloader",
+    "Programming Required": "Python",
+    "Platforms": "Twitter, LinkedIn",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "N/A",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "Unknown",
+    "Pricing": "Free",
+    "System Requirements": "Tweepy"
+  },
+  {
+    "Num": {
+      " of Publications": "136"
+    },
+    "URL": "https://github.com/digitalmethodsinitiative/dmi-tcat%3cbr /%3e#",
+    "Tool Name": "DMI-TCAT*",
+    "Description": "https://github.com/digitalmethodsinitiative/dmi-tcat%3cbr /%3e",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Reproducible data capture + analysis"
+    },
+    "Export": ".CSV, .GEXF",
+    "Pricing": "Free",
+    "System Requirements": "Debian, Ubuntu"
+  },
+  {
+    "Num": {
+      " of Publications": "18"
+    },
+    "URL": "http://www.bu.edu/com/research/bu-tcat/#",
+    "Tool Name": "BU-TCAT*",
+    "Description": "http://www.bu.edu/com/research/bu-tcat/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data collection + Analysis + Visualization",
+    "Analysis Type": "Network discovery + Text Analysis",
+    "Misc": {
+      " Features": "Ongoing searches without expiration time"
+    },
+    "Export": ".CSV",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "58"
+    },
+    "URL": "http://www.qsrinternational.com/products_nvivo_add-ons.aspx#",
+    "Tool Name": "Nvivo/Ncapture*",
+    "Description": "http://www.qsrinternational.com/products_nvivo_add-ons.aspx",
+    "Programming Required": "X",
+    "Platforms": "N/A",
+    "Tool Type": "Data analysis + Visualization",
+    "Analysis Type": "Text analysis",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".DOCX, .XLSL, .QDC",
+    "Pricing": "Pay",
+    "System Requirements": "Windows, Mac"
+  },
+  {
+    "Num": {
+      " of Publications": "9"
+    },
+    "URL": "http://lexiurl.wlv.ac.uk/index.html#",
+    "Tool Name": "Webometrics*",
+    "Description": "http://lexiurl.wlv.ac.uk/index.html",
+    "Programming Required": "X",
+    "Platforms": "Youtube, Twitter, Flickr",
+    "Tool Type": "Data Collection + Analysis",
+    "Analysis Type": "Network discovery + Text Analysis",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "N/A",
+    "Pricing": "Free",
+    "System Requirements": "Windows"
+  },
+  {
+    "Num": {
+      " of Publications": "3"
+    },
+    "URL": "http://www.clips.ua.ac.be/pattern#",
+    "Tool Name": "Pattern*",
+    "Description": "http://www.clips.ua.ac.be/pattern",
+    "Programming Required": "Python",
+    "Platforms": "Google, Gmail, Bing, Facebook, Twitter, Wikipedia, Wiktionary, DBPedia",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Text Analysis",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "N/A",
+    "Pricing": "Free",
+    "System Requirements": "Python 2.5+ on Windows, Mac, Linux"
+  },
+  {
+    "Num": {
+      " of Publications": "12"
+    },
+    "URL": "https://github.com/jdevoo/twecoll#",
+    "Tool Name": "Twecoll*",
+    "Description": "https://github.com/jdevoo/twecoll",
+    "Programming Required": "Python",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "N/A",
+    "Pricing": "Free",
+    "System Requirements": "Python 2.7+"
+  },
+  {
+    "Num": {
+      " of Publications": "6"
+    },
+    "URL": "https://github.com/pmaconi/TwitterGoggles#",
+    "Tool Name": "TwitterGoggles*",
+    "Description": "https://github.com/pmaconi/TwitterGoggles",
+    "Programming Required": "Python",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "N/A",
+    "Pricing": "Free",
+    "System Requirements": "Python 3.3"
+  },
+  {
+    "Num": {
+      " of Publications": "15"
+    },
+    "URL": "http://digitalfootprints.dk/#",
+    "Tool Name": "Digitalfootprints*",
+    "Description": "http://digitalfootprints.dk/",
+    "Programming Required": "X",
+    "Platforms": "Facebook",
+    "Tool Type": "Data Collection + Analysis",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "N/A",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "218"
+    },
+    "URL": "http://www.infoextractor.org/#",
+    "Tool Name": "Infoextractor*",
+    "Description": "http://www.infoextractor.org/",
+    "Programming Required": "X",
+    "Platforms": "Facebook, Youtube, Wikipedia, BlogCatalog",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": ".CVS, TEXT, .XML",
+    "Pricing": "Free",
+    "System Requirements": "Web Accessible"
+  },
+  {
+    "Num": {
+      " of Publications": "351"
+    },
+    "URL": "https://audiense.com/#",
+    "Tool Name": "Audiense*",
+    "Description": "https://audiense.com/",
+    "Programming Required": "X",
+    "Platforms": "Facebook, Instagram, Twitter",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Identify audience, gain insights (demographics, interests, online habits, purchase behaviour, media consumption, influencers)"
+    },
+    "Export": ".PDF, .PPT, .CSV, .XLS",
+    "Pricing": "Pay",
+    "System Requirements": "N/A"
+  },
+  {
+    "Num": {
+      " of Publications": "18"
+    },
+    "URL": "https://www.echosec.net/#",
+    "Tool Name": "Echosec*",
+    "Description": "https://www.echosec.net/",
+    "Programming Required": "X",
+    "Platforms": "N/A",
+    "Tool Type": "Data collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Access to raw content within search parameters, 24/7 monitoring / notifications, up to date visualization"
+    },
+    "Export": "N/A",
+    "Pricing": "Pay",
+    "System Requirements": "N/A"
+  },
+  {
+    "Num": {
+      " of Publications": "15"
+    },
+    "URL": "http://www.pulsarplatform.com/#",
+    "Tool Name": "Pulsar Social*",
+    "Description": "http://www.pulsarplatform.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook, Youtube, Instagram",
+    "Tool Type": "Data collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text Analysis",
+    "Misc": {
+      " Features": "Longitudinal data, Unlimited channels, Native analytics, audience insights, content performance"
+    },
+    "Export": "N/A",
+    "Pricing": "Pay",
+    "System Requirements": "N/A"
+  },
+  {
+    "Num": {
+      " of Publications": "25"
+    },
+    "URL": "https://www.trendsmap.com/#",
+    "Tool Name": "Trendsmap*",
+    "Description": "https://www.trendsmap.com/",
+    "Programming Required": "X",
+    "Platforms": "Twitter, Facebook, Instagram",
+    "Tool Type": "Data Collection + Analysis + Visualization",
+    "Analysis Type": "Network Discovery + Text analysis",
+    "Misc": {
+      " Features": "Interactive map, tweet selection controls, detailed stats, detailed account analytics"
+    },
+    "Export": "N/A",
+    "Pricing": "Pay",
+    "System Requirements": "N/A"
+  },
+  {
+    "Num": {
+      " of Publications": "709"
+    },
+    "URL": "https://tags.hawksey.info/#",
+    "Tool Name": "TAGS*",
+    "Description": "https://tags.hawksey.info/",
+    "Programming Required": "X",
+    "Platforms": "Twitter",
+    "Tool Type": "Data Collection",
+    "Analysis Type": "Network Discovery",
+    "Misc": {
+      " Features": "N/A"
+    },
+    "Export": "N/A",
+    "Pricing": "Free",
+    "System Requirements": "N/A"
+  }
+]
