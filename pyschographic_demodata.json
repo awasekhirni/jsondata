@@ -1,0 +1,559 @@
+[{
+  "guid": "d7dd9cbe-8859-45f4-b418-b7179b0fb00f",
+  "personal": {
+    "first_name": "Brandise",
+    "last_name": "Dominguez",
+    "email": "bdominguez0@independent.co.uk",
+    "gender": "Female",
+    "ip_address": "253.134.1.145",
+    "postalcode": "3156",
+    "age": 70,
+    "cntry_name": "Argentina",
+    "cntry_code": "AR",
+    "address": [
+      {
+        "info": "4 Buena Vista Court",
+        "lengthofresidence": 1,
+        "dwellingtype": "commercial",
+        "noofadults": 15,
+        "householdsize": 56,
+        "homeandgarden": false
+      },
+      {
+        "info": "7022 Lighthouse Bay Center",
+        "lengthofresidence": 2,
+        "dwellingtype": "flat",
+        "noofadults": 56,
+        "householdsize": 98,
+        "homeandgarden": true
+      },
+      {
+        "info": "6 Brickson Park Way",
+        "lengthofresidence": 3,
+        "dwellingtype": "ship",
+        "noofadults": 23,
+        "householdsize": 86,
+        "homeandgarden": true
+      },
+      {
+        "info": "9712 Spaight Junction",
+        "lengthofresidence": 4,
+        "dwellingtype": "flat",
+        "noofadults": 7,
+        "householdsize": 57,
+        "homeandgarden": true
+      },
+      {
+        "info": "3 Blackbird Avenue",
+        "lengthofresidence": 5,
+        "dwellingtype": "flat",
+        "noofadults": 37,
+        "householdsize": 86,
+        "homeandgarden": true
+      },
+      {
+        "info": "02 Green Ridge Alley",
+        "lengthofresidence": 6,
+        "dwellingtype": "house",
+        "noofadults": 36,
+        "householdsize": 60,
+        "homeandgarden": false
+      },
+      {
+        "info": "725 Springview Lane",
+        "lengthofresidence": 7,
+        "dwellingtype": "flat",
+        "noofadults": 53,
+        "householdsize": 62,
+        "homeandgarden": false
+      }
+    ],
+    "dob": 25,
+    "ethniccode": "",
+    "ethnicgroup": "",
+    "estimatedincomecode": "",
+    "networth": "",
+    "education": "",
+    "maritalstatus": "",
+    "taxgrade": "",
+    "languagespoken": "",
+    "religioncode": "",
+    "creditrating": "",
+    "politicalinclination": "",
+    "hasrightwingaffiliation": "",
+    "military": true,
+    "armslicense": true
+  },
+  "browse_history": [
+    {
+      "id": 1,
+      "timelastvisit": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+      ],
+      "title": "Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.",
+      "url": "http://google.co.uk/ut/erat/id/mauris/vulputate/elementum.js?diam=dui&vitae=vel&quam=sem&suspendisse=sed&potenti=sagittis&nullam=nam&porttitor=congue&lacus=risus&at=semper&turpis=porta&donec=volutpat&posuere=quam&metus=pede&vitae=lobortis&ipsum=ligula&aliquam=sit&non=amet&mauris=eleifend&morbi=pede&non=libero&lectus=quis&aliquam=orci&sit=nullam&amet=molestie&diam=nibh&in=in&magna=lectus&bibendum=pellentesque&imperdiet=at",
+      "keywords": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+      ],
+      "visitcount": 99
+    },
+    {
+      "id": 2,
+      "timelastvisit": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+      ],
+      "title": "Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "url": "http://home.pl/tincidunt/in/leo/maecenas/pulvinar/lobortis.xml?penatibus=aliquet&et=massa&magnis=id&dis=lobortis&parturient=convallis&montes=tortor&nascetur=risus&ridiculus=dapibus&mus=augue&etiam=vel&vel=accumsan&augue=tellus&vestibulum=nisi&rutrum=eu&rutrum=orci&neque=mauris&aenean=lacinia&auctor=sapien&gravida=quis&sem=libero&praesent=nullam&id=sit&massa=amet&id=turpis&nisl=elementum&venenatis=ligula&lacinia=vehicula&aenean=consequat&sit=morbi&amet=a&justo=ipsum&morbi=integer&ut=a&odio=nibh&cras=in&mi=quis&pede=justo&malesuada=maecenas&in=rhoncus&imperdiet=aliquam&et=lacus&commodo=morbi&vulputate=quis&justo=tortor&in=id&blandit=nulla&ultrices=ultrices&enim=aliquet&lorem=maecenas&ipsum=leo",
+      "keywords": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+      ],
+      "visitcount": 42
+    }
+  ],
+  "relationship": [
+    {
+      "id": 10,
+      "type": "divorce partner",
+      "guid": "ea285150-d80e-4e3e-8efe-a8595b8bb770",
+      "startdate": "4/21/2019",
+      "communicationfrequency": " annual"
+    }
+  ],
+  "friends": "error: can't clone NilClass",
+  "assets": [
+    {
+      "guid": "c120371a-b548-417c-b8ff-3f8e2f0621f7",
+      "type": "flat",
+      "purchasedate": "1/21/2019",
+      "valuation": 47,
+      "mortgage": 80
+    },
+    {
+      "guid": "1a45c9c5-0db8-4bd7-b059-5bf3cd08762e",
+      "type": "ship",
+      "purchasedate": "3/27/2019",
+      "valuation": 12,
+      "mortgage": 5
+    },
+    {
+      "guid": "294b6c78-6449-48ca-ae94-8fb3d6169888",
+      "type": "flat",
+      "purchasedate": "1/14/2019",
+      "valuation": 36,
+      "mortgage": 32
+    },
+    {
+      "guid": "6362a310-cd74-4584-a820-cf2b97e0e250",
+      "type": "yatch",
+      "purchasedate": "4/12/2019",
+      "valuation": 59,
+      "mortgage": 20
+    },
+    {
+      "guid": "0a604ad1-9f4b-456d-9d4b-22426568bb6c",
+      "type": "flat",
+      "purchasedate": "12/28/2018",
+      "valuation": 78,
+      "mortgage": 87
+    },
+    {
+      "guid": "eda222d6-4431-42de-bddd-17aa8458be98",
+      "type": "flat",
+      "purchasedate": "11/20/2018",
+      "valuation": 75,
+      "mortgage": 100
+    },
+    {
+      "guid": "7fb4dcfd-94a1-4ca1-9fc1-67c731f49608",
+      "type": "flat",
+      "purchasedate": "8/25/2019",
+      "valuation": 47,
+      "mortgage": 99
+    }
+  ],
+  "insurance": [
+    {
+      "type": "commercial",
+      "policyid": "c2933093-39d4-46d3-bbec-43942e88410b",
+      "policytype": "life",
+      "policypremium": 51
+    }
+  ],
+  "appliance": [
+    {
+      "guid": "d8076429-81f4-4297-b2c9-54d6c31086d1",
+      "brand": "flat",
+      "name": "Gabtune",
+      "model": "Y-find",
+      "purchasedate": "1/25/2019",
+      "purchasevalue": 47,
+      "warrantyenddate": "6/6/2019",
+      "image": "http://dummyimage.com/161x149.bmp/5fa2dd/ffffff"
+    }
+  ],
+  "travels": [
+    {
+      "guid": "59ada676-cae3-4e4a-bcb2-e96ec2429df6",
+      "from": "Zarechnyy",
+      "to": "Ognevka",
+      "startdate": "12/18/2018",
+      "enddate": "5/19/2019",
+      "stay": [
+        {
+        },
+        {
+        },
+        {
+        }
+      ],
+      "stayid": 100,
+      "stayname": "Skinix",
+      "staytype": "flat",
+      "stayprice": 16,
+      "insurancepremium": 92,
+      "insuredamount": 75
+    },
+    {
+      "guid": "e06a3cbf-1826-4693-aeaa-0a476f8b401b",
+      "from": "Zarya",
+      "to": "Shīeli",
+      "startdate": "10/4/2018",
+      "enddate": "2/23/2019",
+      "stay": [
+        {
+        }
+      ],
+      "stayid": 63,
+      "stayname": "Mydo",
+      "staytype": "flat",
+      "stayprice": 63,
+      "insurancepremium": 70,
+      "insuredamount": 65
+    }
+  ],
+  "pyschographics": {
+    "opinions": [
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "attitudes": [
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "activities": [
+      {
+      },
+      {
+      }
+    ],
+    "interests": [
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "behaviors": [
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "values": [
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "beliefs": [
+      {
+      },
+      {
+      }
+    ],
+    "musicalchoice": [
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ]
+  },
+  "devicecookies": [
+    {
+      "cookieid": "d192bc76-3e5b-4eda-80a4-3cce62003ab7",
+      "timestamp": "2019-07-15",
+      "domain": "drupal.org",
+      "pagebrowsed": "https://photobucket.com/sem/sed/sagittis/nam/congue/risus/semper.html?eget=pulvinar&rutrum=sed&at=nisl&lorem=nunc&integer=rhoncus&tincidunt=dui&ante=vel&vel=sem&ipsum=sed&praesent=sagittis&blandit=nam&lacinia=congue&erat=risus&vestibulum=semper&sed=porta&magna=volutpat&at=quam&nunc=pede&commodo=lobortis&placerat=ligula&praesent=sit&blandit=amet&nam=eleifend&nulla=pede&integer=libero",
+      "query": "",
+      "referer": "",
+      "useragent": "",
+      "searchterm": "",
+      "language": "",
+      "os": "",
+      "browser": "",
+      "georegion": "",
+      "geocity": "",
+      "geopostalcode": "",
+      "geoLat": "",
+      "geoLong": "",
+      "geoSource": "",
+      "geoAccuracy": "",
+      "geoDMACode": "",
+      "geoNetSpeed": "",
+      "geoContinent": "",
+      "clientflashversion": "",
+      "hashedemail": "",
+      "pagelevelcategory": "",
+      "impressionserved": "",
+      "device": "",
+      "mobiledevicemodel": "",
+      "mobileandroidversion": ""
+    }
+  ],
+  "neighborhood": [
+    {
+      "socialboundaries": "",
+      "nearbyneighborhoods": "",
+      "zipcodes": "",
+      "physicalboundary": "",
+      "elementaryschool": [
+        {
+          "id": 1,
+          "name": "Mertz-Kovacek",
+          "ranking": 63
+        },
+        {
+          "id": 2,
+          "name": "Konopelski, Kemmer and Wiegand",
+          "ranking": 50
+        },
+        {
+          "id": 3,
+          "name": "Turner, Roberts and Langworth",
+          "ranking": 12
+        },
+        {
+          "id": 4,
+          "name": "Jakubowski, Walsh and Glover",
+          "ranking": 20
+        }
+      ],
+      "middleschool": [
+        {
+          "id": 93,
+          "name": 87,
+          "rank": 6
+        }
+      ],
+      "highschool": [
+        {
+          "id": 69,
+          "name": 60,
+          "rank": 7
+        }
+      ],
+      "colleges": [
+        {
+          "id": 87,
+          "name": 52,
+          "rank": 21
+        },
+        {
+          "id": 60,
+          "name": 51,
+          "rank": 25
+        },
+        {
+          "id": 71,
+          "name": 73,
+          "rank": 90
+        },
+        {
+          "id": 46,
+          "name": 59,
+          "rank": 15
+        },
+        {
+          "id": 8,
+          "name": 96,
+          "rank": 27
+        },
+        {
+          "id": 97,
+          "name": 17,
+          "rank": 16
+        },
+        {
+          "id": 43,
+          "name": 93,
+          "rank": 2
+        },
+        {
+          "id": 15,
+          "name": 82,
+          "rank": 12
+        },
+        {
+          "id": 53,
+          "name": 58,
+          "rank": 40
+        },
+        {
+          "id": 25,
+          "name": 54,
+          "rank": 48
+        }
+      ],
+      "universities": [
+        {
+          "id": 2,
+          "name": 54,
+          "rank": 19
+        },
+        {
+          "id": 83,
+          "name": 93,
+          "rank": 45
+        },
+        {
+          "id": 92,
+          "name": 49,
+          "rank": 49
+        }
+      ],
+      "populationdensity": 9,
+      "medianhouseholdincome": 91,
+      "avgprpprice": 19,
+      "medianrent": 57,
+      "medianageofmale_females": 99,
+      "avghouseholdfamilysize": 41,
+      "marriedcouplefamilies_percentage": 79,
+      "avg_no_of_cars_per_home": 38,
+      "avg_housing_price": 5,
+      "avg_mortgage": 66,
+      "distribution_by_occupation": 72,
+      "avg_salary": 51,
+      "avg_education_lvl": 90,
+      "K-12_students_in_pvt_schools": 72,
+      "languages_spoken": [
+        {
+          "id": 1,
+          "name": 1
+        }
+      ],
+      "percentage_below_national_povertylevel": 1,
+      "percentage_interstate_immigration": 1,
+      "percentage_intercountry_immigration": 1,
+      "crimescore": 1,
+      "avg_utilityexpense": 1,
+      "walkscore": 1,
+      "driving_violations": 1,
+      "armed_robberies": 1,
+      "unarmed_robberies": 1,
+      "rapes": 1,
+      "murders": 1,
+      "percentage_educated_policymakers": 1,
+      "cleanliness_score": 1,
+      "no_of_parks": 1
+    }
+  ]
+}]
